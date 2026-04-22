@@ -1,1 +1,81 @@
-# 778474510
+[Neutrino Cycle(1).pdf](https://github.com/user-attachments/files/26975525/Neutrino.Cycle.1.pdf)
+[A Theory Based on the Fundamental Attribute of Prim.pdf](https://github.com/user-attachments/files/26975516/A.Theory.Based.on.the.Fundamental.Attribute.of.Prim.pdf)
+[Chicken or egg;.pdf](https://github.com/user-attachments/files/26975510/Chicken.or.egg.pdf)
+[The Smallest Un-1.pdf](https://github.com/user-attachments/files/26975504/The.Smallest.Un-1.pdf)
+[Axial Force and (1).pdf](https://github.com/user-attachments/files/26975485/Axial.Force.and.1.pdf)
+[This paper pres (3).pdf](https://github.com/user-attachments/files/26975462/This.paper.pres.3.pdf)
+[Cosmic View of.pdf](https://github.com/user-attachments/files/26977511/Cosmic.View.of.pdf)
+[English Title(1).pdf](https://github.com/user-attachments/files/26977489/English.Title.1.pdf)
+[Multimodal AI I(1)(1)_已翻译.pdf](https://github.com/user-attachments/files/26977473/Multimodal.AI.I.1.1._.pdf)
+[ntelligent Mode.pdf](https://github.com/user-attachments/files/26977460/ntelligent.Mode.pdf)
+[Intelligent Mod.pdf](https://github.com/user-attachments/files/26977447/Intelligent.Mod.pdf)
+[AUnifiedTheoryo.pdf](https://github.com/user-attachments/files/26977429/AUnifiedTheoryo.pdf)
+[AUnifiedTheoryo.pdf](https://github.com/user-attachments/files/26977420/AUnifiedTheoryo.pdf)
+[Preprint.pdf](https://github.com/user-attachments/files/26977410/Preprint.pdf)
+[Preprint(2).pdf](https://github.com/user-attachments/files/26977393/Preprint.2.pdf)
+[Preprint(2).pdf](https://github.com/user-attachments/files/26977375/Preprint.2.pdf)
+[Preprint(1).pdf](https://github.com/user-attachments/files/26977354/Preprint.1.pdf)
+[This paper pres.pdf](https://github.com/user-attachments/files/26977346/This.paper.pres.pdf)
+[The Smallest Un.pdf](https://github.com/user-attachments/files/26977340/The.Smallest.Un.pdf)
+[Axial Force and.pdf](https://github.com/user-attachments/files/26977334/Axial.Force.and.pdf)
+
+
+[最终定稿 · Zenodo 正Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf](https://github.com/user-attachments/files/26977263/Zenodo.Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf)
+[Independent res.pdf](https://github.com/user-attachments/files/26977258/Independent.res.pdf)
+
+[Multimodal AI I(1)(1)_已翻译.pdf](https://github.com/user-attachments/files/26977241/Multimodal.AI.I.1.1._.pdf)
+[The Origin and.pdf](https://github.com/user-attachments/files/26977233/The.Origin.and.pdf)
+[On the Unified Law of Matter's Eternal Existence and Dispersion‑Aggregation Cycl.pdf](https://github.com/user-attachments/files/26977221/On.the.Unified.Law.of.Matter.s.Eternal.Existence.and.Dispersion.Aggregation.Cycl.pdf)
+
+[Universe Operat.pdf](https://github.com/user-attachments/files/26977202/Universe.Operat.pdf)
+[On the Era of D.pdf](https://github.com/user-attachments/files/26977192/On.the.Era.of.D.pdf)
+[The Origin and.pdf](https://github.com/user-attachments/files/26977186/The.Origin.and.pdf)
+[The Origin of Particle Mass and the Logical Limit of Measurement.pdf](https://github.com/user-attachments/files/26977178/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)
+[标题（极简正式版）.pdf](https://github.com/user-attachments/files/26977164/default.pdf)
+
+[This paper pres.pdf](https://github.com/user-attachments/files/26977145/This.paper.pres.pdf)
+
+
+
+[Multimodal AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)
+[ACrossScaleUnif.pdf](https://github.com/user-attachments/files/26977094/ACrossScaleUnif.pdf)
+[114_11_80228_1776670911_Web of Science Academy - certificates.pdf](https://github.com/user-attachments/files/26977082/114_11_80228_1776670911_Web.of.Science.Academy.-.certificates.pdf)
+
+
+[dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420(1).pdf](https://github.com/user-attachments/files/26977032/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.1.pdf)
+[114_11_80228_1776670911_Web of Science Academy - certificates (2).pdf](https://github.com/user-attachments/files/26977006/114_11_80228_1776670911_Web.of.Science.Academy.-.certificates.2.pdf)
+[158_11_80228_1776689994_Web of Science Academy - certificates.pdf](https://github.com/user-attachments/files/26976974/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.pdf)
+[Preprint(2).pdf](https://github.com/user-attachments/files/26976962/Preprint.2.pdf)
+
+[The Smallest Un.pdf](https://github.com/user-attachments/files/26976911/The.Smallest.Un.pdf)
+
+[Axial Force and.pdf](https://github.com/user-attachments/files/26976823/Axial.Force.and.pdf)
+
+
+[Multi-Dimension.pdf](https://github.com/user-attachments/files/26976798/Multi-Dimension.pdf)
+[Multi-Dimension (1).pdf](https://github.com/user-attachments/files/26976791/Multi-Dimension.1.pdf)
+
+[Gmail - A Comment Has Been Added to SSRN Abstract ID 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)
+[English Title(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)
+[Intelligent Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)
+[AUnifiedTheoryo.pdf](https://github.com/user-attachments/files/26976691/AUnifiedTheoryo.pdf)
+[Preprint.pdf](https://github.com/user-attachments/files/26976684/Preprint.pdf)
+[158_11_80228_1776689994_Web of Science Academy - certificates (4).pdf](https://github.com/user-attachments/files/26976657/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.4.pdf)
+[dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.pdf](https://github.com/user-attachments/files/26976635/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.pdf)
+[ntelligent Mode.pdf](https://github.com/user-attachments/files/26975799/ntelligent.Mode.pdf)
+[dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260403 (1).pdf](https://github.com/user-attachments/files/26975785/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260403.1.pdf)
+[Gmail - Important Update to GitHub Copilot Interaction Data Usage Policy.PDF](https://github.com/user-attachments/files/26975773/Gmail.-.Important.Update.to.GitHub.Copilot.Interaction.Data.Usage.Policy.PDF)
+[Unified Basic S_纯图版.pdf](https://github.com/user-attachments/files/26975688/Unified.Basic.S_.pdf)
+[A Theory of Cos.pdf](https://github.com/user-attachments/files/26975679/A.Theory.of.Cos.pdf)
+[Curation of Other People's Profiles Overview (1).pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)
+[Intelligent Modern Medical Theory（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)
+[The Origin of Particle Mass and the Logical Limit of Measurement.pdf](https://github.com/user-attachments/files/26975637/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)
+[英文.pdf](https://github.com/user-attachments/files/26975626/default.pdf)
+[Permanent Magne.pdf](https://github.com/user-attachments/files/26975619/Permanent.Magne.pdf)
+[Principle and F.pdf](https://github.com/user-attachments/files/26975610/Principle.and.F.pdf)
+[版本1（侧重理论+实践）.pdf](https://github.com/user-attachments/files/26975602/1.%2B.pdf)
+[Research on the.pdf](https://github.com/user-attachments/files/26975597/Research.on.the.pdf)
+[Design and Key.pdf](https://github.com/user-attachments/files/26975585/Design.and.Key.pdf)
+[The Origin and.pdf](https://github.com/user-attachments/files/26975572/The.Origin.and.pdf)
+[https_open-sc.pdf](https://github.com/user-attachments/files/26975564/https_open-sc.pdf)
+[Unified Basic S-1.pdf](https://github.com/user-attachments/files/26975560/Unified.Basic.S-1.pdf)
