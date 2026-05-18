@@ -1,3 +1,5 @@
+[基于冯德建公式的微观-宏观物理.pdf](https://github.com/user-attachments/files/27967014/-.pdf)
+[基于宇宙物质能量守恒的生物生命(1).pdf](https://github.com/user-attachments/files/27966966/1.pdf)
 [脱虚向实：全球经济回归实体研发.pdf](https://github.com/user-attachments/files/27966522/default.pdf)上传 脱虚向实：全球经济回归实体研发.pdf…]()
 [From Speculatio.pdf来自Speculatio.pdf](https://github.com/user-attachments/files/27966441/From.Speculatio.pdf)正在从Speculatio.pdf上传…]()
 [Title, Abstract(1).pdf标题，摘要(1).pdf](https://github.com/user-attachments/files/27966398/Title.Abstract.1.pdf)正在上传标题、摘要(1).pdf…]()
