@@ -44,7 +44,7 @@ mypy==1.7.1
 pre-commit==3.5.0
 
 # 环境管理
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 
 # LaTeX
 latexcodec==2.0
