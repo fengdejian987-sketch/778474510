@@ -1,3 +1,4 @@
+[ 冯德建公式系统 V3.0.docx](https://github.com/user-attachments/files/28617044/V3.0.docx)正在上传 冯德建公式系统 V3.0.docx…]()
 [1780345053766.docx](https://github.com/user-attachments/files/28599029/1780345053766.docx)
 [一、 核心架构：AI Agent 驱动的“认知型”抓取网络.docx](https://github.com/user-attachments/files/28599024/AI.Agent.docx)
 [四维空间扫描模块（工业适配版）.docx](https://github.com/user-attachments/files/28599020/default.docx)
@@ -8,9 +9,9 @@
 
 
 
-[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)
-[Reconstruction.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)
-[Reconstruction(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)
+[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)
+[Reconstruction.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)
+[Reconstruction(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)
 
 [几何数学模块极简初级版代码框架.docx](https://github.com/user-attachments/files/28598930/default.docx)
 
