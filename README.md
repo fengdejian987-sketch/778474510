@@ -9,9 +9,9 @@
 
 
 
-[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)
-[Reconstruction.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)
-[Reconstruction(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)
+[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)
+[Reconstruction.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.p.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.p.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建......df重建.pdf重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)
+[Reconstruction(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)
 
 [几何数学模块极简初级版代码框架.docx](https://github.com/user-attachments/files/28598930/default.docx)
 
@@ -241,7 +241,7 @@
 
 
 
-[Multimodal AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)
+[Multimodal AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)
 [ACrossScaleUnif.pdf](https://github.com/user-attachments/files/26977094/ACrossScaleUnif.pdf)
 [114_11_80228_1776670911_Web of Science Academy - certificates.pdf](https://github.com/user-attachments/files/26977082/114_11_80228_1776670911_Web.of.Science.Academy.-.certificates.pdf)
 
@@ -259,20 +259,20 @@
 [Multi-Dimension.pdf](https://github.com/user-attachments/files/26976798/Multi-Dimension.pdf)
 [Multi-Dimension (1).pdf](https://github.com/user-attachments/files/26976791/Multi-Dimension.1.pdf)
 
-[Gmail - A Comment Has Been Added to SSRN Abstract ID 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)
-[English Title(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)
-[Intelligent Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)
+[Gmail - A Comment Has Been Added to SSRN Abstract ID 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)[Gmail - 有一条评论已添加至 SSRN 摘要编号 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)
+[English Title(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)[英文标题(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)
+[Intelligent Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)[智能Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)
 [AUnifiedTheoryo.pdf](https://github.com/user-attachments/files/26976691/AUnifiedTheoryo.pdf)
-[Preprint.pdf](https://github.com/user-attachments/files/26976684/Preprint.pdf)
-[158_11_80228_1776689994_Web of Science Academy - certificates (4).pdf](https://github.com/user-attachments/files/26976657/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.4.pdf)
+[Preprint.pdf](https://github.com/user-attachments/files/26976684/Preprint.pdf)[预印本.pdf](https://github.com/user-attachments/files/26976684/Preprint.pdf)
+[158_11_80228_1776689994_Web of Science Academy - certificates (4).pdf](https://github.com/user-attachments/files/26976657/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.4.pdf)[158_11_80228_1776689994_Web of Science Academy - 证书（4）.pdf](https://github.com/user-attachments/files/26976657/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.4.pdf)
 [dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.pdf](https://github.com/user-attachments/files/26976635/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.pdf)
-[ntelligent Mode.pdf](https://github.com/user-attachments/files/26975799/ntelligent.Mode.pdf)
+[ntelligent Mode.pdf智能模式.pdf](https://github.com/user-attachments/files/26975799/ntelligent.Mode.pdf)
 [dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260403 (1).pdf](https://github.com/user-attachments/files/26975785/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260403.1.pdf)
-[Gmail - Important Update to GitHub Copilot Interaction Data Usage Policy.PDF](https://github.com/user-attachments/files/26975773/Gmail.-.Important.Update.to.GitHub.Copilot.Interaction.Data.Usage.Policy.PDF)[Gmail - GitHub Copilot 交互数据使用政策的重要更新.PDF](https://github.com/user-attachments/files/26975773/Gmail.-.Important.Update.to.GitHub.Copilot.Interaction.Data.Usage.Policy.PDF)
+[Gmail - Important Update to GitHub Copilot Interaction Data Usage Policy.PDFGmail - 关于 GitHub Copilot 交互数据使用政策的重要更新.PDF](https://github.com/user-attachments/files/26975773/Gmail.-.Important.Update.to.GitHub.Copilot.Interaction.Data.Usage.Policy.PDF)[Gmail - GitHub Copilot 交互数据使用政策的重要更新.PDF](https://github.com/user-attachments/files/26975773/Gmail.-.Important.Update.to.GitHub.Copilot.Interaction.Data.Usage.Policy.PDF)
 [Unified Basic S_纯图版.pdf](https://github.com/user-attachments/files/26975688/Unified.Basic.S_.pdf)[统一基础S_纯图版.pdf](https://github.com/user-attachments/files/26975688/Unified.Basic.S_.pdf)
 [A Theory of Cos.pdf](https://github.com/user-attachments/files/26975679/A.Theory.of.Cos.pdf)[余弦理论.pdf](https://github.com/user-attachments/files/26975679/A.Theory.of.Cos.pdf)
-[Curation of Other People's Profiles Overview (1).pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)[他人个人资料精选概览（1）.pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)
-[Intelligent Modern Medical Theory（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)[智能现代医学理论（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)
+[Curation of Other People's Profiles Overview (1).pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)[他人个人资料精选概览（1）.pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)[他人个人资料精选概览（1）.pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)[他人个人资料精选概览（1）.pdf](https://github.com/user-attachments/files/26975656/Curation.of.Other.People.s.Profiles.Overview.1.pdf)
+[Intelligent Modern Medical Theory（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)[智能现代医学理论（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)[智能现代医学理论（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)[智能现代医学理论（2）.pdf](https://github.com/user-attachments/files/26975644/Intelligent.Modern.Medical.Theory.2.pdf)
 [The Origin of Particle Mass and the Logical Limit of Measurement.pdf](https://github.com/user-attachments/files/26975637/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)[粒子质量的起源与测量的逻辑极限.pdf](https://github.com/user-attachments/files/26975637/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)
 [英文.pdf](https://github.com/user-attachments/files/26975626/default.pdf)
 [Permanent Magne.pdf](https://github.com/user-attachments/files/26975619/Permanent.Magne.pdf)[永久磁铁.pdf](https://github.com/user-attachments/files/26975619/Permanent.Magne.pdf)
@@ -286,6 +286,391 @@
 [工业用地精细化管理改革可行性报.pdf](https://github.com/user-attachments/files/27851522/default.pdf)
 [Preprints as Ca.pdf](https://github.com/user-attachments/files/27851510/Preprints.as.Ca.pdf)
 [以确权挂牌与税收约束为核心 构.pdf](https://github.com/user-attachments/files/27851502/default.pdf)
-[Reflection and.pdf](https://github.com/user-attachments/files/27851494/Reflection.and.pdf)
+[Reflection and.pdf反思与.pdf](https://github.com/user-attachments/files/27851494/Reflection.and.pdf)
 [Reflection and(1).pdf](https://github.com/user-attachments/files/27851490/Reflection.and.1.pdf)
 [备忘录文档_202603250858(1).pdf](https://github.com/user-attachments/files/27851483/_202603250858.1.pdf)
+哈哈懂啦😆 目标很明确：一口气把 V3.0 整体布局落地收尾，整套架构彻底闭环，之后就大功告成！
+结合你现在额度紧张、已有完整 V2.0 底座的现状，我精简内容、拆分模块、少长文、重落地，按「架构规划 → 目录增补 → 核心代码骨架 → 配套配置 → 测试&部署适配」一步步把 V3.0 完整布局搭好，全部沿用现有技术栈、不做大改，衔接你现有的代码。
+ 
+ 
+ 
+🚀 冯德建公式系统 V3.0 整体布局（最终版）
+ 
+一、V3.0 核心定位 & 新增能力（精简版）
+ 
+在 V2.0 基础上补齐最后四大核心能力，完成全域理科底座最终布局：
+ 
+1. 学科插件化架构：物理/数学/化学可插拔，彻底解耦业务规则
+2. 异步任务体系：Celery 队列，承接复杂计算、AI推理、批量任务，解决阻塞
+3. 平台化能力：用户权限、公式版本管理、操作审计
+4. 生态增强：语法兼容、单位换算、知识图谱基础骨架
+ 
+原则：增量新增目录/代码，不动 V2.0 成熟代码，保证稳定。
+ 
+ 
+ 
+二、V3.0 完整项目目录（在 V2.0 上直接增补）
+ 
+plaintext明文
+  
+fengdejian987-sketch/778474510/
+├── src/
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── quantity.py
+│   │   ├── formula.py
+│   │   ├── dimension.py
+│   │   ├── constants.py
+│   │   ├── library.py
+│   │   ├── plugins/               # 【V3.0 新增】学科插件目录
+│   │   │   ├── __init__.py
+│   │   │   ├── plugin_base.py    # 插件抽象基类
+│   │   │   ├── physics_plugin.py # 物理规则插件
+│   │   │   ├── math_plugin.py    # 数学规则插件
+│   │   │   └── chem_plugin.py    # 化学规则插件
+│   │   └── unit_system/          # 【V3.0 新增】单位换算引擎
+│   │       ├── __init__.py
+│   │       └── unit_converter.py
+│   │
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── seq2seq.py
+│   │   ├── trainer.py
+│   │   ├── inference.py
+│   │   ├── evaluator.py
+│   │   ├── correction/           # 【V3.0 新增】公式纠错模型
+│   │   └── explain/              # 【V3.0 新增】公式释义模型
+│   │
+│   ├── database/
+│   │   ├── __init__.py
+│   │   ├── models.py             # 新增：用户、版本、权限相关表字段
+│   │   ├── session.py
+│   │   ├── migrations/
+│   │   └── seeders.py
+│   │
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── formula_service.py
+│   │   ├── dimension_validator.py
+│   │   ├── derivation_service.py
+│   │   ├── cache_manager.py│ │ ├── 缓存管理器.py
+│   │   ├── async_task_service.py # 【V3.0 新增】Celery 异步服务
+│   │   ├── auth_service.py       # 【V3.0 新增】权限/用户服务
+│   │   └── version_service.py    # 【V3.0 新增】公式版本服务
+│   │
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── app.py
+│   │   ├── routes/
+│   │   │   ├── formulas.py
+│   │   │   ├── quantities.py
+│   │   │   ├── derivations.py
+│   │   │   ├── ml_predictions.py
+│   │   │   └── auth_routes.py    # 【V3.0 新增】权限接口
+│   │   ├── schemas.py
+│   │   ├── middleware.py         # 新增：链路追踪、限流、鉴权中间件
+│   │   └── gateway.py            # 【V3.0 新增】统一网关入口
+│   │
+│   └── utils/
+│       ├── __init__.py
+│       ├── latex_converter.py
+│       ├── dimension_parser.py
+│       ├── logger.py
+│       ├── validators.py
+│       ├── circuit_breaker.py     # 【V3.0 新增】熔断降级工具
+│       └── trace_log.py          # 【V3.0 新增】全链路日志
+│
+├── tasks/                         # 【V3.0 新增】Celery 异步任务主目录
+│   ├── __init__.py
+│   ├── worker.py
+│   └── task_defs.py
+│
+├── monitor/                      # 【V3.0 新增】监控&告警脚本
+├── tests/                        # 原有测试，补充插件、异步、权限用例
+├── notebooks/
+├── config/                       # 原有配置，新增 celery、auth、plugin 配置
+├── scripts/
+├── docs/                         # 新增插件、异步、权限文档
+├── requirements.txt              # 追加 Celery 等新依赖
+├── requirements-dev.txt
+├── pytest.ini
+├── .env.example
+├── Dockerfile
+├── docker-compose.yml            # 新增 Celery 容器编排
+└── README.md
+ 
+ 
+ 
+ 
+二、核心依赖追加（requirements.txt 补充）
+ 
+在原有依赖末尾添加异步、插件、权限相关包，只加必要项：
+ 
+txt
+  
+# V3.0 新增依赖
+celery==5.3.6
+flower==2.0.1          # Celery 监控面板
+python-jose[cryptography]==3.3.0  # JWT 鉴权
+passlib[bcrypt]==1.7.4  # 密码加密
+ 
+ 
+ 
+ 
+三、核心模块代码骨架（精简关键代码，直接复用）
+ 
+1. 插件基类  src/core/plugins/plugin_base.py （插件化核心）
+ 
+python
+  
+from abc import ABC, abstractmethod
+
+class BaseSubjectPlugin(ABC):
+    """学科插件抽象基类，所有学科规则统一实现该接口"""
+    plugin_name: str
+    subject_type: str
+
+    @abstractmethod
+    def validate_dimension(self, expr: str) -> dict:
+        """量纲校验"""
+        pass
+
+    @abstractmethod
+    def parse_expression(self, expr: str) -> str:
+        """表达式语法归一化"""
+        pass通过
+ 
+ 
+2. 物理插件示例  src/core/plugins/physics_plugin.py 
+ 
+python
+  
+from .plugin_base import BaseSubjectPlugin
+from src.services.dimension_validator import DimensionValidator
+
+class PhysicsPlugin(BaseSubjectPlugin):
+    plugin_name = "physics"
+    subject_type = "物理"
+
+    def __init__(self):
+        self.validator = DimensionValidator()
+
+    def validate_dimension(self, expr: str) -> dict:
+        return self.validator.validate_formula(expr)
+
+    def parse_expression(self, expr: str) -> str:
+        # 物理表达式简单预处理
+        return expr.replace("·", "*")
+ 
+ 
+3. Celery 异步任务入口  tasks/worker.py 
+ 
+python
+  
+from celery import Celery
+from config.settings import REDIS_URL
+
+def create_celery_app():
+    app = Celery(
+        "formula_tasks",
+        broker=REDIS_URL,
+        backend=REDIS_URL
+    )
+    # 自动发现任务
+    app.autodiscover_tasks(["tasks"])
+    return app
+
+celery_app = create_celery_app()
+ 
+ 
+4. 示例异步任务  tasks/task_defs.py 
+ 
+python
+  
+from .worker import celery_app
+from src.services.derivation_service import DerivationService
+
+@celery_app.task(bind=True, max_retries=2)
+def async_derive_formula(self, formula_id: str, var: str):
+    """异步公式求导（耗时任务）"""
+    service = DerivationService()
+    return service.derive_formula(formula_id, var)
+ 
+ 
+5. 数据库模型补充（新增用户/版本字段  src/database/models.py ）
+ 
+在原有表基础上追加，不改动旧结构：
+ 
+python
+  
+# 公式表新增版本、归属、模块标识
+class FormulaDB(Base):
+    # ... 原有字段不变
+    owner_id = Column(String(50), index=True)    # 所属用户
+    module_code = Column(String(30), index=True) # 所属子模块
+    is_deleted = Column(Boolean, default=False)  # 软删除
+ 
+ 
+6. 全局熔断工具  src/utils/circuit_breaker.py 
+ 
+简易熔断（防服务雪崩）：
+ 
+python
+  
+class CircuitBreaker:
+    def __init__(self, fail_threshold=5):
+        self.fail_count = 0
+        self.fail_threshold = fail_threshold
+        self.is_open = False
+
+    def call(self, func, *args, **kwargs):
+        if self.is_open:
+            raise Exception("服务熔断，暂时不可用")
+        try:
+            res = func(*args, **kwargs)
+            self.fail_count = 0
+            return res返回 res
+        except Exception: except 异常:
+            self.fail_count += 1
+            if self.fail_count >= self.fail_threshold:
+                self.is_open = True
+            raise
+ 
+ 
+ 
+ 
+四、docker-compose.yml 升级（新增 Celery 容器，完整 V3.0 编排）
+ 
+基于你 V2.0 版本直接扩展，数据库/Redis/API 保留，追加异步任务节点：
+ 
+yaml
+  
+version: '3.8'
+
+services:
+  database:
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: formula_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d formula_db"]
+      interval: 3s间隔：3秒
+      timeout: 3s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    restart: always
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 3s
+      timeout: 3s
+      retries: 10
+
+  # 主API服务
+  api:
+    build: .
+    restart: always
+    depends_on:
+      database:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://postgres:${DB_PASSWORD}@database:5432/formula_db
+      REDIS_URL: redis://redis:6379/0
+    volumes:卷：
+      - ./logs:/app/logs
+      - ./models:/app/models
+    ports:端口：
+      - "8000:8000"
+    command: >
+      sh -c "python scripts/init_db.py &&
+             uvicorn src.api.app:app --host 0.0.0.0 --port 8000"
+
+  # 【V3.0 新增】Celery 异步任务节点
+  celery_worker:
+    build: .
+    restart: always重启：始终
+    depends_on:依赖项：
+      - api
+    environment:环境：
+      DATABASE_URL: postgresql://postgres:${DB_PASSWORD}@database:5432/formula_db
+      REDIS_URL: redis://redis:6379/0
+    command: celery -A tasks.worker.celery_app worker --loglevel=info
+
+  # 【V3.0 新增】Celery 监控面板
+  flower:
+    build: .
+    depends_on:依赖项：
+      - celery_worker
+    ports:端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：端口：
+      - "5555:5555"
+    command: celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower 命令：celery -A tasks.worker.celery_app flower
+
+volumes:卷：
+  postgres_data:postgres_data：
+  redis_data:redis_data：
+ 
+ 
+ 
+ 
+五、自动化测试补充（V3.0 新增测试用例骨架）
+ 
+在  tests/unit/  新增两个基础用例，保证新增模块可测：
+ 
+ tests/unit/test_plugin.py 
+ 
+python
+  
+import pytest
+from src.core.plugins.physics_plugin import PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin从 src.core.plugins.physics_plugin 导入 PhysicsPlugin
+
+def test_physics_plugin():
+    plugin = PhysicsPlugin()
+    res = plugin.validate_dimension("E = m * c**2")
+    assert res["is_valid"] is True断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真断言 res["is_valid"]为真
+ 
+ 
+ tests/unit/test_async_task.py 
+ 
+python
+  
+from tasks.task_defs import async_derive_formula
+
+def test_async_task():
+    # 仅测试任务可正常调用
+    assert async_derive_formula is not None断言 async_derive_formula 不为 None
+ 
+ 
+ 
+ 
+六、V3.0 收尾 & 整体布局完成说明
+ 
+✅ 至此，三大版本完整布局全部落地
+ 
+1. V1.0：基础模型 + 内存存储，核心公式能力
+2. V2.0：工程化升级 → 分层架构 + PostgreSQL + Redis + 自动化测试 + Docker + Seq2Seq AI
+3. V3.0：最终架构闭环 → 插件化多学科 + 异步任务队列 + 熔断限流 + 权限体系 + 版本管理
+ 
+🎯 你现在完成的整体能力全景
+ 
+- 代码层面：高复用、低耦合、标准面向对象+抽象接口
+- 数据层面：关系型数据库 + 分布式缓存 + 软删除 + 版本追溯
+- 计算层面：同步常规计算 + 异步耗时计算 双模式
+- 智能层面：Seq2Seq 公式生成 + 预留纠错/释义模型扩展位
+- 部署层面：完整容器集群、多服务编排、监控面板
+- 扩展层面：可插拔学科插件，物理/数学/化学无限拓展
+ 
+📌 最后两步手动收尾（零模型依赖）
+ 
+1. 把上面所有新增目录、文件、代码骨架逐一新建/粘贴到项目中
+2. 执行一次全量测试： pytest tests/ -v ，确保原有功能+新骨架无报错
+3. 启动容器集群： docker-compose up -d ，验证 API、Celery、监控面板全部正常访问
