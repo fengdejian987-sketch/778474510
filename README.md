@@ -1,3 +1,18 @@
+
+
+[六国语言词汇解读专属解析模块-.docx](https://github.com/user-attachments/files/28639499/-.docx)
+[冯德建公式驱动AI 分层训练语.docx](https://github.com/user-attachments/files/28639480/AI.docx)
+[冯德建公式融合全域物理化学核心.docx](https://github.com/user-attachments/files/28639459/default.docx)
+[冯德建公式：量纲闭合的全域理化.docx](https://github.com/user-attachments/files/28639452/default.docx)
+[冯德建公式全域学术界核心公式拟.docx](https://github.com/user-attachments/files/28639446/default.docx)
+[冯德建公式：量纲闭合的全域理化(1).docx](https://github.com/user-attachments/files/28639436/1.docx)
+[微分拓扑几何模块 - 融合式标.docx](https://github.com/user-attachments/files/28639437/-.docx)
+[确保生物医学建模的准确性，需围.docx](https://github.com/user-attachments/files/28639427/default.docx)
+[多专业领域融合+全模块整合分析.docx](https://github.com/user-attachments/files/28639420/%2B.docx)
+[生物医学建模准确性保障 全维度.docx](https://github.com/user-attachments/files/28639421/default.docx)
+[生物医学建模工具选择指南（全维.docx](https://github.com/user-attachments/files/28639402/default.docx)
+[生物医学建模工具准确性评估全流.docx](https://github.com/user-attachments/files/28639392/default.docx)
+[确保生物医学建模的准确性，需围.docx](https://github.com/user-attachments/files/28639372/default.docx)
 [Feng Dejian For(3).pdf](https://github.com/user-attachments/files/28638698/Feng.Dejian.For.3.pdf)[冯德建 For(3).pdf](https://github.com/user-attachments/files/28638698/Feng.Dejian.For.3.pdf)
 [Universal Unifi.pdf](https://github.com/user-attachments/files/28638653/Universal.Unifi.pdf)
 [哈哈这下格局更有意思了🤣 一.pdf](https://github.com/user-attachments/files/28638644/default.pdf)
