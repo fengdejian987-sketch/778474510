@@ -1,0 +1,47 @@
+# This workflow uses actions that are not certified by GitHub.# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。
+# They are provided by a third-party and are governed by# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受
+# separate terms of service, privacy policy, and support# 独立的服务条款、隐私政策及支持政策约束
+# documentation.# 文档。# 文档。# 文档。# 文档。
+#
+# Microsoft Security DevOps (MSDO) is a command line application which integrates static analysis tools into the development cycle.# Microsoft Security DevOps（MSDO）是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps (MSDO) 是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps（MSDO）是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps (MSDO) 是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps（MSDO）是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps (MSDO) 是一款将静态分析工具集成到开发生命周期中的命令行应用程序。# Microsoft Security DevOps（MSDO）是一款将静态分析工具集成到开发生命周期中的命令行应用程序。
+# MSDO installs, configures and runs the latest versions of static analysis tools# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具# MSDO 会安装、配置并运行最新版本的静态分析工具
+# (including, but not limited to, SDL/security and compliance tools).#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。# (包括但不限于SDL/安全与合规工具)。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。#（包括但不限于SDL/安全与合规工具）。
+#
+# The Microsoft Security DevOps action is currently in beta and runs on the windows-latest queue,
+# as well as Windows self hosted agents. ubuntu-latest support coming soon.
+#
+# For more information about the action , check out https://github.com/microsoft/security-devops-action
+#
+# Please note this workflow do not integrate your GitHub Org with Microsoft Defender For DevOps. You have to create an integration
+# and provide permission before this can report data back to azure.
+# Read the official documentation here : https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-github
+
+name: "Microsoft Defender For Devops"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '34 13 * * 3'
+
+jobs:
+  MSDO:
+    # currently only windows latest is supported
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: |
+          5.0.x
+          6.0.x
+    - name: Run Microsoft Security DevOps
+      uses: microsoft/security-devops-action@v1.6.0
+      id: msdo
+    - name: Upload results to Security tab
+      uses: github/codeql-action/upload-sarif@v3
+      with:
+        sarif_file: ${{ steps.msdo.outputs.sarifFile }}
