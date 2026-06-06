@@ -3,7 +3,7 @@
 [A.docx](https://github.com/user-attachments/files/28647745/A.docx)
 [A1.docx](https://github.com/user-attachments/files/28647743/A1.docx)
 [全球.docx](https://github.com/user-attachments/files/28647277/default.docx)
-[Feng Dejian For(4).docx](https://github.com/user-attachments/files/28645890/Feng.Dejian.For.4.docx)
+[Feng Dejian For(4).docx](https://github.com/user-attachments/files/28645890/Feng.Dejian.For.4.docx)[冯德建 For(4).docx](https://github.com/user-attachments/files/28645890/Feng.Dejian.For.4.docx)[冯德建 For(4).docx](https://github.com/user-attachments/files/28645890/Feng.Dejian.For.4.docx)[冯德建 For(4).docx](https://github.com/user-attachments/files/28645890/Feng.Dejian.For.4.docx)
 [C1.pdf](https://github.com/user-attachments/files/28645873/C1.pdf)
 [C2.pdf](https://github.com/user-attachments/files/28645866/C2.pdf)
 [C3.pdf](https://github.com/user-attachments/files/28645857/C3.pdf)
@@ -36,7 +36,7 @@
 [H3.pdf](https://github.com/user-attachments/files/28645637/H3.pdf)
 [H4.pdf](https://github.com/user-attachments/files/28645634/H4.pdf)
 [H5.pdf](https://github.com/user-attachments/files/28645632/H5.pdf)
-[H6.pdf](https://github.com/user-attachments/files/28645630/H6.pdf)
+[H6.pdf](https://github.com/user-attachments/files/28645630/H6.pdf)[H6.pdf](https://github.com/user-attachments/files/28645630/H6.pdf)
 [H7.pdf](https://github.com/user-attachments/files/28645628/H7.pdf)
 [H8.pdf](https://github.com/user-attachments/files/28645627/H8.pdf)
 [H9.pdf](https://github.com/user-attachments/files/28645622/H9.pdf)
@@ -64,6 +64,24 @@
 
 [基于物质聚散转化的宇宙与生命底.docx](https://github.com/user-attachments/files/28642731/default.docx)
 [基于物质聚散转化的宇宙与生命底(1).docx](https://github.com/user-attachments/files/28642722/1.docx)
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v6
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
 
 [基于轴向力与光驱动力源拟合原理(1).docx](https://github.com/user-attachments/files/28642707/1.docx)
 [几何数学模块极简初级版代码框架.docx](https://github.com/user-attachments/files/28642703/default.docx)
@@ -87,7 +105,7 @@
 [四维空间扫描模块（工业适配版）.docx](https://github.com/user-attachments/files/28642511/default.docx)
 [微分拓扑几何模块 - 融合式标.docx](https://github.com/user-attachments/files/28642505/-.docx)
 [小AI第三版8模块迭代清单（适.docx](https://github.com/user-attachments/files/28642504/AI.8.docx)
-[小AI第三版8模块迭代优先级执.docx](https://github.com/user-attachments/files/28642494/AI.8.docx)
+[小AI第三版8模块迭代优先级执.docx](https://github.com/user-attachments/files/28642494/AI.8.docx)[小AI第三版8模块迭代优先级执.docx](https://github.com/user-attachments/files/28642494/AI.8.docx)
 [一、 核心架构：AI Agen.docx](https://github.com/user-attachments/files/28642489/AI.Agen.docx)
 [张量几何计算模块 - 公式融合.docx](https://github.com/user-attachments/files/28642487/-.docx)
 [这份优化调整方案将基于你现有的.docx](https://github.com/user-attachments/files/28642469/default.docx)
