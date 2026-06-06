@@ -1,23 +1,41 @@
-version: '3.8'
+name名称名称: GitHub Actions DemoGitHub Actions 演示GitHub Actions 演示
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀运行名称: ${{github.actor}}正在试用 GitHub Actions 
+on: [push]
+jobs:工作jobs：工作:
+  Explore-GitHub-Actions:探索-GitHub-Actions探索-GitHub-Actions：探索-GitHub-Actions:
+    runs-on: ubuntu-latest运行于: ubuntu-latest
+    steps:步骤步骤：步骤步骤：步骤步骤：步骤步骤：步骤步骤：步骤步骤：步骤步骤：步骤:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."      - run: echo" 该作业是由 ${{ github.event_name }} 事件自动触发的。"
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"" 该作业正在由 GitHub 托管的 ${{ runner.os }} 服务器上运行！"      - run: echo" 该作业正在由 GitHub 托管的 ${{ runner.os }} 服务器上运行！"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."      - 运行: echo" 您的分支名称是 ${{ github.ref }}，您的仓库是 ${{ github.repository }}。"
+      - name: Check out repository code      - name: 查看仓库代码 - 名称: 检出仓库代码
+        uses使用: actions/checkout@v6
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."      - run: echo" 已将 ${{ github.repository }} 仓库克隆到运行器上。"-run:echo" 已将 ${{ github.repository }} 仓库克隆到运行器上。"
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."      - 运行: echo"️ 工作流现已准备好在运行器上测试您的代码。"
+      - name: List files in the repository
+        run: |运行: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+version: '3.8'版本: '3.8'
 
-services:
+services:服务:
   # PostgreSQL 数据库
-  database:
-    image: postgres:15-alpine
-    container_name: formula_db
-    environment:
+  database:数据库数据库：数据库数据库：数据库数据库：数据库数据库：数据库数据库：数据库数据库：数据库数据库：数据库:
+    image: postgres:15-alpine镜像: postgres:15-alpine
+    container_name: formula_db容器名称: formula_db
+    environment:环境环境环境：环境环境:
       POSTGRES_USER: ${DB_USER:-postgres}
       POSTGRES_PASSWORD: ${DB_PASSWORD:-password}
       POSTGRES_DB: ${DB_NAME:-formula_db}
-    volumes:
+    volumes:卷:卷:卷:卷:卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷卷：卷：卷：卷：卷：卷:
       - postgres_data:/var/lib/postgresql/data
-    ports:
+    ports:端口端口:端口端口:端口端口:
       - "${DB_PORT:-5432}:5432"
-    healthcheck:
+    healthcheck:健康检查健康检查:健康检查健康检查:健康检查:
       test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres}"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
+      interval: 10s间隔: 10秒间隔: 10秒
+      timeout: 超时: 5s5秒
+      retries: 5重试次数: 5
     networks:
       - formula_network
 
@@ -29,11 +47,11 @@ services:
       - redis_data:/data
     ports:
       - "${REDIS_PORT:-6379}:6379"
-    healthcheck:
+    healthcheck:健康检查健康检查:
       test: ["CMD", "redis-cli", "ping"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
+      interval: 10s间隔: 10秒
+      timeout: 5s超时: 5秒
+      retries: 5重试次数: 5
     networks:
       - formula_network
 
