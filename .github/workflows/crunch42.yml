@@ -1,0 +1,58 @@
+# This workflow uses actions that are not certified by GitHub.# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。# 此工作流使用了未经 GitHub 认证的操作。
+# They are provided by a third-party and are governed by# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受
+# separate terms of service, privacy policy, and support# 独立的服务条款、隐私政策及支持政策约束
+# documentation.# 文档。# 文档。# 文档。# 文档。
+
+# This workflow locates REST API file contracts (Swagger or OpenAPI format, v2 and v3, JSON and YAML)# 该工作流用于定位 REST API 文件契约（Swagger 或 OpenAPI 格式，v2 和 v3，JSON 和 YAML）
+# and runs 300+ security checks on them using 42Crunch Security Audit technology to uncover# 并使用 42Crunch 安全审计技术对其执行 300 多项安全检查，以发现
+# potential vulnerabilities related to authentication, authorization as well as data validation.# 与身份验证、授权以及数据验证相关的潜在漏洞。
+#
+# Documentation is located here: https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm# 文档位于此处：https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm
+#
+# To use this workflow, you need a 42Crunch platform account. If you do not have one, you can contact us# 要使用此工作流，您需要拥有一个 42Crunch 平台账号。如果您还没有，请联系我们
+# from this page: https://42crunch.com/request-demo.# 您可以通过此页面申请：https://42crunch.com/request-demo。
+#
+# 1. Follow steps at https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm# 1. 按照 https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm 中的步骤操作
+#    to create an API Token on the 42Crunch platform# 在 42Crunch 平台上创建 API Token
+#
+# 2. Create an secret in GitHub as explained in https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm# 2. 按照 https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm 中的说明，在 GitHub 中创建一个密钥
+#    and store the 42Crunch API Token in that secret. Expected default is API_TOKEN (see the api-token property in the task).# 并将 42Crunch API 令牌存储在该密钥中。默认预期值为 API_TOKEN（请参阅任务中的 api-token 属性）。
+#
+# If you have any questions or need help, open an issue at: https://support.42crunch.com.
+
+name: "42Crunch REST API Static Security Testing"
+
+# follow standard Code Scanning triggers
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ "main" ]
+  schedule:
+    - cron: '45 17 * * 6'
+
+permissions:
+  contents: read
+
+jobs:
+  rest-api-static-security-testing:
+    permissions:
+      contents: read # for actions/checkout to fetch code
+      security-events: write # for 42Crunch/api-security-audit-action to upload results to Github Code Scanning
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 42Crunch REST API Static Security Testing
+        uses: 42Crunch/api-security-audit-action@fc01ea7a89e6268875868f9d89598af7a9899ae0
+        with:
+          # Please create free account at https://platform.42crunch.com/register
+          # Follow these steps to configure API_TOKEN https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm
+          api-token: ${{ secrets.API_TOKEN }}
+          # Fail if any OpenAPI file scores lower than 75
+          min-score: 75
+          # Upload results to Github code scanning
+          upload-to-code-scanning: true
+          # Github token for uploading the results
+          github-token: ${{ github.token }}
