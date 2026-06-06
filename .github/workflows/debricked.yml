@@ -1,0 +1,43 @@
+# This workflow uses actions that are not certified by GitHub.# 此工作流使用了未经 GitHub 认证的操作。
+# They are provided by a third-party and are governed by# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受# 它们由第三方提供，并受
+# separate terms of service, privacy policy, and support# 独立的服务条款、隐私政策及支持政策约束
+# documentation.# 文档。# 文档。# 文档。# 文档。
+
+#####################################################################################################################################################################
+# Use this workflow template as a basis for integrating Debricked into your GitHub workflows.                                                                       ## 请将此工作流模板用作基础，以将 Debricked 集成到您的 GitHub 工作流中。 #
+#                                                                                                                                                                   #
+# If you need additional assistance with configuration feel free to contact us via chat or email at support@debricked.com                                           ## 如果您在配置方面需要进一步帮助，欢迎通过在线聊天或发送邮件至 support@debricked.com 与我们联系 #
+# To learn more about Debricked or contact our team, visit https://debricked.com/                                                                                   ## 如需了解更多关于Debricked的信息或联系我们的团队，请访问https://debricked.com/ #
+#                                                                                                                                                                   #
+# To run this workflow, complete the following set-up steps:                                                                                                        ## 要运行此工作流，请完成以下设置步骤： #
+#                                                                                                                                                                   #
+# 1. If you don’t have a Debricked account, create one by visiting https://debricked.com/app/en/register                                                            ## 1. 如果您还没有 Debricked 账户，请访问 https://debricked.com/app/en/register 进行注册。#
+# 2. Generate your Debricked access token, by following the steps mentioned in https://portal.debricked.com/administration-47/how-do-i-generate-an-access-token-130 #
+# 3. In GitHub, navigate to the repository                                                                                                                          #
+# 4. Click on “Settings” (If you cannot see the “Settings” tab, select the dropdown menu, then click “Settings”)                                                    #
+# 5. In the “Security” section click on “Secrets and variables”, then click “Actions”                                                                               #
+# 6. In the “Secrets” tab, click on “New repository secret”                                                                                                         #
+# 7. In the “Name” field, type the name of the secret                                                                                                               #
+# 8. In the “Secret” field, enter the value of the secret                                                                                                           #
+# 9. Click “Add secret”                                                                                                                                             #
+# 10. You should now be ready to use the workflow!                                                                                                                  #
+#####################################################################################################################################################################
+
+name: Debricked Scan
+
+on:
+  push:
+
+permissions:
+  contents: read
+
+jobs:
+  vulnerabilities-scan:
+    name: Vulnerabilities scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: debricked/actions@v4
+        env:
+          DEBRICKED_TOKEN: ${{ secrets.DEBRICKED_TOKEN }}
