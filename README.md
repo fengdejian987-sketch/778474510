@@ -1,3 +1,4 @@
+[结合你工业级V2底座已定型、规.docx](https://github.com/user-attachments/files/28986030/V2.docx)
 [哈哈，搭配 Copilot 自.docx](https://github.com/user-attachments/files/28985902/Copilot.docx)
 [结合你规则_资料内生化、神经符.docx](https://github.com/user-attachments/files/28985800/_.docx)
 [结合你规则_底稿内生化底座、神.docx](https://github.com/user-attachments/files/28985708/_.docx)
