@@ -1,3 +1,4 @@
+[结合你底座固化、公式计算高精度.docx](https://github.com/user-attachments/files/29055980/default.docx)
 [结合你底座固化、训练完成后不可.docx](https://github.com/user-attachments/files/29055389/default.docx)
 [结合你2000+理科基准公式、.docx](https://github.com/user-attachments/files/29055161/2000%2B.docx)
 [接下来我分模块完成量纲校验核心.docx](https://github.com/user-attachments/files/29054776/default.docx)
