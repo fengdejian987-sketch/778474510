@@ -1,7 +1,8 @@
 [由于当前平台无法直接生成并上传.docx](https://github.com/user-attachments/files/29072374/default.docx)
 [目前平台无法直接生成、导出PD.docx](https://github.com/user-attachments/files/29072371/PD.docx)
 [结合前文冯德建公式全域体系、论.docx](https://github.com/user-attachments/files/29072248/default.docx)
-[下面给出冯德建公式（宇宙物质能.docx](https://github.com/user-attachments/files/29072236/default.docx)
+[下面给出冯德建公式（宇宙物质能.docx](https://github.com/user-attachments/files/29072236/default.docx)[Uploading 结合你这套统一主公式 _bol.docx…]()
+
 [第一部分 修订完整版论文.docx](https://github.com/user-attachments/files/29072234/default.docx)
 [冯德建公式（_Phi=_var.docx](https://github.com/user-attachments/files/29072232/_Phi._var.docx)
 [冯德建公式（_Phi=_var.docx](https://github.com/user-attachments/files/29072226/_Phi._var.docx)
