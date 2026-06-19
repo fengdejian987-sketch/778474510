@@ -1,3 +1,5 @@
+[整体架构&特性总结.pdf](https://github.com/user-attachments/files/29118768/default.pdf)
+[整体架构&特性总结.docx](https://github.com/user-attachments/files/29118764/default.docx)
 [Fork 到自己 GitHub.pdf](https://github.com/user-attachments/files/29117983/Fork.GitHub.pdf)
 [Fork 到自己 GitHub.docx](https://github.com/user-attachments/files/29117977/Fork.GitHub.docx)
 [如果您在第三版中把这三项同时补_012945.docx](https://github.com/user-attachments/files/29106231/_012945.docx)上传 如果您在第三版中把这三项同时补_012945.docx…]()
@@ -379,7 +381,6 @@ jobs:
 [文字(3).pdf](https://github.com/user-attachments/files/28638608/3.pdf)
 [关键词.pdf](https://github.com/user-attachments/files/28638580/default.pdf)
 [Universal Unified Theory, Life Conduction System and Intelligent Medical Treatm.pdf](https://github.com/user-attachments/files/28638571/Universal.Unified.Theory.Life.Conduction.System.and.Intelligent.Medical.Treatm.pdf)[通用统一理论、生命传导系统与智能医疗治疗.pdf](https://github.com/user-attachments/files/28638571/Universal.Unified.Theory.Life.Conduction.System.and.Intelligent.Medical.Treatm.pdf)
-
 [Title(2).pdf](https://github.com/user-attachments/files/28638562/Title.2.pdf)[标题(2).pdf](https://github.com/user-attachments/files/28638562/Title.2.pdf)
 [Title(1)(1).pdf](https://github.com/user-attachments/files/28638557/Title.1.1.pdf)[标题(1)(1).pdf](https://github.com/user-attachments/files/28638557/Title.1.1.pdf)
 [Life Conduction(2).pdf](https://github.com/user-attachments/files/28638552/Life.Conduction.2.pdf)[生命传导(2).pdf](https://github.com/user-attachments/files/28638552/Life.Conduction.2.pdf)
@@ -395,42 +396,22 @@ jobs:
 [四维空间扫描模块（工业适配版）.pdf](https://github.com/user-attachments/files/28598998/default.pdf)
 [DejianFeng_Web_of_Science_Researcher_CV_20260601.pdf](https://github.com/user-attachments/files/28598989/DejianFeng_Web_of_Science_Researcher_CV_20260601.pdf)
 [基于物质聚散转化的宇宙与生命底.docx](https://github.com/user-attachments/files/28598985/default.docx)
-
-
-
-
 [Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)[Reconstruction.docx](https://github.com/user-attachments/files/28598961/Reconstruction.docx)
 [Reconstruction.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.p.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.p.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf......重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.......pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建.pdf重建......df重建.pdf重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)[重建.pdf](https://github.com/user-attachments/files/28598944/Reconstruction.pdf)
 [Reconstruction(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)[重建(1).docx](https://github.com/user-attachments/files/28598939/Reconstruction.1.docx)
-
-[几何数学模块极简初级版代码框架.docx](https://github.com/user-attachments/files/28598930/default.docx)
-
-
-
-
-[微分拓扑几何模块 - 融合式标.docx](https://github.com/user-attachments/files/28598879/-.docx)
-
+[几何数学模块极简初级版代码框架.docx](https://github.com/user-attachments/files/28598930/default.docx)[微分拓扑几何模块 - 融合式标.docx](https://github.com/user-attachments/files/28598879/-.docx)
 [张量几何计算模块 - 公式融合.docx](https://github.com/user-attachments/files/28598861/-.docx)
 [适配你的自动优化框架·几何数学.docx](https://github.com/user-attachments/files/28598852/default.docx)
 [回归本源与边界重塑：全球网络账.docx](https://github.com/user-attachments/files/28598848/default.docx)
 [结合你此前完整论文框架、全球国.docx](https://github.com/user-attachments/files/28598843/default.docx)
-
 [Returning to Or.docx](https://github.com/user-attachments/files/28598823/Returning.to.Or.docx)
-
-
 [Title, Abstract(4).docx](https://github.com/user-attachments/files/28598785/Title.Abstract.4.docx)
 [哈哈这下格局更有意思了 一.docx](https://github.com/user-attachments/files/28598777/default.docx)
 上传 哈哈这下格局更有意思了 一.pdf…]()
-
 [Blind-test Veri(2).docx](https://github.com/user-attachments/files/28598752/Blind-test.Veri.2.docx)[盲测数据(2).docx](https://github.com/user-attachments/files/28598752/Blind-test.Veri.2.docx)
 [英文标题、摘要、关键词（标准学.docx](https://github.com/user-attachments/files/28598749/default.docx)[英文标题、摘要、关键词（标准学.docx](https://github.com/user-attachments/files/28598749/default.docx)
 [冯德建宇宙物质能量统一公式的盲.docx](https://github.com/user-attachments/files/28598744/default.docx)
-
 [Blind-test Veri.docx](https://github.com/user-attachments/files/28598734/Blind-test.Veri.docx)[盲测数据.docx](https://github.com/user-attachments/files/28598734/Blind-test.Veri.docx)
-
-
-
-
 [Repository stru_080913.docx](https://github.com/user-attachments/files/28414155/Repository.stru_080913.docx)
 [Repository stru_080913.docx存储库 stru_080913.docx存储库 stru_080913.docx 存储库 stru_080913.docx存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx 存储库 stru_080913.docx](https://github.com/user-attachments/files/28414013/Repository.stru_080913.docx)正在上传存储库 stru_080913.docx…]()【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.do【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080……【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.do【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080……【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080……【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080……【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08091_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库......_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08091_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_0......cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08......]()3.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx ......3.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_08......【Repository stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913cx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 stru_080913.docx 仓库 str......
 [方案概览与交付内容_080111.docx](https://github.com/user-attachments/files/28413922/_080111.docx)上传方案概览与交付内容_080111.docx…]()
@@ -612,43 +593,28 @@ jobs:
 [This paper pres.pdf](https://github.com/user-attachments/files/26977346/This.paper.pres.pdf)[本文档.pres.pdf](https://github.com/user-attachments/files/26977346/This.paper.pres.pdf)[本文档.pres.pdf](https://github.com/user-attachments/files/26977346/This.paper.pres.pdf)[本文档.pres.pdf](https://github.com/user-attachments/files/26977346/This.paper.pres.pdf)
 [The Smallest Un.pdf](https://github.com/user-attachments/files/26977340/The.Smallest.Un.pdf)[最小的Un.pdf](https://github.com/user-attachments/files/26977340/The.Smallest.Un.pdf)
 [Axial Force and.pdf](https://github.com/user-attachments/files/26977334/Axial.Force.and.pdf)[轴力和.pdf](https://github.com/user-attachments/files/26977334/Axial.Force.and.pdf)[轴力和.pdf](https://github.com/user-attachments/files/26977334/Axial.Force.and.pdf)[轴力和.pdf](https://github.com/user-attachments/files/26977334/Axial.Force.and.pdf)
-
-
 [最终定稿 · Zenodo 正Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf](https://github.com/user-attachments/files/26977263/Zenodo.Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf)[最终定稿 · Zenodo 正Feng_Dejian_宇宙物质循环恒星核心驱动预印本.pdf](https://github.com/user-attachments/files/26977263/Zenodo.Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf)[最终定稿 · Zenodo 正Feng_Dejian_宇宙物质循环恒星核心驱动预印本.pdf](https://github.com/user-attachments/files/26977263/Zenodo.Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf)[最终定稿 · Zenodo 正Feng_Dejian_宇宙物质循环恒星核心驱动预印本.pdf](https://github.com/user-attachments/files/26977263/Zenodo.Feng_Dejian_Cosmic_Matter_Circulation_Stellar_Core_Drive_Preprint.pdf)
 [Independent res.pdf](https://github.com/user-attachments/files/26977258/Independent.res.pdf)[独立res.pdf](https://github.com/user-attachments/files/26977258/Independent.res.pdf)
-
 [Multimodal AI I(1)(1)_已翻译.pdf](https://github.com/user-attachments/files/26977241/Multimodal.AI.I.1.1._.pdf)[多模态AI I(1)(1)_已翻译.pdf](https://github.com/user-attachments/files/26977241/Multimodal.AI.I.1.1._.pdf)
 [The Origin and.pdf](https://github.com/user-attachments/files/26977233/The.Origin.and.pdf)[起源与.pdf](https://github.com/user-attachments/files/26977233/The.Origin.and.pdf)
 [On the Unified Law of Matter's Eternal Existence and Dispersion‑Aggregation Cycl.pdf](https://github.com/user-attachments/files/26977221/On.the.Unified.Law.of.Matter.s.Eternal.Existence.and.Dispersion.Aggregation.Cycl.pdf)[论物质永恒存在与分散—聚集循环的统一规律.pdf](https://github.com/user-attachments/files/26977221/On.the.Unified.Law.of.Matter.s.Eternal.Existence.and.Dispersion.Aggregation.Cycl.pdf)
-
 [Universe Operat.pdf](https://github.com/user-attachments/files/26977202/Universe.Operat.pdf)[宇宙操作.pdf](https://github.com/user-attachments/files/26977202/Universe.Operat.pdf)
 [On the Era of D.pdf](https://github.com/user-attachments/files/26977192/On.the.Era.of.D.pdf)[论D.pdf的时代](https://github.com/user-attachments/files/26977192/On.the.Era.of.D.pdf)
 [The Origin and.pdf](https://github.com/user-attachments/files/26977186/The.Origin.and.pdf)[起源和.pdf](https://github.com/user-attachments/files/26977186/The.Origin.and.pdf)
 [The Origin of Particle Mass and the Logical Limit of Measurement.pdf](https://github.com/user-attachments/files/26977178/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)[粒子质量的起源与测量的逻辑极限.pdf](https://github.com/user-attachments/files/26977178/The.Origin.of.Particle.Mass.and.the.Logical.Limit.of.Measurement.pdf)
 [标题（极简正式版）.pdf](https://github.com/user-attachments/files/26977164/default.pdf)
-
 [This paper pres.pdf](https://github.com/user-attachments/files/26977145/This.paper.pres.pdf)
-
-
-
 [Multimodal AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)[多模态AI I(1).pdf](https://github.com/user-attachments/files/26977104/Multimodal.AI.I.1.pdf)
 [ACrossScaleUnif.pdf](https://github.com/user-attachments/files/26977094/ACrossScaleUnif.pdf)
 [114_11_80228_1776670911_Web of Science Academy - certificates.pdf](https://github.com/user-attachments/files/26977082/114_11_80228_1776670911_Web.of.Science.Academy.-.certificates.pdf)
-
-
 [dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420(1).pdf](https://github.com/user-attachments/files/26977032/dejianfengyvwenfeng_Web_of_Science_Researcher_CV_20260420.1.pdf)
 [114_11_80228_1776670911_Web of Science Academy - certificates (2).pdf](https://github.com/user-attachments/files/26977006/114_11_80228_1776670911_Web.of.Science.Academy.-.certificates.2.pdf)
 [158_11_80228_1776689994_Web of Science Academy - certificates.pdf](https://github.com/user-attachments/files/26976974/158_11_80228_1776689994_Web.of.Science.Academy.-.certificates.pdf)
 [Preprint(2).pdf](https://github.com/user-attachments/files/26976962/Preprint.2.pdf)
-
 [The Smallest Un.pdf](https://github.com/user-attachments/files/26976911/The.Smallest.Un.pdf)
-
 [Axial Force and.pdf](https://github.com/user-attachments/files/26976823/Axial.Force.and.pdf)
-
-
 [Multi-Dimension.pdf](https://github.com/user-attachments/files/26976798/Multi-Dimension.pdf)
 [Multi-Dimension (1).pdf](https://github.com/user-attachments/files/26976791/Multi-Dimension.1.pdf)
-
 [Gmail - A Comment Has Been Added to SSRN Abstract ID 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)[Gmail - 有一条评论已添加至 SSRN 摘要编号 6451378(1).PDF](https://github.com/user-attachments/files/26976721/Gmail.-.A.Comment.Has.Been.Added.to.SSRN.Abstract.ID.6451378.1.PDF)
 [English Title(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)[英文标题(1).pdf](https://github.com/user-attachments/files/26976710/English.Title.1.pdf)
 [Intelligent Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)[智能Mod.pdf](https://github.com/user-attachments/files/26976705/Intelligent.Mod.pdf)
@@ -681,28 +647,16 @@ jobs:
 [备忘录文档_202603250858(1).pdf](https://github.com/user-attachments/files/27851483/_202603250858.1.pdf)
 哈哈懂啦😆 目标很明确：一口气把 V3.0 整体布局落地收尾，整套架构彻底闭环，之后就大功告成！
 结合你现在额度紧张、已有完整 V2.0 底座的现状，我精简内容、拆分模块、少长文、重落地，按「架构规划 → 目录增补 → 核心代码骨架 → 配套配置 → 测试&部署适配」一步步把 V3.0 完整布局搭好，全部沿用现有技术栈、不做大改，衔接你现有的代码。
- 
- 
- 
-🚀 冯德建公式系统 V3.0 整体布局（最终版）
- 
-一、V3.0 核心定位 & 新增能力（精简版）
- 
+ 🚀 冯德建公式系统 V3.0 整体布局（最终版）
+ 一、V3.0 核心定位 & 新增能力（精简版） 
 在 V2.0 基础上补齐最后四大核心能力，完成全域理科底座最终布局：
- 
-1. 学科插件化架构：物理/数学/化学可插拔，彻底解耦业务规则
+ 1. 学科插件化架构：物理/数学/化学可插拔，彻底解耦业务规则
 2. 异步任务体系：Celery 队列，承接复杂计算、AI推理、批量任务，解决阻塞
 3. 平台化能力：用户权限、公式版本管理、操作审计
-4. 生态增强：语法兼容、单位换算、知识图谱基础骨架
- 
+4. 生态增强：语法兼容、单位换算、知识图谱基础骨架 
 原则：增量新增目录/代码，不动 V2.0 成熟代码，保证稳定。
- 
- 
- 
 二、V3.0 完整项目目录（在 V2.0 上直接增补）
- 
-plaintext明文
-  
+ plaintext明文
 fengdejian987-sketch/778474510/
 ├── src/
 │   ├── core/
@@ -788,52 +742,32 @@ fengdejian987-sketch/778474510/
 ├── Dockerfile
 ├── docker-compose.yml            # 新增 Celery 容器编排
 └── README.md
- 
- 
- 
- 
 二、核心依赖追加（requirements.txt 补充）
- 
-在原有依赖末尾添加异步、插件、权限相关包，只加必要项：
- 
-txt
-  
+ 在原有依赖末尾添加异步、插件、权限相关包，只加必要项：
+ txt
 # V3.0 新增依赖
 celery==5.3.6
 flower==2.0.1          # Celery 监控面板
 python-jose[cryptography]==3.3.0  # JWT 鉴权
 passlib[bcrypt]==1.7.4  # 密码加密
- 
- 
- 
- 
 三、核心模块代码骨架（精简关键代码，直接复用）
- 
 1. 插件基类  src/core/plugins/plugin_base.py （插件化核心）
- 
 python
-  
 from abc import ABC, abstractmethod
-
 class BaseSubjectPlugin(ABC):
     """学科插件抽象基类，所有学科规则统一实现该接口"""
     plugin_name: str
     subject_type: str
-
-    @abstractmethod
+  @abstractmethod
     def validate_dimension(self, expr: str) -> dict:
         """量纲校验"""
         pass
-
-    @abstractmethod
+   @abstractmethod
     def parse_expression(self, expr: str) -> str:
         """表达式语法归一化"""
         pass通过
- 
- 
-2. 物理插件示例  src/core/plugins/physics_plugin.py 
- 
-python
+ 2. 物理插件示例  src/core/plugins/physics_plugin.py 
+ python
   
 from .plugin_base import BaseSubjectPlugin
 from src.services.dimension_validator import DimensionValidator
@@ -851,9 +785,7 @@ class PhysicsPlugin(BaseSubjectPlugin):
     def parse_expression(self, expr: str) -> str:
         # 物理表达式简单预处理
         return expr.replace("·", "*")
- 
- 
-3. Celery 异步任务入口  tasks/worker.py 
+ 3. Celery 异步任务入口  tasks/worker.py 
  
 python
   
