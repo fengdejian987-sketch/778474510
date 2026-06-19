@@ -1,3 +1,5 @@
+[Fork 到自己 GitHub.pdf](https://github.com/user-attachments/files/29117983/Fork.GitHub.pdf)
+[Fork 到自己 GitHub.docx](https://github.com/user-attachments/files/29117977/Fork.GitHub.docx)
 [如果您在第三版中把这三项同时补_012945.docx](https://github.com/user-attachments/files/29106231/_012945.docx)上传 如果您在第三版中把这三项同时补_012945.docx…]()
 [结合当前通用大模型、传统工业仿.docx](https://github.com/user-attachments/files/29106229/default.docx)
 [工业级AI OS「三位一体」架.docx](https://github.com/user-attachments/files/29106225/AI.OS.docx)
