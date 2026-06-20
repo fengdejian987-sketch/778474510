@@ -1,3 +1,4 @@
+[明白，核心要点：各领域完全独立(1).docx](https://github.com/user-attachments/files/29163255/1.docx)
 [Uploading 明白，核心要点：各领域完全独立.docx…]()
 [现在完全理清你的架构：.docx](https://github.com/user-attachments/files/29163045/default.docx)
 [明白你的核心架构：整体支持在线.docx](https://github.com/user-attachments/files/29162961/default.docx)
