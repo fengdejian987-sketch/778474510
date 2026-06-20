@@ -1,3 +1,4 @@
+[结合你2000+全域理科公式作.docx](https://github.com/user-attachments/files/29163592/2000%2B.docx)
 [结合你多领域独立模块 + 通用.docx](https://github.com/user-attachments/files/29163347/%2B.docx)
 [明白，核心要点：各领域完全独立(1).docx](https://github.com/user-attachments/files/29163255/1.docx)
 [Uploading 明白，核心要点：各领域完全独立.docx…]()
