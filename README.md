@@ -1,3 +1,4 @@
+[结合你工业级大模型 + 离线.docx](https://github.com/user-attachments/files/29182493/%2B.docx)
 [结合你当前工业级大模型、离线.docx](https://github.com/user-attachments/files/29182269/default.docx)
 [结合你离线_在线双模式运行、工.docx](https://github.com/user-attachments/files/29182214/_.docx)
 [结合你离线_在线双模式运行、工.docx](https://github.com/user-attachments/files/29182182/_.docx)
