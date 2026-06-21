@@ -1,3 +1,4 @@
+[明白了，你定义的四维 = 三维.docx](https://github.com/user-attachments/files/29182945/default.docx)上传 明白了，你定义的四维 = 三维.docx…]()
 [结合你图纸参数 + 机件自主建.docx](https://github.com/user-attachments/files/29182850/%2B.docx)正在上传 结合你图纸参数 + 机件自主建.docx…]()
 [结合你工业级大模型 + 离线.docx](https://github.com/user-attachments/files/29182493/%2B.docx)
 [结合你当前工业级大模型、离线.docx](https://github.com/user-attachments/files/29182269/default.docx)
@@ -9,7 +10,7 @@
 [核心公式模块专属「语言+人性」.docx](https://github.com/user-attachments/files/29176673/%2B.docx)
 [冯德建公式全域融合精简速查手册.pdf](https://github.com/user-attachments/files/29176644/default.pdf)
 [全域理科公式.csv](https://github.com/user-attachments/files/29176589/default.csv)
-[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)
+[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)[结合你工业级、多领域独立部署、.docx](https://github.com/user-attachments/files/29176588/default.docx)
 [结合你多领域独立模块 + 通用.docx](https://github.com/user-attachments/files/29176581/%2B.docx)
 [结合双模（离线为主、在线为辅）.docx](https://github.com/user-attachments/files/29176578/default.docx)
 [单核心公式+多模块架构「全自动(1)(1).pdf](https://github.com/user-attachments/files/29176568/%2B.1.1.pdf)[单核公式+多模块架构「全自动(1)(1).pdf](https://github.com/user-attachments/files/29176568/%2B.1.1.pdf)[单核心公式+多模块架构「全自动(1)(1).pdf](https://github.com/user-attachments/files/29176568/%2B.1.1.pdf)[单核公式+多模块架构「全自动(1)(1).pdf](https://github.com/user-attachments/files/29176568/%2B.1.1.pdf)
