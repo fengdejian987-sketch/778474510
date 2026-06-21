@@ -1,3 +1,4 @@
+[结合你离线_在线双模式运行、工.docx](https://github.com/user-attachments/files/29182182/_.docx)
 [结合你大模型多模块系统、原有业.docx](https://github.com/user-attachments/files/29182032/default.docx)
 [结合你现有分层工程架构草稿 +.docx](https://github.com/user-attachments/files/29182026/%2B.docx)
 [整体分层清晰、职责边界明确，是.docx](https://github.com/user-attachments/files/29181279/default.docx)
