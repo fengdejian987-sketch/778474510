@@ -1,3 +1,5 @@
+[结合你大模型多模块系统、原有业.docx](https://github.com/user-attachments/files/29182032/default.docx)
+[结合你现有分层工程架构草稿 +.docx](https://github.com/user-attachments/files/29182026/%2B.docx)
 [整体分层清晰、职责边界明确，是.docx](https://github.com/user-attachments/files/29181279/default.docx)
 [核心公式模块专属「语言+人性」.docx](https://github.com/user-attachments/files/29176673/%2B.docx)
 [冯德建公式全域融合精简速查手册.pdf](https://github.com/user-attachments/files/29176644/default.pdf)
