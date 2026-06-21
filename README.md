@@ -1,3 +1,8 @@
+[六国语言词汇解读专属解析模块-.docx](https://github.com/user-attachments/files/29171305/-.docx)
+[冯德建全域理化通用整合公式体系.docx](https://github.com/user-attachments/files/29171300/default.docx)
+[冯德建全域理化通用整合公式体系(1).pdf](https://github.com/user-attachments/files/29171296/1.pdf)
+[全域理科2000+公式数据库（.docx](https://github.com/user-attachments/files/29171292/2000%2B.docx)
+[结合你数理公式基准三层规则 +.docx](https://github.com/user-attachments/files/29171291/%2B.docx)
 [结合你数理公式基准三层规则 +.docx](https://github.com/user-attachments/files/29163848/%2B.docx)[正在上传 结合你数理公式基准三层规则 +.docx…]()
 [完全理解，结合2000+全域理.docx](https://github.com/user-attachments/files/29163723/2000%2B.docx)
 [结合你2000+全域理科公式作.docx](https://github.com/user-attachments/files/29163592/2000%2B.docx)
