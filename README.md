@@ -1,3 +1,6 @@
+[多专业领域融合+全模块整合分析.pdf](https://github.com/user-attachments/files/29260300/%2B.pdf)
+[冯德建公式 全域理化公式覆盖清.docx](https://github.com/user-attachments/files/29260288/default.docx)
+[冯德建公式·万能公式代入表（PDF可用纯文本）.docx](https://github.com/user-attachments/files/29260259/PDF.docx)
 [多材料（高分子_金属）分析+新.docx](https://github.com/user-attachments/files/29260195/_.%2B.docx)
 [第三版模型「全自动抓取优化整合.docx](https://github.com/user-attachments/files/29260175/default.docx)
 [单核心公式+多模块架构「全自动(1).docx](https://github.com/user-attachments/files/29260156/%2B.1.docx)
