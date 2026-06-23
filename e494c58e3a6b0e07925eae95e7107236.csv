@@ -1,0 +1,962 @@
+﻿ID,分类,公式名称,原始标准公式(LaTeX),程序运算公式,量纲,适用条件/说明,优先级
+fm_math_0001,数学,一元二次方程求根公式,\displaystyle x = \frac{-b \pm \sqrt{b^2-4ac}}{2a},(-b + sqrt(b**2 - 4*a*c)) / (2*a),无量纲,a \neq 0，判别式 \Delta=b^2-4ac \ge 0 存在实数解,P0
+fm_math_0002,数学,完全平方和公式,(a+b)^2 = a^2+2ab+b^2,(a + b)**2 = a**2 + 2*a*b + b**2,无量纲,全体实数,P0
+fm_math_0003,数学,平方差公式,a^2-b^2 = (a+b)(a-b),a**2 - b**2 = (a + b)*(a - b),无量纲,全体实数,P0
+fm_math_0004,数学,立方和公式,a^3+b^3 = (a+b)(a^2-ab+b^2),a**3 + b**3 = (a + b)*(a**2 - a*b + b**2),无量纲,全体实数,P0
+fm_math_0005,数学,立方差公式,a^3-b^3 = (a-b)(a^2+ab+b^2),a**3 - b**3 = (a - b)*(a**2 + a*b + b**2),无量纲,全体实数,P0
+fm_math_0006,数学,等差数列通项公式,a_n = a_1+(n-1)d,a_n = a_1 + (n - 1)*d,无量纲,公差d为常数，n\in\mathbb{N}^+,P0
+fm_math_0007,数学,等差数列求和公式,\displaystyle S_n = \frac{n(a_1+a_n)}{2},n*(a_1 + a_n) / 2,无量纲,公差d为常数，n\in\mathbb{N}^+,P0
+fm_math_0008,数学,等比数列通项公式,a_n = a_1 q^{n-1},a_n = a_1 * q**(n - 1),无量纲,公比q \neq 0，n\in\mathbb{N}^+,P0
+fm_math_0009,数学,等比数列求和公式(q\neq1),\displaystyle S_n = \frac{a_1(1-q^n)}{1-q},a_1*(1 - q**n) / (1 - q),无量纲,公比q \neq 1,P0
+fm_math_0010,数学,对数换底公式,\displaystyle \log_b a = \frac{\log_c a}{\log_c b},"log(a, b) = log(a, c) / log(b, c)",无量纲,"a,b,c>0 且 a,b,c \neq 1",P0
+fm_math_0011,数学,一元一次方程通式,ax+b=0,a*x + b = 0,无量纲,a \neq 0,P0
+fm_math_0012,数学,一元一次方程求解公式,\displaystyle x=-\frac{b}{a},-b / a,无量纲,a \neq 0,P0
+fm_math_0013,数学,二元一次方程组标准型,\begin{cases}a_1x+b_1y=c_1\\a_2x+b_2y=c_2\end{cases},a1*x + b1*y = c1; a2*x + b2*y = c2,无量纲,系数行列式不为零时有唯一解,P0
+fm_math_0014,数学,二元一次方程组克莱姆法则(x解),\displaystyle x=\frac{c_1b_2-c_2b_1}{a_1b_2-a_2b_1},(c1*b2 - c2*b1) / (a1*b2 - a2*b1),无量纲,分母不为0,P0
+fm_math_0015,数学,二元一次方程组克莱姆法则(y解),\displaystyle y=\frac{a_1c_2-a_2c_1}{a_1b_2-a_2b_1},(a1*c2 - a2*c1) / (a1*b2 - a2*b1),无量纲,分母不为0,P0
+fm_math_0016,数学,完全立方和公式,(a+b)^3=a^3+3a^2b+3ab^2+b^3,(a + b)**3 = a**3 + 3*a**2*b + 3*a*b**2 + b**3,无量纲,全体实数,P0
+fm_math_0017,数学,完全立方差公式,(a-b)^3=a^3-3a^2b+3ab^2-b^3,(a - b)**3 = a**3 - 3*a**2*b + 3*a*b**2 - b**3,无量纲,全体实数,P0
+fm_math_0018,数学,三项完全平方公式,(a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc,(a+b+c)**2 = a**2+b**2+c**2+2*a*b+2*a*c+2*b*c,无量纲,全体实数,P0
+fm_math_0019,数学,分式加法公式,\displaystyle \frac{a}{b}+\frac{c}{d}=\frac{ad+bc}{bd},a/b + c/d = (a*d + b*c)/(b*d),无量纲,"b\neq0,d\neq0",P0
+fm_math_0020,数学,分式减法公式,\displaystyle \frac{a}{b}-\frac{c}{d}=\frac{ad-bc}{bd},a/b - c/d = (a*d - b*c)/(b*d),无量纲,"b\neq0,d\neq0",P0
+fm_math_0021,数学,分式乘法公式,\displaystyle \frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd},(a/b) * (c/d) = (a*c)/(b*d),无量纲,"b\neq0,d\neq0",P0
+fm_math_0022,数学,分式除法公式,\displaystyle \frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc},(a/b) / (c/d) = (a*d)/(b*c),无量纲,"b\neq0,c\neq0,d\neq0",P0
+fm_math_0023,数学,根式乘法公式,\sqrt{a}\cdot\sqrt{b}=\sqrt{ab},sqrt(a)*sqrt(b) = sqrt(a*b),无量纲,"a\ge0,b\ge0",P0
+fm_math_0024,数学,根式除法公式,\displaystyle \frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}},sqrt(a)/sqrt(b) = sqrt(a/b),无量纲,"a\ge0,b>0",P0
+fm_math_0025,数学,平方根式化简,\sqrt{a^2}=,a,,sqrt(a**2) = abs(a),无量纲
+fm_math_0026,数学,同底数幂乘法,a^m \cdot a^n = a^{m+n},a**m * a**n = a**(m+n),无量纲,a>0,P0
+fm_math_0027,数学,同底数幂除法,\displaystyle \frac{a^m}{a^n} = a^{m-n},a**m / a**n = a**(m-n),无量纲,a>0,P0
+fm_math_0028,数学,幂的乘方,(a^m)^n = a^{mn},(a**m)**n = a**(m*n),无量纲,a>0,P0
+fm_math_0029,数学,积的乘方,(ab)^n = a^n b^n,(a*b)**n = a**n * b**n,无量纲,"a>0,b>0",P0
+fm_math_0030,数学,负整数指数幂,\displaystyle a^{-n}=\frac{1}{a^n},a**(-n) = 1/(a**n),无量纲,a\neq0,P0
+fm_math_0031,数学,零指数幂,a^0=1,a**0 = 1,无量纲,a\neq0,P0
+fm_math_0032,数学,常用对数定义,\lg N = \log_{10}N,"log(N, 10)",无量纲,N>0,P0
+fm_math_0033,数学,自然对数定义,\ln N = \log_e N,"log(N, exp(1))",无量纲,N>0,P0
+fm_math_0034,数学,对数加法法则,\log_a(MN)=\log_a M+\log_a N,"log(M*N,a) = log(M,a)+log(N,a)",无量纲,"a>0,a\neq1,M>0,N>0",P0
+fm_math_0035,数学,对数减法法则,\displaystyle \log_a\frac{M}{N}=\log_a M-\log_a N,"log(M/N,a) = log(M,a)-log(N,a)",无量纲,"a>0,a\neq1,M>0,N>0",P0
+fm_math_0036,数学,对数幂运算法则,\log_a M^n = n\log_a M,"log(M**n,a) = n*log(M,a)",无量纲,"a>0,a\neq1,M>0",P0
+fm_math_0037,数学,分式倒数和,\displaystyle \frac{1}{a}+\frac{1}{b}=\frac{a+b}{ab},1/a + 1/b = (a+b)/(a*b),无量纲,"a\neq0,b\neq0",P0
+fm_math_0038,数学,实数绝对值定义,,a,=\begin{cases}a & a\ge0 \\ -a & a<0\end{cases},abs(a),无量纲
+fm_math_0039,数学,二次函数标准解析式,y=ax^2+bx+c,y = a*x**2 + b*x + c,无量纲,a\neq0,P0
+fm_math_0040,数学,二次函数顶点横坐标,\displaystyle x_0=-\frac{b}{2a},-b/(2*a),无量纲,a\neq0,P0
+fm_math_0041,数学,二次函数顶点纵坐标,\displaystyle y_0=\frac{4ac-b^2}{4a},(4*a*c - b**2)/(4*a),无量纲,a\neq0,P0
+fm_math_0042,数学,十字相乘因式分解,x^2+(p+q)x+pq=(x+p)(x+q),x**2 + (p+q)*x + p*q = (x+p)*(x+q),无量纲,全体实数,P0
+fm_math_0043,数学,平方根式还原,(\sqrt{a})^2=a,(sqrt(a))**2 = a,无量纲,a\ge0,P0
+fm_math_0044,数学,三次根式化简,\sqrt[3]{a^3}=a,a**(1/3),无量纲,全体实数,P0
+fm_math_0045,数学,带分数分式化简,\displaystyle a+\frac{b}{c}=\frac{ac+b}{c},a + b/c = (a*c + b)/c,无量纲,c\neq0,P0
+fm_math_0046,数学,等差数列公差公式,\displaystyle d=\frac{a_n-a_1}{n-1},(a_n - a_1)/(n - 1),无量纲,n\ge2,P0
+fm_math_0047,数学,等比数列公比公式,\displaystyle q=\sqrt[n-1]{\frac{a_n}{a_1}},(a_n/a_1)**(1/(n-1)),无量纲,"a_1\neq0,n\ge2",P0
+fm_math_0048,数学,等比数列求和(q=1),S_n = n a_1,n * a_1,无量纲,公比q=1,P0
+fm_math_0049,数学,单项分母有理化,\displaystyle \frac{1}{\sqrt{a}}=\frac{\sqrt{a}}{a},1/sqrt(a) = sqrt(a)/a,无量纲,a>0,P0
+fm_math_0050,数学,两项分母有理化,\displaystyle \frac{1}{\sqrt{a}+\sqrt{b}}=\frac{\sqrt{a}-\sqrt{b}}{a-b},1/(sqrt(a)+sqrt(b)) = (sqrt(a)-sqrt(b))/(a-b),无量纲,"a>0,b>0,a\neq b",P0
+fm_math_0051,数学,同角正弦余弦平方和,\sin^2\theta + \cos^2\theta = 1,sin(theta)**2 + cos(theta)**2 = 1,无量纲,\theta \in \mathbb{R},P0
+fm_math_0052,数学,正切函数定义,\displaystyle \tan\theta = \frac{\sin\theta}{\cos\theta},tan(theta) = sin(theta) / cos(theta),无量纲,\cos\theta \neq 0,P0
+fm_math_0053,数学,余切函数定义,\displaystyle \cot\theta = \frac{\cos\theta}{\sin\theta},cot(theta) = cos(theta) / sin(theta),无量纲,\sin\theta \neq 0,P0
+fm_math_0054,数学,正割函数定义,\displaystyle \sec\theta = \frac{1}{\cos\theta},sec(theta) = 1 / cos(theta),无量纲,\cos\theta \neq 0,P0
+fm_math_0055,数学,余割函数定义,\displaystyle \csc\theta = \frac{1}{\sin\theta},csc(theta) = 1 / sin(theta),无量纲,\sin\theta \neq 0,P0
+fm_math_0056,数学,正切余切倒数关系,\tan\theta \cdot \cot\theta = 1,tan(theta) * cot(theta) = 1,无量纲,"\sin\theta \neq 0,\cos\theta \neq 0",P0
+fm_math_0057,数学,正弦二倍角公式,\sin2\theta = 2\sin\theta\cos\theta,sin(2*theta) = 2*sin(theta)*cos(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0058,数学,余弦二倍角(基础型),\cos2\theta = \cos^2\theta-\sin^2\theta,cos(2*theta) = cos(theta)**2 - sin(theta)**2,无量纲,\theta \in \mathbb{R},P0
+fm_math_0059,数学,余弦二倍角(变式1),\cos2\theta = 2\cos^2\theta - 1,cos(2*theta) = 2*cos(theta)**2 - 1,无量纲,\theta \in \mathbb{R},P0
+fm_math_0060,数学,余弦二倍角(变式2),\cos2\theta = 1-2\sin^2\theta,cos(2*theta) = 1 - 2*sin(theta)**2,无量纲,\theta \in \mathbb{R},P0
+fm_math_0061,数学,正切二倍角公式,\displaystyle \tan2\theta = \frac{2\tan\theta}{1-\tan^2\theta},tan(2*theta) = 2*tan(theta)/(1-tan(theta)**2),无量纲,\theta \neq \frac{\pi}{4}+\frac{k\pi}{2},P0
+fm_math_0062,数学,正弦和角公式,\sin(A+B) = \sin A\cos B + \cos A\sin B,sin(A+B) = sin(A)*cos(B)+cos(A)*sin(B),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0063,数学,正弦差角公式,\sin(A-B) = \sin A\cos B - \cos A\sin B,sin(A-B) = sin(A)*cos(B)-cos(A)*sin(B),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0064,数学,余弦和角公式,\cos(A+B) = \cos A\cos B - \sin A\sin B,cos(A+B) = cos(A)*cos(B)-sin(A)*sin(B),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0065,数学,余弦差角公式,\cos(A-B) = \cos A\cos B + \sin A\sin B,cos(A-B) = cos(A)*cos(B)+sin(A)*sin(B),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0066,数学,正切和角公式,\displaystyle \tan(A+B)=\frac{\tan A+\tan B}{1-\tan A\tan B},tan(A+B)=(tan(A)+tan(B))/(1-tan(A)*tan(B)),无量纲,分母不为0,P0
+fm_math_0067,数学,正切差角公式,\displaystyle \tan(A-B)=\frac{\tan A-\tan B}{1+\tan A\tan B},tan(A-B)=(tan(A)-tan(B))/(1+tan(A)*tan(B)),无量纲,分母不为0,P0
+fm_math_0068,数学,半角正弦公式,\displaystyle \sin\frac{\theta}{2}=\pm\sqrt{\frac{1-\cos\theta}{2}},sin(theta/2) = sqrt((1-cos(theta))/2),无量纲,根据象限判断符号,P0
+fm_math_0069,数学,半角余弦公式,\displaystyle \cos\frac{\theta}{2}=\pm\sqrt{\frac{1+\cos\theta}{2}},cos(theta/2) = sqrt((1+cos(theta))/2),无量纲,根据象限判断符号,P0
+fm_math_0070,数学,半角正切公式,\displaystyle \tan\frac{\theta}{2}=\frac{\sin\theta}{1+\cos\theta},tan(theta/2) = sin(theta)/(1+cos(theta)),无量纲,1+\cos\theta \neq 0,P0
+fm_math_0071,数学,诱导公式：\sin(\theta+\pi),\sin(\theta+\pi) = -\sin\theta,sin(theta+pi) = -sin(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0072,数学,诱导公式：\cos(\theta+\pi),\cos(\theta+\pi) = -\cos\theta,cos(theta+pi) = -cos(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0073,数学,诱导公式：\sin(\pi-\theta),\sin(\pi-\theta) = \sin\theta,sin(pi-theta) = sin(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0074,数学,诱导公式：\cos(\pi-\theta),\cos(\pi-\theta) = -\cos\theta,cos(pi-theta) = -cos(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0075,数学,诱导公式：\sin\left(\frac{\pi}{2}-\theta\right),\sin\left(\frac{\pi}{2}-\theta\right)=\cos\theta,sin(pi/2-theta) = cos(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0076,数学,诱导公式：\cos\left(\frac{\pi}{2}-\theta\right),\cos\left(\frac{\pi}{2}-\theta\right)=\sin\theta,cos(pi/2-theta) = sin(theta),无量纲,\theta \in \mathbb{R},P0
+fm_math_0077,数学,三角形正弦定理,\displaystyle \frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}=2R,a/sin(A) = b/sin(B) = c/sin(C),无量纲,任意三角形，R为外接圆半径,P0
+fm_math_0078,数学,三角形余弦定理(边),c^2=a^2+b^2-2ab\cos C,c**2 = a**2 + b**2 - 2*a*b*cos(C),无量纲,"任意三角形，C为a,b夹角",P0
+fm_math_0079,数学,三角形余弦定理(角),\displaystyle \cos C=\frac{a^2+b^2-c^2}{2ab},(a**2+b**2-c**2)/(2*a*b),无量纲,"a,b\neq0",P0
+fm_math_0080,数学,三角形面积(两边夹角),\displaystyle S=\frac{1}{2}ab\sin C,(1/2)*a*b*sin(C),无量纲,任意三角形,P0
+fm_math_0081,数学,和差化积：\sin A+\sin B,\sin A+\sin B=2\sin\frac{A+B}{2}\cos\frac{A-B}{2},sin(A)+sin(B) = 2*sin((A+B)/2)*cos((A-B)/2),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0082,数学,和差化积：\sin A-\sin B,\sin A-\sin B=2\cos\frac{A+B}{2}\sin\frac{A-B}{2},sin(A)-sin(B) = 2*cos((A+B)/2)*sin((A-B)/2),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0083,数学,和差化积：\cos A+\cos B,\cos A+\cos B=2\cos\frac{A+B}{2}\cos\frac{A-B}{2},cos(A)+cos(B) = 2*cos((A+B)/2)*cos((A-B)/2),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0084,数学,和差化积：\cos A-\cos B,\cos A-\cos B=-2\sin\frac{A+B}{2}\sin\frac{A-B}{2},cos(A)-cos(B) = -2*sin((A+B)/2)*sin((A-B)/2),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0085,数学,积化和差：\sin A\cos B,\sin A\cos B=\frac{1}{2}[\sin(A+B)+\sin(A-B)],sin(A)*cos(B) = 0.5*(sin(A+B)+sin(A-B)),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0086,数学,积化和差：\cos A\sin B,\cos A\sin B=\frac{1}{2}[\sin(A+B)-\sin(A-B)],cos(A)*sin(B) = 0.5*(sin(A+B)-sin(A-B)),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0087,数学,积化和差：\cos A\cos B,\cos A\cos B=\frac{1}{2}[\cos(A+B)+\cos(A-B)],cos(A)*cos(B) = 0.5*(cos(A+B)+cos(A-B)),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0088,数学,积化和差：\sin A\sin B,\sin A\sin B=-\frac{1}{2}[\cos(A+B)-\cos(A-B)],sin(A)*sin(B) = -0.5*(cos(A+B)-cos(A-B)),无量纲,"A,B\in\mathbb{R}",P0
+fm_math_0089,数学,三角函数周期公式,\displaystyle T=\frac{2\pi}{\omega},2*pi / omega,无量纲,\omega为角频率,P0
+fm_math_0090,数学,频率与周期关系,\displaystyle f=\frac{1}{T},1 / T,无量纲,周期T\neq0,P0
+fm_math_0091,数学,反正弦函数,y=\arcsin x \iff \sin y=x,arcsin(x),无量纲,"x\in[-1,1],y\in[-\frac{\pi}{2},\frac{\pi}{2}]",P0
+fm_math_0092,数学,反余弦函数,y=\arccos x \iff \cos y=x,arccos(x),无量纲,"x\in[-1,1],y\in[0,\pi]",P0
+fm_math_0093,数学,反正切函数,y=\arctan x \iff \tan y=x,arctan(x),无量纲,"x\in\mathbb{R},y\in(-\frac{\pi}{2},\frac{\pi}{2})",P0
+fm_math_0094,数学,锐角互余正弦关系,\sin(\frac{\pi}{2}-\alpha)=\cos\alpha,sin(pi/2 - alpha) = cos(alpha),无量纲,\alpha为锐角,P0
+fm_math_0095,数学,锐角互余余弦关系,\cos(\frac{\pi}{2}-\alpha)=\sin\alpha,cos(pi/2 - alpha) = sin(alpha),无量纲,\alpha为锐角,P0
+fm_math_0096,数学,正弦三倍角公式,\sin3\alpha=3\sin\alpha-4\sin^3\alpha,sin(3*alpha) = 3*sin(alpha)-4*sin(alpha)**3,无量纲,\alpha\in\mathbb{R},P0
+fm_math_0097,数学,余弦三倍角公式,\cos3\alpha=4\cos^3\alpha-3\cos\alpha,cos(3*alpha) = 4*cos(alpha)**3-3*cos(alpha),无量纲,\alpha\in\mathbb{R},P0
+fm_math_0098,数学,平面三角形内角和,A+B+C=\pi,A+B+C = pi,无量纲,任意平面三角形,P0
+fm_math_0099,数学,等腰三角形边角等价,A=B \iff a=b,A=B <==> a=b,无量纲,平面三角形,P0
+fm_math_0100,数学,直角三角形勾股定理,a^2+b^2=c^2,a**2 + b**2 = c**2,无量纲,c为直角三角形斜边,P0
+fm_math_0101,数学,常数函数导数,\dfrac{d}{dx}(C) = 0,"diff(C, x) = 0",无量纲,C 为任意常数，函数在定义域内可导,P0
+fm_math_0102,数学,幂函数求导公式,\dfrac{d}{dx}(x^n) = n x^{n-1},"diff(x**n, x) = n * x**(n-1)",无量纲,n\in\mathbb{R}，x 在定义域内可导,P0
+fm_math_0103,数学,指数函数求导（自然指数）,\dfrac{d}{dx}(e^x) = e^x,"diff(exp(x), x) = exp(x)",无量纲,x\in\mathbb{R}，全域可导,P0
+fm_math_0104,数学,一般指数函数求导,\dfrac{d}{dx}(a^x) = a^x \ln a,"diff(a**x, x) = a**x * log(a)",无量纲,"a>0,a\neq1，x\in\mathbb{R}",P0
+fm_math_0105,数学,自然对数函数求导,\dfrac{d}{dx}(\ln x) = \dfrac{1}{x},"diff(log(x), x) = 1/x",无量纲,x>0,P0
+fm_math_0106,数学,常用对数求导,\dfrac{d}{dx}(\lg x) = \dfrac{1}{x\ln 10},"diff(log(x,10),x) = 1/(x*log(10))",无量纲,x>0,P0
+fm_math_0107,数学,正弦函数求导,\dfrac{d}{dx}(\sin x) = \cos x,"diff(sin(x), x) = cos(x)",无量纲,x\in\mathbb{R}，全域可导,P0
+fm_math_0108,数学,余弦函数求导,\dfrac{d}{dx}(\cos x) = -\sin x,"diff(cos(x), x) = -sin(x)",无量纲,x\in\mathbb{R}，全域可导,P0
+fm_math_0109,数学,正切函数求导,\dfrac{d}{dx}(\tan x) = \sec^2 x,"diff(tan(x), x) = sec(x)**2",无量纲,"x \neq \dfrac{\pi}{2}+k\pi,\ k\in\mathbb{Z}",P0
+fm_math_0110,数学,余切函数求导,\dfrac{d}{dx}(\cot x) = -\csc^2 x,"diff(cot(x), x) = -csc(x)**2",无量纲,"x \neq k\pi,\ k\in\mathbb{Z}",P0
+fm_math_0111,数学,正割函数求导,\dfrac{d}{dx}(\sec x) = \sec x \tan x,"diff(sec(x), x) = sec(x)*tan(x)",无量纲,"x \neq \dfrac{\pi}{2}+k\pi,\ k\in\mathbb{Z}",P0
+fm_math_0112,数学,余割函数求导,\dfrac{d}{dx}(\csc x) = -\csc x \cot x,"diff(csc(x), x) = -csc(x)*cot(x)",无量纲,"x \neq k\pi,\ k\in\mathbb{Z}",P0
+fm_math_0113,数学,反正弦函数求导,\dfrac{d}{dx}(\arcsin x) = \dfrac{1}{\sqrt{1-x^2}},"diff(arcsin(x),x) = 1/sqrt(1-x**2)",无量纲,"x\in(-1,1)",P0
+fm_math_0114,数学,反余弦函数求导,\dfrac{d}{dx}(\arccos x) = -\dfrac{1}{\sqrt{1-x^2}},"diff(arccos(x),x) = -1/sqrt(1-x**2)",无量纲,"x\in(-1,1)",P0
+fm_math_0115,数学,反正切函数求导,\dfrac{d}{dx}(\arctan x) = \dfrac{1}{1+x^2},"diff(arctan(x), x) = 1/(1+x**2)",无量纲,x\in\mathbb{R},P0
+fm_math_0116,数学,反余切函数求导,"\dfrac{d}{dx}(\text{arccot}\,x) = -\dfrac{1}{1+x^2}","diff(arccot(x),x) = -1/(1+x**2)",无量纲,x\in\mathbb{R},P0
+fm_math_0117,数学,函数和的求导法则,(u+v)' = u'+v',"diff(u+v, x) = diff(u,x)+diff(v,x)",无量纲,"u(x),v(x) 均可导",P0
+fm_math_0118,数学,函数差的求导法则,(u-v)' = u'-v',"diff(u-v, x) = diff(u,x)-diff(v,x)",无量纲,"u(x),v(x) 均可导",P0
+fm_math_0119,数学,常数倍函数求导,(Cu)' = C u',"diff(C*u, x) = C * diff(u,x)",无量纲,C 为常数，u(x) 可导,P0
+fm_math_0120,数学,函数乘积求导法则,(uv)' = u'v + uv',"diff(u*v, x) = diff(u,x)*v + u*diff(v,x)",无量纲,"u(x),v(x) 均可导",P0
+fm_math_0121,数学,函数商的求导法则,\left(\dfrac{u}{v}\right)' = \dfrac{u'v-uv'}{v^2},"diff(u/v,x) = (diff(u,x)*v - u*diff(v,x))/v**2",无量纲,"v(x)\neq0，u,v 均可导",P0
+fm_math_0122,数学,复合函数求导（链式法则）,\dfrac{dy}{dx}=\dfrac{dy}{du}\cdot\dfrac{du}{dx},"diff(y,x) = diff(y,u) * diff(u,x)",无量纲,"y(u),u(x) 均可导",P0
+fm_math_0123,数学,一阶微分定义,dy = f'(x)dx,"dy = diff(f(x),x) * dx",无量纲,函数 f(x) 可微,P0
+fm_math_0124,数学,不定积分基本性质1,\int [f(x)+g(x)]dx = \int f(x)dx+\int g(x)dx,"integrate(f(x)+g(x),x) = integrate(f(x),x)+integrate(g(x),x)",无量纲,"f(x),g(x) 可积",P0
+fm_math_0125,数学,不定积分基本性质2,\int Cf(x)dx = C\int f(x)dx,"integrate(C*f(x),x) = C * integrate(f(x),x)",无量纲,C 为常数，f(x) 可积,P0
+fm_math_0126,数学,不定积分与求导互逆,\dfrac{d}{dx}\left(\int f(x)dx\right) = f(x),"diff(integrate(f(x),x),x) = f(x)",无量纲,f(x) 连续,P0
+fm_math_0127,数学,常数的不定积分,\int C dx = Cx + C_0,"integrate(C, x) = C*x + C0",无量纲,"C,C_0 为常数",P0
+fm_math_0128,数学,幂函数不定积分,\int x^n dx = \dfrac{1}{n+1}x^{n+1}+C,"integrate(x**n,x) = (1/(n+1))*x**(n+1) + C",无量纲,n\neq-1,P0
+fm_math_0129,数学,反比例函数不定积分,\int \dfrac{1}{x}dx = \ln,x,+C,"integrate(1/x, x) = log(abs(x)) + C",无量纲
+fm_math_0130,数学,自然指数积分,\int e^x dx = e^x + C,"integrate(exp(x), x) = exp(x) + C",无量纲,x\in\mathbb{R},P0
+fm_math_0131,数学,一般指数函数积分,\int a^x dx = \dfrac{a^x}{\ln a}+C,"integrate(a**x,x) = a**x/log(a) + C",无量纲,"a>0,a\neq1",P0
+fm_math_0132,数学,正弦函数不定积分,\int \sin x dx = -\cos x + C,"integrate(sin(x), x) = -cos(x) + C",无量纲,x\in\mathbb{R},P0
+fm_math_0133,数学,余弦函数不定积分,\int \cos x dx = \sin x + C,"integrate(cos(x), x) = sin(x) + C",无量纲,x\in\mathbb{R},P0
+fm_math_0134,数学,正切函数不定积分,\int \tan x dx = -\ln,\cos x,+C,"integrate(tan(x),x) = -log(abs(cos(x))) + C",无量纲
+fm_math_0135,数学,余切函数不定积分,\int \cot x dx = \ln,\sin x,+C,"integrate(cot(x),x) = log(abs(sin(x))) + C",无量纲
+fm_math_0136,数学,正割平方积分,\int \sec^2 x dx = \tan x + C,"integrate(sec(x)**2,x) = tan(x) + C",无量纲,x \neq \dfrac{\pi}{2}+k\pi,P0
+fm_math_0137,数学,余割平方积分,\int \csc^2 x dx = -\cot x + C,"integrate(csc(x)**2,x) = -cot(x) + C",无量纲,x \neq k\pi,P0
+fm_math_0138,数学,反正弦相关积分,\int \dfrac{1}{\sqrt{1-x^2}}dx = \arcsin x + C,"integrate(1/sqrt(1-x**2),x) = arcsin(x) + C",无量纲,"x\in(-1,1)",P0
+fm_math_0139,数学,反正切相关积分,\int \dfrac{1}{1+x^2}dx = \arctan x + C,"integrate(1/(1+x**2),x) = arctan(x) + C",无量纲,x\in\mathbb{R},P0
+fm_math_0140,数学,定积分定义（黎曼和）,\displaystyle \int_a^b f(x)dx=\lim_{\lambda\to0}\sum_{i=1}^n f(\xi_i)\Delta x_i,"integrate(f(x),(x,a,b))",无量纲,"f(x) 在 [a,b] 上有界",P0
+fm_math_0141,数学,定积分上下限交换,\int_a^b f(x)dx = -\int_b^a f(x)dx,"integrate(f(x),(x,a,b)) = -integrate(f(x),(x,b,a))",无量纲,f(x) 可积,P0
+fm_math_0142,数学,定积分区间拆分,\int_a^b f(x)dx+\int_b^c f(x)dx=\int_a^c f(x)dx,"integrate(f(x),(x,a,b))+integrate(f(x),(x,b,c))=integrate(f(x),(x,a,c))",无量纲,a<b<c，f(x) 可积,P0
+fm_math_0143,数学,牛顿-莱布尼茨公式,\displaystyle \int_a^b f'(x)dx = f(b)-f(a),"integrate(diff(f(x),x),(x,a,b)) = f(b)-f(a)",无量纲,"f(x) 在 [a,b] 连续可导",P0
+fm_math_0144,数学,定积分常数倍性质,\int_a^b Cf(x)dx = C\int_a^b f(x)dx,"integrate(C*f(x),(x,a,b)) = C*integrate(f(x),(x,a,b))",无量纲,C 为常数，f(x) 可积,P0
+fm_math_0145,数学,定积分和差性质,\int_a^b [f(x)\pm g(x)]dx=\int_a^b f(x)dx\pm\int_a^b g(x)dx,"integrate(f(x)±g(x),(x,a,b))=integrate(f(x),(x,a,b))±integrate(g(x),(x,a,b))",无量纲,"f,g 均可积",P0
+fm_math_0146,数学,对称区间偶函数积分,\int_{-a}^a f(x)dx = 2\int_0^a f(x)dx,"integrate(f(x),(x,-a,a)) = 2*integrate(f(x),(x,0,a))",无量纲,f(x) 为偶函数，区间对称,P0
+fm_math_0147,数学,对称区间奇函数积分,\int_{-a}^a f(x)dx = 0,"integrate(f(x),(x,-a,a)) = 0",无量纲,f(x) 为奇函数，区间对称,P0
+fm_math_0148,数学,定积分换元法,\displaystyle \int_a^b f(x)dx=\int_{\alpha}^{\beta} f(\varphi(t))\varphi'(t)dt,换元后对应积分表达式,无量纲,换元函数单调可导,P0
+fm_math_0149,数学,定积分分部积分,\int_a^b u dv = uv\big,_a^b - \int_a^b v du,u*v,"(a,b) - integrate(v*diff(u,x),(x,a,b))",无量纲
+fm_math_0150,数学,变上限积分求导,\displaystyle \dfrac{d}{dx}\int_a^x f(t)dt = f(x),"diff(integrate(f(t),(t,a,x)),x) = f(x)",无量纲,f(x) 连续,P0
+fm_math_0151,数学,二阶导数定义,f''(x) = \dfrac{d}{dx}\big(f'(x)\big),"diff(diff(f(x),x),x)",无量纲,一阶导数可导,P0
+fm_math_0152,数学,三阶导数定义,f'''(x) = \dfrac{d}{dx}\big(f''(x)\big),"diff(diff(diff(f(x),x),x),x)",无量纲,二阶导数可导,P0
+fm_math_0153,数学,高阶导数记号,f^{(n)}(x) = \dfrac{d^n y}{dx^n},"diff(f(x),x,n)",无量纲,n 为正整数,P0
+fm_math_0154,数学,多项式高阶导数（高于次数）,次数为k的多项式，n>k 时 f^{(n)}(x)=0,0,无量纲,有限次多项式,P0
+fm_math_0155,数学,e^x n阶导数,(e^x)^{(n)} = e^x,"diff(exp(x),x,n) = exp(x)",无量纲,x\in\mathbb{R},P0
+fm_math_0156,数学,\sin x n阶导数,(\sin x)^{(n)} = \sin\left(x+\dfrac{n\pi}{2}\right),"diff(sin(x),x,n) = sin(x + n*pi/2)",无量纲,x\in\mathbb{R},P0
+fm_math_0157,数学,\cos x n阶导数,(\cos x)^{(n)} = \cos\left(x+\dfrac{n\pi}{2}\right),"diff(cos(x),x,n) = cos(x + n*pi/2)",无量纲,x\in\mathbb{R},P0
+fm_math_0158,数学,函数单调性判定,f'(x)>0 \implies f(x) 单调递增,"diff(f(x),x) > 0",无量纲,区间内可导,P0
+fm_math_0159,数学,函数单调性判定,f'(x)<0 \implies f(x) 单调递减,"diff(f(x),x) < 0",无量纲,区间内可导,P0
+fm_math_0160,数学,极值第一充分条件,导数由正变负，取极大值,导数符号区间判定,无量纲,连续函数，驻点邻域可导,P0
+fm_math_0161,数学,极值第二充分条件,"f'(x_0)=0,\ f''(x_0)<0，x_0 极大值点","diff(f(x0),x)==0 and diff(diff(f(x0),x),x) < 0",无量纲,二阶可导,P0
+fm_math_0162,数学,极值第二充分条件,"f'(x_0)=0,\ f''(x_0)>0，x_0 极小值点","diff(f(x0),x)==0 and diff(diff(f(x0),x),x) > 0",无量纲,二阶可导,P0
+fm_math_0163,数学,凹凸性判定（二阶导）,f''(x)>0，函数图像凹,"diff(diff(f(x),x),x) > 0",无量纲,二阶可导,P0
+fm_math_0164,数学,凹凸性判定（二阶导）,f''(x)<0，函数图像凸,"diff(diff(f(x),x),x) < 0",无量纲,二阶可导,P0
+fm_math_0165,数学,拐点定义,凹凸性改变的点，f''(x_0)=0 且两侧变号,"diff(diff(f(x0),x),x) == 0",无量纲,二阶可导,P0
+fm_math_0166,数学,洛必达法则（\frac{0}{0}型）,\lim\dfrac{f(x)}{g(x)}=\lim\dfrac{f'(x)}{g'(x)},"limit(f(x)/g(x),x) = limit(diff(f(x),x)/diff(g(x),x),x)",无量纲,分子分母同趋于0,P0
+fm_math_0167,数学,洛必达法则（\frac{\infty}{\infty}型）,\lim\dfrac{f(x)}{g(x)}=\lim\dfrac{f'(x)}{g'(x)},"limit(f(x)/g(x),x) = limit(diff(f(x),x)/diff(g(x),x),x)",无量纲,分子分母同趋于无穷,P0
+fm_math_0168,数学,无穷小等价：\sin x \sim x,\lim\limits_{x\to0}\dfrac{\sin x}{x}=1,"limit(sin(x)/x, x, 0) = 1",无量纲,x\to0,P0
+fm_math_0169,数学,无穷小等价：\tan x \sim x,\lim\limits_{x\to0}\dfrac{\tan x}{x}=1,"limit(tan(x)/x, x, 0) = 1",无量纲,x\to0,P0
+fm_math_0170,数学,无穷小等价：e^x-1 \sim x,\lim\limits_{x\to0}\dfrac{e^x-1}{x}=1,"limit((exp(x)-1)/x, x, 0) = 1",无量纲,x\to0,P0
+fm_math_0171,数学,无穷小等价：\ln(1+x) \sim x,\lim\limits_{x\to0}\dfrac{\ln(1+x)}{x}=1,"limit(log(1+x)/x, x, 0) = 1",无量纲,x\to0,P0
+fm_math_0172,数学,无穷小等价：\sqrt{1+x}-1 \sim \dfrac{1}{2}x,\lim\limits_{x\to0}\dfrac{\sqrt{1+x}-1}{x}=\dfrac{1}{2},"limit((sqrt(1+x)-1)/x, x, 0) = 1/2",无量纲,x\to0,P0
+fm_math_0173,数学,弧长公式（一元函数）,\displaystyle s=\int_a^b \sqrt{1+(y')^2}dx,"integrate(sqrt(1+diff(y,x)**2),(x,a,b))",无量纲,曲线光滑,P0
+fm_math_0174,数学,旋转体体积（绕x轴）,\displaystyle V=\pi\int_a^b y^2 dx,"pi * integrate(y**2,(x,a,b))",无量纲,平面曲线绕x轴旋转,P0
+fm_math_0175,数学,旋转体体积（绕y轴）,\displaystyle V=2\pi\int_a^b x y dx,"2*pi * integrate(x*y,(x,a,b))",无量纲,平面曲线绕y轴旋转,P0
+fm_math_0176,数学,反常积分（无穷上限）,\displaystyle \int_a^{+\infty}f(x)dx=\lim_{b\to+\infty}\int_a^b f(x)dx,"limit(integrate(f(x),(x,a,b)), b, inf)",无量纲,右侧无穷区间,P0
+fm_math_0177,数学,反常积分（无穷下限）,\displaystyle \int_{-\infty}^b f(x)dx=\lim_{a\to-\infty}\int_a^b f(x)dx,"limit(integrate(f(x),(x,a,b)), a, -inf)",无量纲,左侧无穷区间,P0
+fm_math_0178,数学,全无穷区间反常积分,\int_{-\infty}^{+\infty}f(x)dx=\int_{-\infty}^0 f(x)dx+\int_0^{+\infty}f(x)dx,分段反常积分组合式,无量纲,两端无穷区间,P0
+fm_math_0179,数学,无界函数反常积分（瑕点）,\displaystyle \int_a^b f(x)dx=\lim_{\varepsilon\to0^+}\int_{a+\varepsilon}^b f(x)dx,"limit(integrate(f(x),(x,a+eps,b)), eps, 0)",无量纲,x=a 为瑕点,P0
+fm_math_0180,数学,泰勒展开（麦克劳林）,\displaystyle f(x)=\sum_{n=0}^{\infty}\dfrac{f^{(n)}(0)}{n!}x^n,幂级数展开式,无量纲,原点邻域内解析,P0
+fm_math_0181,数学,e^x 麦克劳林展开,\displaystyle e^x=\sum_{n=0}^{\infty}\dfrac{x^n}{n!},"sum(x**n / factorial(n), (n,0,inf))",无量纲,x\in\mathbb{R},P0
+fm_math_0201,数学,线段中点坐标公式,"\displaystyle x=\frac{x_1+x_2}{2},\ y=\frac{y_1+y_2}{2}",x=(x1+x2)/2; y=(y1+y2)/2,[L],"平面直角坐标系两点(x_1,y_1),(x_2,y_2)",P1
+fm_math_0202,数学,平面两点间距离公式,d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2},d=sqrt((x2-x1)**2 + (y2-y1)**2),[L],平面任意两点,P1
+fm_math_0203,数学,直线斜率定义,\displaystyle k=\frac{y_2-y_1}{x_2-x_1},k=(y2-y1)/(x2-x1),无量纲,x_1\neq x_2，直线非竖直,P1
+fm_math_0204,数学,直线点斜式方程,y-y_1=k(x-x_1),y - y1 = k*(x - x1),无量纲,直线斜率k存在,P1
+fm_math_0205,数学,直线斜截式方程,y=kx+b,y = k*x + b,无量纲,直线斜率k存在，b为纵截距,P1
+fm_math_0206,数学,直线截距式方程,\displaystyle \frac{x}{a}+\frac{y}{b}=1,x/a + y/b = 1,无量纲,横截距a\neq0，纵截距b\neq0,P1
+fm_math_0207,数学,直线一般式方程,Ax+By+C=0,A*x + B*y + C = 0,无量纲,"A,B不同时为0",P1
+fm_math_0208,数学,两直线平行斜率关系,k_1=k_2,k1 == k2,无量纲,两直线均存在斜率，不重合,P1
+fm_math_0209,数学,两直线垂直斜率关系,k_1\cdot k_2=-1,k1 * k2 = -1,无量纲,两直线均存在斜率,P1
+fm_math_0210,数学,点到直线距离公式,\displaystyle d=\frac{,Ax_0+By_0+C,}{\sqrt{A^2+B^2}},d=abs(A*x0+B*y0+C)/sqrt(A**2+B**2),[L]
+fm_math_0211,数学,两平行线间距离公式,\displaystyle d=\frac{,C_1-C_2,}{\sqrt{A^2+B^2}},d=abs(C1-C2)/sqrt(A**2+B**2),[L]
+fm_math_0212,数学,三角形周长公式,C=a+b+c,C = a + b + c,[L],"三边长a,b,c的任意三角形",P1
+fm_math_0213,数学,三角形面积（底高式）,\displaystyle S=\frac{1}{2}ah,S = 0.5 * a * h,[L^2],a为底边长，h为对应高,P1
+fm_math_0214,数学,海伦公式,\displaystyle S=\sqrt{p(p-a)(p-b)(p-c)},S=sqrt(p*(p-a)*(p-b)*(p-c)),[L^2],p=\dfrac{a+b+c}{2}，任意三角形,P1
+fm_math_0215,数学,直角三角形面积,\displaystyle S=\frac{1}{2}ab,S = 0.5 * a * b,[L^2],"a,b为两条直角边",P1
+fm_math_0216,数学,等腰三角形高（底边）,\displaystyle h=\sqrt{a^2-\left(\frac{b}{2}\right)^2},h=sqrt(a**2 - (b/2)**2),[L],腰长a，底边长b,P1
+fm_math_0217,数学,等边三角形边长与高,\displaystyle h=\frac{\sqrt{3}}{2}a,h = (sqrt(3)/2) * a,[L],边长为a的等边三角形,P1
+fm_math_0218,数学,等边三角形面积,\displaystyle S=\frac{\sqrt{3}}{4}a^2,S = (sqrt(3)/4) * a**2,[L^2],边长为a的等边三角形,P1
+fm_math_0219,数学,三角形中位线长度,\displaystyle l=\frac{1}{2}a,l = 0.5 * a,[L],a为对应三角形底边,P1
+fm_math_0220,数学,三角形内角和,\angle A+\angle B+\angle C=180^\circ,A + B + C = 180,无量纲,任意平面三角形,P1
+fm_math_0221,数学,三角形外角定理,\angle D=\angle A+\angle B,D = A + B,无量纲,三角形任一外角等于两内对角和,P1
+fm_math_0222,数学,矩形周长公式,C=2(a+b),C = 2*(a + b),[L],长a，宽b,P1
+fm_math_0223,数学,矩形面积公式,S=ab,S = a * b,[L^2],长a，宽b,P1
+fm_math_0224,数学,正方形周长公式,C=4a,C = 4 * a,[L],边长为a,P1
+fm_math_0225,数学,正方形面积公式,S=a^2,S = a**2,[L^2],边长为a,P1
+fm_math_0226,数学,正方形对角线长度,d=\sqrt{2}a,d = sqrt(2) * a,[L],边长为a,P1
+fm_math_0227,数学,平行四边形周长,C=2(a+b),C = 2*(a + b),[L],"邻边长a,b",P1
+fm_math_0228,数学,平行四边形面积（底高）,S=ah,S = a * h,[L^2],底a，对应高h,P1
+fm_math_0229,数学,平行四边形面积（两边夹角）,S=ab\sin\theta,S = a * b * sin(theta),[L^2],"邻边a,b，夹角\theta",P1
+fm_math_0230,数学,菱形周长公式,C=4a,C = 4 * a,[L],边长为a,P1
+fm_math_0231,数学,菱形面积（对角线）,\displaystyle S=\frac{1}{2}d_1d_2,S = 0.5 * d1 * d2,[L^2],"两条对角线d_1,d_2",P1
+fm_math_0232,数学,梯形周长公式,C=a+b+c+d,C = a + b + c + d,[L],"上底a、下底b、两腰c,d",P1
+fm_math_0233,数学,梯形面积公式,\displaystyle S=\frac{(a+b)}{2}h,S = (a + b) * h / 2,[L^2],上底a，下底b，高h,P1
+fm_math_0234,数学,梯形中位线长度,\displaystyle m=\frac{a+b}{2},m = (a + b) / 2,[L],上底a，下底b,P1
+fm_math_0235,数学,圆的周长公式,C=2\pi r,C = 2 * pi * r,[L],r为圆半径,P1
+fm_math_0236,数学,圆的面积公式,S=\pi r^2,S = pi * r**2,[L^2],r为圆半径,P1
+fm_math_0237,数学,圆直径与半径关系,d=2r,d = 2 * r,[L],d直径，r半径,P1
+fm_math_0238,数学,圆标准方程（圆心原点）,x^2+y^2=r^2,x**2 + y**2 = r**2,无量纲,"圆心(0,0)，半径r",P1
+fm_math_0239,数学,圆标准方程（任意圆心）,(x-a)^2+(y-b)^2=r^2,(x-a)**2 + (y-b)**2 = r**2,无量纲,"圆心(a,b)，半径r",P1
+fm_math_0240,数学,圆一般方程,x^2+y^2+Dx+Ey+F=0,x**2 + y**2 + D*x + E*y + F = 0,无量纲,D^2+E^2-4F>0,P1
+fm_math_0241,数学,弧长公式（角度制）,\displaystyle l=\frac{n\pi r}{180},l = n * pi * r / 180,[L],圆心角n^\circ，半径r,P1
+fm_math_0242,数学,弧长公式（弧度制）,l=\alpha r,l = alpha * r,[L],圆心角\alpha（弧度），半径r,P1
+fm_math_0243,数学,扇形面积（角度制）,\displaystyle S=\frac{n\pi r^2}{360},S = n * pi * r**2 / 360,[L^2],圆心角n^\circ，半径r,P1
+fm_math_0244,数学,扇形面积（弧长式）,\displaystyle S=\frac{1}{2}lr,S = 0.5 * l * r,[L^2],弧长l，半径r,P1
+fm_math_0245,数学,扇形面积（弧度制）,\displaystyle S=\frac{1}{2}\alpha r^2,S = 0.5 * alpha * r**2,[L^2],圆心角\alpha（弧度）,P1
+fm_math_0246,数学,弓形面积（扇形减三角形）,S=S_{\text{扇}}-S_{\triangle},S = S_sector - S_triangle,[L^2],劣弧对应的弓形,P1
+fm_math_0247,数学,两圆外切圆心距,d=r_1+r_2,d = r1 + r2,[L],"两圆半径r_1,r_2，外切",P1
+fm_math_0248,数学,两圆内切圆心距,d=,r_1-r_2,,d = abs(r1 - r2),[L]
+fm_math_0249,数学,两圆外离圆心距,d>r_1+r_2,d > r1 + r2,[L],两圆无交点，外离,P1
+fm_math_0250,数学,两圆内含圆心距,d<,r_1-r_2,,d < abs(r1 - r2),[L]
+fm_math_0251,数学,正n边形内角和,\displaystyle \theta_{\text{总}}=(n-2)\cdot180^\circ,theta_total = (n-2)*180,无量纲,n\ge3，正多边形,P1
+fm_math_0252,数学,正n边形单个内角度数,\displaystyle \theta=\frac{(n-2)\cdot180^\circ}{n},theta = (n-2)*180 / n,无量纲,n\ge3，正多边形,P1
+fm_math_0253,数学,正n边形外角和,\theta_{\text{外总}}=360^\circ,theta_out_total = 360,无量纲,任意凸正多边形,P1
+fm_math_0254,数学,正n边形单外角度数,\displaystyle \theta_{\text{外}}=\frac{360^\circ}{n},theta_out = 360 / n,无量纲,n\ge3，正多边形,P1
+fm_math_0255,数学,正n边形周长,C=n\cdot a,C = n * a,[L],边长a，边数n,P1
+fm_math_0256,数学,相似三角形边长比,\displaystyle \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k,a1/a2 = b1/b2 = c1/c2 = k,无量纲,k为相似比,P1
+fm_math_0257,数学,相似三角形周长比,\displaystyle \frac{C_1}{C_2}=k,C1 / C2 = k,无量纲,k为相似比,P1
+fm_math_0258,数学,相似三角形面积比,\displaystyle \frac{S_1}{S_2}=k^2,S1 / S2 = k**2,无量纲,k为相似比,P1
+fm_math_0259,数学,点分线段定比分点公式,\displaystyle x=\frac{x_1+\lambda x_2}{1+\lambda},x=(x1 + lambda*x2)/(1+lambda),[L],分比\lambda，线段两端点,P1
+fm_math_0260,数学,定比分点纵坐标公式,\displaystyle y=\frac{y_1+\lambda y_2}{1+\lambda},y=(y1 + lambda*y2)/(1+lambda),[L],分比\lambda，线段两端点,P1
+fm_math_0261,数学,三角形重心坐标,\displaystyle x=\frac{x_1+x_2+x_3}{3},x=(x1+x2+x3)/3,[L],三角形三顶点坐标,P1
+fm_math_0262,数学,三角形重心纵坐标,\displaystyle y=\frac{y_1+y_2+y_3}{3},y=(y1+y2+y3)/3,[L],三角形三顶点坐标,P1
+fm_math_0263,数学,三角形外接圆半径,\displaystyle R=\frac{abc}{4S},R = (a*b*c)/(4*S),[L],"a,b,c三边长，S面积",P1
+fm_math_0264,数学,三角形内切圆半径,\displaystyle r=\frac{S}{p},r = S / p,[L],p=\dfrac{a+b+c}{2}，半周长,P1
+fm_math_0265,数学,弦长公式（直线截圆）,\displaystyle l=2\sqrt{r^2-d^2},l = 2*sqrt(r**2 - d**2),[L],圆半径r，圆心到直线距离d,P1
+fm_math_0266,数学,切线长公式（圆外一点）,\displaystyle l=\sqrt{PO^2-r^2},l = sqrt(PO**2 - r**2),[L],PO为点到圆心距离，r半径,P1
+fm_math_0267,数学,圆周角与圆心角关系,\theta_{\text{圆周}}=\frac{1}{2}\theta_{\text{圆心}},theta_circle = 0.5 * theta_center,无量纲,同一段弧所对角,P1
+fm_math_0268,数学,圆内接四边形对角和,\angle A+\angle C=180^\circ,A + C = 180,无量纲,圆内接凸四边形,P1
+fm_math_0269,数学,斜率与倾斜角关系,k=\tan\alpha,k = tan(alpha),无量纲,倾斜角\alpha\neq90^\circ,P1
+fm_math_0270,数学,两直线夹角公式,\displaystyle \tan\varphi=\left,\frac{k_2-k_1}{1+k_1k_2}\right,,tan(phi) = abs((k2-k1)/(1+k1*k2)),无量纲
+fm_math_0271,数学,坐标三角形面积公式,\displaystyle S=\frac{1}{2},x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2),,S=0.5*abs(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2)),[L^2]
+fm_math_0272,数学,割线定理,PA\cdot PB=PC\cdot PD,PA * PB = PC * PD,[L^2],圆外一点引两条割线,P1
+fm_math_0273,数学,切割线定理,PT^2=PA\cdot PB,PT**2 = PA * PB,[L^2],PT切线，PAB割线,P1
+fm_math_0274,数学,相交弦定理,PA\cdot PB=PC\cdot PD,PA * PB = PC * PD,[L^2],圆内两弦相交,P1
+fm_math_0275,数学,半角圆周角（直径）,直径所对圆周角=90^\circ,angle = 90,无量纲,圆的直径端点与圆上一点连线,P1
+fm_math_0276,数学,正六边形边长与半径,a=r,a = r,[L],外接圆半径r，边长a,P1
+fm_math_0277,数学,圆环面积公式,S=\pi(R^2-r^2),S = pi*(R**2 - r**2),[L^2],外圆半径R，内圆半径r,P1
+fm_math_0278,数学,角度弧度换算,\displaystyle 1^\circ=\frac{\pi}{180}\ \text{rad},deg_to_rad = pi / 180,无量纲,角度转弧度,P1
+fm_math_0279,数学,弧度角度换算,\displaystyle 1\ \text{rad}=\left(\frac{180}{\pi}\right)^\circ,rad_to_deg = 180 / pi,无量纲,弧度转角度,P1
+fm_math_0280,数学,共线三点斜率判定,k_{AB}=k_{BC},k_AB == k_BC,无量纲,"三点A,B,C共线判定",P1
+fm_math_0281,数学,空间两点距离公式,d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2},d=sqrt((x2-x1)**2+(y2-y1)**2+(z2-z1)**2),[L],空间直角坐标系两点,P1
+fm_math_0282,数学,空间线段中点坐标,"\displaystyle x=\frac{x_1+x_2}{2},y=\frac{y_1+y_2}{2},z=\frac{z_1+z_2}{2}",x=(x1+x2)/2; y=(y1+y2)/2; z=(z1+z2)/2,[L],空间线段两端点,P1
+fm_math_0283,数学,长方体棱长总和,C=4(a+b+c),C=4*(a+b+c),[L],长a、宽b、高c,P1
+fm_math_0284,数学,长方体表面积,S=2(ab+bc+ac),S=2*(a*b+b*c+a*c),[L^2],长a、宽b、高c,P1
+fm_math_0285,数学,长方体体积,V=abc,V=a*b*c,[L^3],长a、宽b、高c,P1
+fm_math_0286,数学,长方体体对角线,l=\sqrt{a^2+b^2+c^2},l=sqrt(a**2+b**2+c**2),[L],长a、宽b、高c,P1
+fm_math_0287,数学,正方体棱长总和,C=12a,C=12*a,[L],棱长a,P1
+fm_math_0288,数学,正方体表面积,S=6a^2,S=6*a**2,[L^2],棱长a,P1
+fm_math_0289,数学,正方体体积,V=a^3,V=a**3,[L^3],棱长a,P1
+fm_math_0290,数学,正方体体对角线,l=\sqrt{3}a,l=sqrt(3)*a,[L],棱长a,P1
+fm_math_0291,数学,直棱柱侧面积,S_{\text{侧}}=Ch,S_side = C * h,[L^2],底面周长C，高h,P1
+fm_math_0292,数学,直棱柱表面积,S_{\text{表}}=Ch+2S_{\text{底}},S_total = C*h + 2*S_base,[L^2],底面周长C，高h，底面积S_{\text{底}},P1
+fm_math_0293,数学,棱柱体积,V=S_{\text{底}}h,V = S_base * h,[L^3],底面积S_{\text{底}}，高h,P1
+fm_math_0294,数学,正棱锥侧面积,\displaystyle S_{\text{侧}}=\frac{1}{2}Ch',S_side = 0.5 * C * h_prime,[L^2],底面周长C，斜高h',P1
+fm_math_0295,数学,正棱锥表面积,\displaystyle S_{\text{表}}=\frac{1}{2}Ch'+S_{\text{底}},S_total = 0.5*C*h_prime + S_base,[L^2],底面周长C，斜高h'，底面积S_{\text{底}},P1
+fm_math_0296,数学,棱锥体积,\displaystyle V=\frac{1}{3}S_{\text{底}}h,V = (1/3) * S_base * h,[L^3],底面积S_{\text{底}}，高h,P1
+fm_math_0297,数学,棱台体积,\displaystyle V=\frac{1}{3}h(S_{\text{上}}+S_{\text{下}}+\sqrt{S_{\text{上}}S_{\text{下}}}),V=(1/3)*h*(S_up + S_down + sqrt(S_up*S_down)),[L^3],上下底面积，台体高h,P1
+fm_math_0298,数学,圆柱底面周长,C=2\pi r,C = 2*pi*r,[L],底面半径r,P1
+fm_math_0299,数学,圆柱侧面积,S_{\text{侧}}=2\pi rh,S_side = 2*pi*r*h,[L^2],底面半径r，柱高h,P1
+fm_math_0300,数学,圆柱表面积,S_{\text{表}}=2\pi r(r+h),S_total = 2*pi*r*(r+h),[L^2],底面半径r，柱高h,P1
+fm_math_0301,数学,圆柱体积,V=\pi r^2 h,V = pi*r**2*h,[L^3],底面半径r，柱高h,P1
+fm_math_0302,数学,圆锥母线长,l=\sqrt{r^2+h^2},l = sqrt(r**2 + h**2),[L],底面半径r，锥高h,P1
+fm_math_0303,数学,圆锥侧面积,S_{\text{侧}}=\pi rl,S_side = pi*r*l,[L^2],底面半径r，母线l,P1
+fm_math_0304,数学,圆锥表面积,S_{\text{表}}=\pi r(r+l),S_total = pi*r*(r+l),[L^2],底面半径r，母线l,P1
+fm_math_0305,数学,圆锥体积,\displaystyle V=\frac{1}{3}\pi r^2 h,V = (1/3)*pi*r**2*h,[L^3],底面半径r，锥高h,P1
+fm_math_0306,数学,圆台母线长,l=\sqrt{h^2+(R-r)^2},l=sqrt(h**2+(R-r)**2),[L],上下底半径R、r，台高h,P1
+fm_math_0307,数学,圆台侧面积,S_{\text{侧}}=\pi(R+r)l,S_side = pi*(R+r)*l,[L^2],上下底半径R、r，母线l,P1
+fm_math_0308,数学,圆台表面积,S_{\text{表}}=\pi(R^2+r^2+Rl+rl),S_total = pi*(R**2+r**2+R*l+r*l),[L^2],上下底半径R、r，母线l,P1
+fm_math_0309,数学,圆台体积,\displaystyle V=\frac{1}{3}\pi h(R^2+Rr+r^2),V=(1/3)*pi*h*(R**2+R*r+r**2),[L^3],上下底半径R、r，台高h,P1
+fm_math_0310,数学,球的表面积,S=4\pi R^2,S = 4*pi*R**2,[L^2],球半径R,P1
+fm_math_0311,数学,球的体积,\displaystyle V=\frac{4}{3}\pi R^3,V = (4/3)*pi*R**3,[L^3],球半径R,P1
+fm_math_0312,数学,球大圆周长,C=2\pi R,C = 2*pi*R,[L],球半径R,P1
+fm_math_0313,数学,球冠面积,S=2\pi Rh,S = 2*pi*R*h,[L^2],球半径R，冠高h,P1
+fm_math_0314,数学,球缺体积,\displaystyle V=\frac{1}{3}\pi h^2(3R-h),V=(1/3)*pi*h**2*(3*R-h),[L^3],球半径R，缺高h,P1
+fm_math_0315,数学,空间向量模长,,\boldsymbol{a},=\sqrt{x^2+y^2+z^2},abs(a)=sqrt(x**2+y**2+z**2),[L]
+fm_math_0316,数学,空间向量数量积,\boldsymbol{a}\cdot\boldsymbol{b}=x_1x_2+y_1y_2+z_1z_2,a_dot_b = x1*x2 + y1*y2 + z1*z2,无量纲,两空间向量坐标,P1
+fm_math_0317,数学,向量夹角余弦,\displaystyle \cos\theta=\frac{\boldsymbol{a}\cdot\boldsymbol{b}}{,\boldsymbol{a},,\boldsymbol{b},}
+fm_math_0318,数学,向量垂直判定,\boldsymbol{a}\cdot\boldsymbol{b}=0,a_dot_b == 0,无量纲,两非零向量垂直,P1
+fm_math_0319,数学,向量平行判定,\boldsymbol{a}=\lambda\boldsymbol{b},a = lambda * b,无量纲,\lambda为实数，\boldsymbol{b}\neq\boldsymbol{0},P1
+fm_math_0320,数学,直线方向向量平行,\boldsymbol{s_1}\parallel\boldsymbol{s_2},s1 parallel s2,无量纲,两空间直线方向向量,P1
+fm_math_0321,数学,平面法向量垂直判定,\boldsymbol{n_1}\perp\boldsymbol{n_2},n1 dot n2 == 0,无量纲,两平面法向量,P1
+fm_math_0322,数学,点到平面距离,\displaystyle d=\frac{,Ax_0+By_0+Cz_0+D,}{\sqrt{A^2+B^2+C^2}},d=abs(A*x0+B*y0+C*z0+D)/sqrt(A**2+B**2+C**2),[L]
+fm_math_0323,数学,空间异面直线夹角,取方向向量夹角锐角或直角,"取\min(\theta,180^\circ-\theta)",无量纲,异面直线方向向量夹角,P1
+fm_math_0324,数学,线面角公式,\sin\theta=,"\cos\langle\boldsymbol{s},\boldsymbol{n}\rangle",,"sin(theta) = abs(cos_angle(s,n))",无量纲
+fm_math_0325,数学,二面角与法向量关系,二面角等于或互补于法向量夹角,角度取对应二面角,无量纲,两平面法向量,P1
+fm_math_0326,数学,正四面体棱长与高,\displaystyle h=\frac{\sqrt{6}}{3}a,h = (sqrt(6)/3)*a,[L],棱长a的正四面体,P1
+fm_math_0327,数学,正四面体表面积,S=\sqrt{3}a^2,S = sqrt(3)*a**2,[L^2],棱长a的正四面体,P1
+fm_math_0328,数学,正四面体体积,\displaystyle V=\frac{\sqrt{2}}{12}a^3,V = (sqrt(2)/12)*a**3,[L^3],棱长a的正四面体,P1
+fm_math_0329,数学,圆柱侧面展开图弧长,l=2\pi r,l = 2*pi*r,[L],底面半径r,P1
+fm_math_0330,数学,圆锥侧面展开圆心角,\displaystyle \theta=\frac{r}{l}\cdot360^\circ,theta = (r/l)*360,无量纲,底面半径r，母线l,P1
+fm_math_0331,数学,相似几何体体积比,\displaystyle \frac{V_1}{V_2}=k^3,V1/V2 = k**3,无量纲,k为相似比,P1
+fm_math_0332,数学,相似几何体表面积比,\displaystyle \frac{S_1}{S_2}=k^2,S1/S2 = k**2,无量纲,k为相似比,P1
+fm_math_0333,数学,半球表面积,S=3\pi R^2,S = 3*pi*R**2,[L^2],球半径R（含底面）,P1
+fm_math_0334,数学,半球体积,\displaystyle V=\frac{2}{3}\pi R^3,V = (2/3)*pi*R**3,[L^3],球半径R,P1
+fm_math_0335,数学,空间三点共线向量判定,\overrightarrow{AB}=\lambda\overrightarrow{AC},vec_AB = lambda * vec_AC,无量纲,"空间三点A,B,C",P1
+fm_math_0336,数学,四棱柱体积通用式,V=S_{\text{底}}h,V = S_base * h,[L^3],底面积S_{\text{底}}，垂直高h,P1
+fm_math_0337,数学,斜棱柱体积,V=S_{\text{直截面}}\cdot l,V = S_cross * l,[L^3],直截面面积，侧棱长l,P1
+fm_math_0338,数学,空间直线参数方程,"x=x_0+lt,\ y=y_0+mt,\ z=z_0+nt",x=x0+l*t; y=y0+m*t; z=z0+n*t,[L],"过定点，方向向量(l,m,n)",P1
+fm_math_0339,数学,平面截球截面圆半径,r=\sqrt{R^2-d^2},r = sqrt(R**2 - d**2),[L],球半径R，球心到截面距离d,P1
+fm_math_0340,数学,空间多边形内角和,多面体欧拉公式：V-E+F=2,V - E + F = 2,无量纲,简单凸多面体，顶点V、棱E、面F,P1
+fm_math_0341,数学,实数基本不等式,a^2\ge 0,a**2 >= 0,无量纲,a\in\mathbb{R}，a=0取等号,P1
+fm_math_0342,数学,二元完全平方不等式,(a-b)^2\ge 0,(a-b)**2 >= 0,无量纲,"a,b\in\mathbb{R}，a=b取等号",P1
+fm_math_0343,数学,基本均值不等式(二元),\displaystyle \frac{a+b}{2}\ge\sqrt{ab},(a+b)/2 >= sqrt(a*b),无量纲,"a>0,b>0，a=b取等号",P1
+fm_math_0344,数学,二元均值不等式变形,a+b\ge 2\sqrt{ab},a + b >= 2*sqrt(a*b),无量纲,"a>0,b>0，a=b取等号",P1
+fm_math_0345,数学,积定和最小,"ab=k,\ a+b\ge 2\sqrt{k}",a*b=k; a+b >= 2*sqrt(k),无量纲,"a>0,b>0,k>0",P1
+fm_math_0346,数学,和定积最大,"a+b=k,\ ab\le \dfrac{k^2}{4}",a+b=k; a*b <= k**2/4,无量纲,"a>0,b>0,k>0",P1
+fm_math_0347,数学,三元算术几何均值不等式,\displaystyle \frac{a+b+c}{3}\ge\sqrt[3]{abc},(a+b+c)/3 >= (a*b*c)**(1/3),无量纲,"a,b,c>0，a=b=c取等号",P1
+fm_math_0348,数学,n元均值不等式,\displaystyle \frac{1}{n}\sum_{i=1}^n a_i \ge \sqrt[n]{\prod_{i=1}^n a_i},sum(a_i)/n >= product(a_i)**(1/n),无量纲,a_i>0，全相等取等号,P1
+fm_math_0349,数学,绝对值三角不等式,,a+b,\le,a,+
+fm_math_0350,数学,绝对值差形式三角不等式,,a-b,\le,a,+
+fm_math_0351,数学,绝对值反向三角不等式,,,a,-,b
+fm_math_0352,数学,分式均值不等式(倒数和),\displaystyle a+\frac{1}{a}\ge 2,a + 1/a >= 2,无量纲,a>0，a=1取等号,P1
+fm_math_0353,数学,负数分式均值不等式,\displaystyle a+\frac{1}{a}\le -2,a + 1/a <= -2,无量纲,a<0，a=-1取等号,P1
+fm_math_0354,数学,二元平方和不等式,a^2+b^2\ge 2ab,a**2 + b**2 >= 2*a*b,无量纲,"a,b\in\mathbb{R}，a=b取等号",P1
+fm_math_0355,数学,平方和与和的关系,\displaystyle a^2+b^2\ge \frac{(a+b)^2}{2},a**2 + b**2 >= (a+b)**2 / 2,无量纲,"a,b\in\mathbb{R}，a=b取等号",P1
+fm_math_0356,数学,柯西不等式(二维),(a^2+b^2)(c^2+d^2)\ge (ac+bd)^2,(a**2+b**2)*(c**2+d**2) >= (a*c+b*d)**2,无量纲,"a,b,c,d\in\mathbb{R}，成比例取等号",P1
+fm_math_0357,数学,柯西不等式(n维),\displaystyle \left(\sum_{i=1}^n a_i^2\right)\left(\sum_{i=1}^n b_i^2\right)\ge \left(\sum_{i=1}^n a_ib_i\right)^2,sum(a_i**2)*sum(b_i**2) >= (sum(a_i*b_i))**2,无量纲,实数序列，对应项成比例取等号,P1
+fm_math_0358,数学,排序不等式(同序和最大),同序和\ge乱序和\ge逆序和,序列有序对应求和比较,无量纲,两组有序实数序列,P1
+fm_math_0359,数学,糖水不等式,\displaystyle \frac{b}{a}<\frac{b+m}{a+m},b/a < (b+m)/(a+m),无量纲,"a>b>0,\ m>0",P1
+fm_math_0360,数学,一元二次不等式(a>0),ax^2+bx+c>0解集：x<x_1或x>x_2,a*x**2+b*x+c > 0,无量纲,"\Delta>0,a>0，x_1,x_2为两根",P1
+fm_math_0361,数学,一元二次不等式(a>0),ax^2+bx+c<0解集：x_1<x<x_2,a*x**2+b*x+c < 0,无量纲,"\Delta>0,a>0，x_1,x_2为两根",P1
+fm_math_0362,数学,二次函数恒正条件,ax^2+bx+c>0恒成立,a>0 && Delta < 0,无量纲,a\neq0，x\in\mathbb{R},P1
+fm_math_0363,数学,二次函数恒负条件,ax^2+bx+c<0恒成立,a<0 && Delta < 0,无量纲,a\neq0，x\in\mathbb{R},P1
+fm_math_0364,数学,权方和不等式(二维),\displaystyle \frac{x^2}{a}+\frac{y^2}{b}\ge\frac{(x+y)^2}{a+b},x**2/a + y**2/b >= (x+y)**2/(a+b),无量纲,"a,b>0，x/a=y/b取等号",P1
+fm_math_0365,数学,对数不等式(上界),\ln x \le x-1,log(x) <= x - 1,无量纲,x>0，x=1取等号,P1
+fm_math_0366,数学,指数不等式下界,e^x \ge x+1,exp(x) >= x + 1,无量纲,x\in\mathbb{R}，x=0取等号,P1
+fm_math_0367,数学,分式放缩不等式,\displaystyle \frac{1}{n(n+1)}<\frac{1}{n^2}<\frac{1}{n(n-1)},1/(n*(n+1)) < 1/n**2 < 1/(n*(n-1)),无量纲,"n\in\mathbb{N}^*,n\ge2",P1
+fm_math_0368,数学,均值链不等式(四元),调和\le几何\le算术\le平方平均,H\le G\le A\le Q,无量纲,正数序列，全相等取等号,P1
+fm_math_0369,数学,调和平均数公式,\displaystyle H=\frac{n}{\displaystyle \sum_{i=1}^n \frac{1}{a_i}},H = n / sum(1/a_i),无量纲,a_i>0,P1
+fm_math_0370,数学,平方平均数公式,\displaystyle Q=\sqrt{\frac{1}{n}\sum_{i=1}^n a_i^2},Q = sqrt(sum(a_i**2)/n),无量纲,a_i\in\mathbb{R},P1
+fm_math_0371,数学,含参绝对值不等式,,x-a,<b \iff a-b<x<a+b,abs(x-a) < b  <=>  a-b < x < a+b,无量纲
+fm_math_0372,数学,含参绝对值不等式,,x-a,>b \iff x<a-b \text{ 或 } x>a+b,abs(x-a) > b  <=>  x<a-b or x>a+b,无量纲
+fm_math_0373,数学,高次幂不等式,a>b>0 \implies a^n>b^n,a>b>0 => a**n > b**n,无量纲,n\in\mathbb{N}^*,P1
+fm_math_0374,数学,倒数单调性不等式,a>b>0 \implies \displaystyle \frac{1}{a}<\frac{1}{b},a>b>0 => 1/a < 1/b,无量纲,正实数,P1
+fm_math_0375,数学,分数不等式同向相加,\begin{cases}a>b\\c>d\end{cases}\implies a+c>b+d,a>b && c>d => a+c > b+d,无量纲,任意实数,P1
+fm_math_0376,数学,正分数同向相乘,\begin{cases}a>b>0\\c>d>0\end{cases}\implies ac>bd,a>b>0 && c>d>0 => a*c > b*d,无量纲,正实数,P1
+fm_math_0377,数学,伯努利不等式(x>-1),(1+x)^n \ge 1+nx,(1+x)**n >= 1 + n*x,无量纲,"n\in\mathbb{N}^*,x>-1，x=0取等号",P1
+fm_math_0378,数学,二元差平方放缩,a^2+b^2 \ge ab,a**2 + b**2 >= a*b,无量纲,"a,b\in\mathbb{R}，a=b取等号",P1
+fm_math_0379,数学,根式不等式,\sqrt{a+1}-\sqrt{a}<\sqrt{a}-\sqrt{a-1},sqrt(a+1)-sqrt(a) < sqrt(a)-sqrt(a-1),无量纲,a\ge1,P1
+fm_math_0380,数学,正弦有界不等式,,\sin x,\le 1,abs(sin(x)) <= 1,无量纲
+fm_math_0381,数学,余弦有界不等式,,\cos x,\le 1,abs(cos(x)) <= 1,无量纲
+fm_math_0382,数学,反正切值域不等式,\displaystyle -\frac{\pi}{2}<\arctan x<\frac{\pi}{2},-pi/2 < arctan(x) < pi/2,无量纲,x\in\mathbb{R},P1
+fm_math_0383,数学,简单分式不等式,\displaystyle \frac{x-a}{x-b}>0 \iff (x-a)(x-b)>0,(x-a)/(x-b) > 0  <=>  (x-a)*(x-b) > 0,无量纲,x\neq b,P1
+fm_math_0384,数学,简单分式不等式,\displaystyle \frac{x-a}{x-b}<0 \iff (x-a)(x-b)<0,(x-a)/(x-b) < 0  <=>  (x-a)*(x-b) < 0,无量纲,x\neq b,P1
+fm_math_0385,数学,双变量最值不等式,"x,y>0,\ x+y=s \implies x^2+y^2\ge \dfrac{s^2}{2}",x+y=s => x**2+y**2 >= s**2/2,无量纲,s>0,P1
+fm_math_0386,数学,指数大小比较不等式,"0<a<1,\ x_1>x_2 \implies a^{x_1}<a^{x_2}",0<a<1 && x1>x2 => a**x1 < a**x2,无量纲,指数函数单调递减,P1
+fm_math_0387,数学,指数大小比较不等式,"a>1,\ x_1>x_2 \implies a^{x_1}>a^{x_2}",a>1 && x1>x2 => a**x1 > a**x2,无量纲,指数函数单调递增,P1
+fm_math_0388,数学,对数大小比较不等式,"a>1,\ x_1>x_2>0 \implies \log_a x_1>\log_a x_2","a>1 && x1>x2>0 => log(x1,a) > log(x2,a)",无量纲,对数函数单调递增,P1
+fm_math_0389,数学,对数大小比较不等式,"0<a<1,\ x_1>x_2>0 \implies \log_a x_1<\log_a x_2","0<a<1 && x1>x2>0 => log(x1,a) < log(x2,a)",无量纲,对数函数单调递减,P1
+fm_math_0390,数学,多元平方和下界,\displaystyle \sum_{i=1}^n a_i^2 \ge \frac{1}{n}\left(\sum_{i=1}^n a_i\right)^2,sum(a_i**2) >= (sum(a_i))**2 / n,无量纲,实数序列，全相等取等号,P1
+fm_math_0391,数学,算术平均数,\displaystyle \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i,x_bar = sum(x_i) / n,无量纲,n 组样本数据,P1
+fm_math_0392,数学,加权平均数,\displaystyle \bar{x}=\frac{\sum_{i=1}^n x_i w_i}{\sum_{i=1}^n w_i},x_bar = sum(x_i*w_i) / sum(w_i),无量纲,w_i 为对应权重,P1
+fm_math_0393,数学,极差,R=x_{\text{max}}-x_{\text{min}},R = x_max - x_min,无量纲,一组有限样本数据,P1
+fm_math_0394,数学,总体方差,\displaystyle \sigma^2=\frac{1}{n}\sum_{i=1}^n (x_i-\bar{x})^2,sigma2 = sum((x_i-x_bar)**2) / n,无量纲,完整总体数据,P1
+fm_math_0395,数学,总体标准差,\displaystyle \sigma=\sqrt{\frac{1}{n}\sum_{i=1}^n (x_i-\bar{x})^2},sigma = sqrt(sum((x_i-x_bar)**2) / n),无量纲,完整总体数据,P1
+fm_math_0396,数学,样本方差,\displaystyle s^2=\frac{1}{n-1}\sum_{i=1}^n (x_i-\bar{x})^2,s2 = sum((x_i-x_bar)**2) / (n-1),无量纲,抽样样本，n\ge2,P1
+fm_math_0397,数学,样本标准差,\displaystyle s=\sqrt{\frac{1}{n-1}\sum_{i=1}^n (x_i-\bar{x})^2},s = sqrt(sum((x_i-x_bar)**2) / (n-1)),无量纲,抽样样本，n\ge2,P1
+fm_math_0398,数学,方差简化计算公式,\displaystyle \sigma^2=\frac{1}{n}\sum_{i=1}^n x_i^2-\bar{x}^2,sigma2 = sum(x_i**2)/n - x_bar**2,无量纲,总体数据,P1
+fm_math_0399,数学,众数定义,一组数据中出现次数最多的数值,mode(x_list),无量纲,离散样本数据,P1
+fm_math_0400,数学,中位数定义,排序后位于中间位置的数值,median(x_list),无量纲,有序样本数据,P1
+fm_math_0401,数学,频率计算公式,\displaystyle f=\frac{m}{n},f = m / n,无量纲,n 总次数，m 事件发生次数,P1
+fm_math_0402,数学,频率总和性质,\displaystyle \sum f_i = 1,sum(f_i) = 1,无量纲,所有分组频率,P1
+fm_math_0403,数学,古典概型概率,\displaystyle P(A)=\frac{\text{事件}A\text{包含基本事件数}}{\text{基本事件总数}},P(A) = N_A / N_total,无量纲,有限、等可能基本事件,P1
+fm_math_0404,数学,概率取值范围,0\le P(A)\le 1,0 <= P(A) <= 1,无量纲,任意随机事件A,P1
+fm_math_0405,数学,必然事件概率,P(\Omega)=1,P(Omega) = 1,无量纲,一定会发生的事件,P1
+fm_math_0406,数学,不可能事件概率,P(\emptyset)=0,P(empty) = 0,无量纲,一定不发生的事件,P1
+fm_math_0407,数学,对立事件概率,P(\overline{A})=1-P(A),P(not A) = 1 - P(A),无量纲,\overline{A} 为A的对立事件,P1
+fm_math_0408,数学,互斥事件加法公式,P(A\cup B)=P(A)+P(B),P(A or B) = P(A) + P(B),无量纲,"A,B 互斥，无交集",P1
+fm_math_0409,数学,多互斥事件加法,\displaystyle P\left(\bigcup_{i=1}^n A_i\right)=\sum_{i=1}^n P(A_i),P(union A_i) = sum(P(A_i)),无量纲,两两互斥事件组,P1
+fm_math_0410,数学,任意事件加法公式,P(A\cup B)=P(A)+P(B)-P(A\cap B),P(A∪B) = P(A)+P(B)-P(A∩B),无量纲,任意两个随机事件,P1
+fm_math_0411,数学,条件概率定义,\displaystyle P(B,A)=\frac{P(A\cap B)}{P(A)},P(B,A) = P(A∩B) / P(A),无量纲
+fm_math_0412,数学,乘法公式（由条件概率）,P(A\cap B)=P(A)\cdot P(B,A),P(A∩B) = P(A) * P(B,A),无量纲
+fm_math_0413,数学,事件独立判定,P(A\cap B)=P(A)\cdot P(B),P(A∩B) = P(A) * P(B),无量纲,"A,B 相互独立",P1
+fm_math_0414,数学,独立事件条件概率,P(B,A)=P(B),P(B,A) = P(B),无量纲
+fm_math_0415,数学,全概率公式,\displaystyle P(B)=\sum_{i=1}^n P(A_i)P(B,A_i),P(B) = sum(P(A_i)*P(B,A_i)),无量纲
+fm_math_0416,数学,贝叶斯公式,\displaystyle P(A_k,B)=\frac{P(A_k)P(B,A_k)}{\displaystyle\sum_{i=1}^n P(A_i)P(B,A_i)},标准贝叶斯表达式
+fm_math_0417,数学,排列数公式,\displaystyle A_n^m=\frac{n!}{(n-m)!},"A(n,m) = factorial(n)/factorial(n-m)",无量纲,"n,m\in\mathbb{N},\ n\ge m\ge0",P1
+fm_math_0418,数学,全排列公式,A_n^n=n!,"A(n,n) = factorial(n)",无量纲,n 个元素全排列,P1
+fm_math_0419,数学,组合数公式,\displaystyle C_n^m=\frac{n!}{m!(n-m)!},"C(n,m) = factorial(n)/(factorial(m)*factorial(n-m))",无量纲,n\ge m\ge0,P1
+fm_math_0420,数学,组合数性质1,C_n^m=C_n^{n-m},"C(n,m) = C(n,n-m)",无量纲,组合对称性质,P1
+fm_math_0421,数学,组合数性质2,C_n^m+C_n^{m-1}=C_{n+1}^m,"C(n,m)+C(n,m-1) = C(n+1,m)",无量纲,组合递推公式,P1
+fm_math_0422,数学,二项分布概率公式,\displaystyle P(X=k)=C_n^k p^k (1-p)^{n-k},"P(X=k) = C(n,k)*p**k*(1-p)**(n-k)",无量纲,n 次独立重复试验,P1
+fm_math_0423,数学,二项分布期望,E(X)=np,E(X) = n * p,无量纲,"X\sim B(n,p)",P1
+fm_math_0424,数学,二项分布方差,D(X)=np(1-p),D(X) = n*p*(1-p),无量纲,"X\sim B(n,p)",P1
+fm_math_0425,数学,离散型随机变量期望,\displaystyle E(X)=\sum_{i=1}^n x_i p_i,E(X) = sum(x_i * p_i),无量纲,"分布列 x_i,p_i",P1
+fm_math_0426,数学,期望线性性质,E(aX+b)=aE(X)+b,E(a*X+b) = a*E(X) + b,无量纲,"a,b 为常数",P1
+fm_math_0427,数学,离散型随机变量方差,\displaystyle D(X)=\sum_{i=1}^n \big(x_i-E(X)\big)^2 p_i,D(X) = sum((x_i-E(X))**2 * p_i),无量纲,离散随机变量,P1
+fm_math_0428,数学,方差线性性质,D(aX+b)=a^2 D(X),D(a*X+b) = a**2 * D(X),无量纲,"a,b 为常数",P1
+fm_math_0429,数学,几何概型概率,\displaystyle P(A)=\frac{\text{构成事件}A\text{区域测度}}{\text{试验全部结果区域测度}},P(A) = measure_A / measure_total,无量纲,无限等可能，长度/面积/体积,P1
+fm_math_0430,数学,正态分布标准化,\displaystyle Z=\frac{X-\mu}{\sigma},Z = (X - mu) / sigma,无量纲,"X\sim N(\mu,\sigma^2)，标准正态Z\sim N(0,1)",P1
+phy_0431,物理,平均速度定义,\bar{v}=\dfrac{\Delta x}{\Delta t},v_avg = delta_x / delta_t,LT^{-1},直线运动，任意运动形式,P0
+phy_0432,物理,瞬时速度定义,v=\lim\limits_{\Delta t\to0}\dfrac{\Delta x}{\Delta t},"v = limit(delta_x/delta_t, delta_t, 0)",LT^{-1},运动质点某一时刻,P0
+phy_0433,物理,平均速率,\bar{v}_{\text{率}}=\dfrac{s}{\Delta t},v_rate_avg = s / delta_t,LT^{-1},s 为路程,P0
+phy_0434,物理,加速度定义,a=\dfrac{\Delta v}{\Delta t},a = delta_v / delta_t,LT^{-2},速度变化与时间比值,P0
+phy_0435,物理,匀变速直线运动速度公式,v=v_0+at,v = v0 + a * t,LT^{-1},加速度恒定,P0
+phy_0436,物理,匀变速直线运动位移公式,x=v_0 t+\dfrac{1}{2} a t^2,x = v0*t + 0.5*a*t**2,L,加速度恒定,P0
+phy_0437,物理,速度位移关系式,v^2-v_0^2=2ax,v**2 - v0**2 = 2*a*x,L^2T^{-2},匀变速直线运动,P0
+phy_0438,物理,匀变速平均速度,\bar{v}=\dfrac{v_0+v}{2},v_avg = (v0 + v) / 2,LT^{-1},匀变速直线运动,P0
+phy_0439,物理,连续相等时间位移差,\Delta x=aT^2,delta_x = a * T**2,L,匀变速直线运动，时间间隔T,P0
+phy_0440,物理,自由落体速度,v=gt,v = g * t,LT^{-1},初速度为0，只受重力,P0
+phy_0441,物理,自由落体位移,h=\dfrac{1}{2} g t^2,h = 0.5 * g * t**2,L,初速度为0，只受重力,P0
+phy_0442,物理,自由落体速度位移关系,v^2=2gh,v**2 = 2 * g * h,L^2T^{-2},自由落体运动,P0
+phy_0443,物理,竖直上抛初速度到最高点,v=v_0-gt,v = v0 - g * t,LT^{-1},竖直上抛，取向上为正,P0
+phy_0444,物理,竖直上抛位移公式,h=v_0 t-\dfrac{1}{2} g t^2,h = v0*t - 0.5*g*t**2,L,竖直上抛运动,P0
+phy_0445,物理,重力计算公式,G=mg,G = m * g,MLT^{-2},地球表面附近物体,P0
+phy_0446,物理,胡克定律,F=kx,F = k * x,MLT^{-2},弹性限度内，弹簧弹力,P0
+phy_0447,物理,滑动摩擦力,f=\mu N,f = mu * N,MLT^{-2},接触面相对滑动,P0
+phy_0448,物理,静摩擦力（平衡态）,f_{\text{静}}=F_{\text{外}},f_static = F_ext,MLT^{-2},物体保持静止,P0
+phy_0449,物理,最大静摩擦力,f_{\text{max}}=\mu_{\text{静}} N,f_max = mu_static * N,MLT^{-2},即将发生相对滑动,P0
+phy_0450,物理,力的合成（二力同向）,F_{\text{合}}=F_1+F_2,F_total = F1 + F2,MLT^{-2},两力方向相同,P0
+phy_0451,物理,力的合成（二力反向）,F_{\text{合}}=,F_1-F_2,,F_total = abs(F1 - F2),MLT^{-2}
+phy_0452,物理,平行四边形定则（合力）,F_{\text{合}}=\sqrt{F_1^2+F_2^2+2F_1F_2\cos\theta},F_total=sqrt(F1**2+F2**2+2*F1*F2*cos(theta)),MLT^{-2},两力夹角\theta,P0
+phy_0453,物理,力的正交分解,"F_x=F\cos\theta,\ F_y=F\sin\theta",Fx=F*cos(theta); Fy=F*sin(theta),MLT^{-2},力与x轴夹角\theta,P0
+phy_0454,物理,牛顿第一定律,合外力为零，运动状态不变,F_{\text{合}}=0 \Rightarrow \Delta v=0,—,惯性参考系,P0
+phy_0455,物理,牛顿第二定律,F_{\text{合}}=ma,F_total = m * a,MLT^{-2},惯性参考系，质点,P0
+phy_0456,物理,牛顿第三定律,F=-F',F = -F_prime,MLT^{-2},相互作用力,P0
+phy_0457,物理,连接体整体牛顿定律,F=(m_1+m_2)a,F = (m1 + m2) * a,MLT^{-2},整体加速度一致,P0
+phy_0458,物理,超重条件,"N>mg,\ a 竖直向上",N > m*g,MLT^{-2},加速度向上,P0
+phy_0459,物理,失重条件,"N<mg,\ a 竖直向下",N < m*g,MLT^{-2},加速度向下,P0
+phy_0460,物理,完全失重,N=0,N = 0,MLT^{-2},a=g 竖直向下,P0
+phy_0461,物理,平抛运动水平分速度,v_x=v_0,vx = v0,LT^{-1},水平方向匀速,P0
+phy_0462,物理,平抛运动竖直分速度,v_y=gt,vy = g * t,LT^{-1},竖直自由落体,P0
+phy_0463,物理,平抛合速度,v=\sqrt{v_x^2+v_y^2},v = sqrt(vx**2 + vy**2),LT^{-1},平抛任意时刻合速度,P0
+phy_0464,物理,平抛水平位移,x=v_0 t,x = v0 * t,L,水平匀速直线运动,P0
+phy_0465,物理,平抛竖直位移,y=\dfrac{1}{2} g t^2,y = 0.5 * g * t**2,L,竖直自由落体,P0
+phy_0466,物理,平抛运动总位移,s=\sqrt{x^2+y^2},s = sqrt(x**2 + y**2),L,平抛合位移大小,P0
+phy_0467,物理,匀速圆周运动线速度,v=\dfrac{2\pi r}{T},v = 2*pi*r / T,LT^{-1},周期T，半径r,P0
+phy_0468,物理,角速度定义,\omega=\dfrac{2\pi}{T},omega = 2*pi / T,T^{-1},匀速圆周运动,P0
+phy_0469,物理,线速度与角速度关系,v=\omega r,v = omega * r,LT^{-1},圆周运动,P0
+phy_0470,物理,频率与周期,f=\dfrac{1}{T},f = 1 / T,T^{-1},周期性运动,P0
+phy_0471,物理,向心加速度公式1,a_n=\dfrac{v^2}{r},an = v**2 / r,LT^{-2},匀速圆周运动,P0
+phy_0472,物理,向心加速度公式2,a_n=\omega^2 r,an = omega**2 * r,LT^{-2},匀速圆周运动,P0
+phy_0473,物理,向心加速度公式3,a_n=\dfrac{4\pi^2 r}{T^2},an = 4*pi**2*r / T**2,LT^{-2},匀速圆周运动,P0
+phy_0474,物理,向心力公式1,F_n=m\dfrac{v^2}{r},Fn = m * v**2 / r,MLT^{-2},圆周运动向心力,P0
+phy_0475,物理,向心力公式2,F_n=m\omega^2 r,Fn = m * omega**2 * r,MLT^{-2},圆周运动向心力,P0
+phy_0476,物理,万有引力定律,F=G\dfrac{m_1 m_2}{r^2},F = G * m1 * m2 / r**2,MLT^{-2},两质点间引力,P0
+phy_0477,物理,星球表面重力等于引力,mg=G\dfrac{Mm}{R^2},m*g = G*M*m / R**2,MLT^{-2},星球表面，忽略自转,P0
+phy_0478,物理,黄金代换式,GM=gR^2,G*M = g * R**2,L^3T^{-2},星球表面附近,P0
+phy_0479,物理,卫星向心力由引力提供,G\dfrac{Mm}{r^2}=m\dfrac{v^2}{r},G*M*m/r**2 = m*v**2/r,MLT^{-2},人造卫星绕星体运转,P0
+phy_0480,物理,卫星环绕线速度,v=\sqrt{\dfrac{GM}{r}},v = sqrt(G*M / r),LT^{-1},轨道半径r,P0
+phy_0481,物理,卫星环绕角速度,\omega=\sqrt{\dfrac{GM}{r^3}},omega = sqrt(G*M / r**3),T^{-1},轨道半径r,P0
+phy_0482,物理,卫星环绕周期,T=2\pi\sqrt{\dfrac{r^3}{GM}},T = 2*pi*sqrt(r**3 / (G*M)),T,轨道半径r,P0
+phy_0483,物理,第一宇宙速度,v_1=\sqrt{gR},v1 = sqrt(g * R),LT^{-1},近地卫星环绕速度,P0
+phy_0484,物理,功的定义式,W=Fs\cos\theta,W = F * s * cos(theta),ML^2T^{-2},恒力做功，夹角\theta,P0
+phy_0485,物理,重力做功,W_G=mgh,W_G = m * g * h,ML^2T^{-2},高度差h,P0
+phy_0486,物理,功率定义式,P=\dfrac{W}{t},P = W / t,ML^2T^{-3},平均功率,P0
+phy_0487,物理,瞬时功率,P=Fv\cos\theta,P = F * v * cos(theta),ML^2T^{-3},力与速度夹角\theta,P0
+phy_0488,物理,动能公式,E_\text{k}=\dfrac{1}{2}mv^2,Ek = 0.5 * m * v**2,ML^2T^{-2},运动质点动能,P0
+phy_0489,物理,动能定理,W_{\text{合}}=\Delta E_\text{k},W_total = delta_Ek,ML^2T^{-2},合外力做功等于动能变化,P0
+phy_0490,物理,重力势能,E_\text{p}=mgh,Ep = m * g * h,ML^2T^{-2},选取零势能面,P0
+phy_0491,物理,弹性势能,E_\text{p}=\dfrac{1}{2}kx^2,Ep = 0.5 * k * x**2,ML^2T^{-2},弹性限度内形变量x,P0
+phy_0492,物理,机械能,E=E_\text{k}+E_\text{p},E = Ek + Ep,ML^2T^{-2},动能+势能总和,P0
+phy_0493,物理,机械能守恒定律,E_{\text{k1}}+E_{\text{p1}}=E_{\text{k2}}+E_{\text{p2}},Ek1 + Ep1 = Ek2 + Ep2,ML^2T^{-2},只有重力、弹力做功,P0
+phy_0494,物理,动量定义,p=mv,p = m * v,MLT^{-1},质点动量,P0
+phy_0495,物理,动量定理,I=\Delta p,I = delta_p,MLT^{-1},合冲量等于动量变化,P0
+phy_0496,物理,冲量定义,I=Ft,I = F * t,MLT^{-1},恒力冲量,P0
+phy_0497,物理,动量守恒（两物体）,m_1v_1+m_2v_2=m_1v_1'+m_2v_2',m1*v1 + m2*v2 = m1*v1p + m2*v2p,MLT^{-1},系统合外力为零,P0
+phy_0498,物理,完全弹性碰撞（一维）,动量、动能均守恒,"p_{\text{前}}=p_{\text{后}},\ E_{\text{k前}}=E_{\text{k后}}",—,无机械能损失,P0
+phy_0499,物理,完全非弹性碰撞,碰后共速，动能损失最大,v_1'=v_2',—,两物体粘在一起,P0
+phy_0500,物理,杠杆平衡条件,F_1L_1=F_2L_2,F1 * L1 = F2 * L2,ML^2T^{-2},力矩平衡,P0
+phy_0501,物理,温度摄氏与热力学温标换算,T=t+273.15,T = t + 273.15,T,T热力学温度，t摄氏温度,P0
+phy_0502,物理,热量计算公式(升温/降温),Q=cm\Delta t,Q = c * m * delta_t,ML^2T^{-2},物态不变，c比热容,P0
+phy_0503,物理,吸热温度变化,\Delta t=t-t_0,delta_t = t - t0,\Theta,末温t，初温t_0,P0
+phy_0504,物理,放热温度变化,\Delta t=t_0-t,delta_t = t0 - t,\Theta,降温过程,P0
+phy_0505,物理,燃料完全燃烧放热,Q_{\text{放}}=mq,Q_release = m * q,ML^2T^{-2},q燃料热值，固态/液态燃料,P0
+phy_0506,物理,气体燃料燃烧放热,Q_{\text{放}}=Vq,Q_release = V * q,ML^2T^{-2},V气体体积，气体燃料,P0
+phy_0507,物理,热效率定义,\eta=\dfrac{Q_{\text{有用}}}{Q_{\text{总}}}\times100\%,eta = (Q_useful / Q_total) * 100,无量纲,热机、加热设备,P0
+phy_0508,物理,晶体熔化吸热,Q=mL_{\text{熔}},Q = m * L_melt,ML^2T^{-2},熔点温度，L_{\text{熔}}熔化热,P0
+phy_0509,物理,凝固放热公式,Q=mL_{\text{凝}},Q = m * L_solid,ML^2T^{-2},凝固点温度，L_{\text{凝}}凝固热,P0
+phy_0510,物理,汽化吸热公式,Q=mL_{\text{汽}},Q = m * L_vap,ML^2T^{-2},沸点温度，L_{\text{汽}}汽化热,P0
+phy_0511,物理,液化放热公式,Q=mL_{\text{液}},Q = m * L_liq,ML^2T^{-2},液化过程，L_{\text{液}}液化热,P0
+phy_0512,物理,分子直径(油膜法),d=\dfrac{V}{S},d = V / S,L,单分子油膜，V油体积，S膜面积,P0
+phy_0513,物理,阿伏伽德罗常数,N_\text{A}\approx6.02\times10^{23}\ \text{mol}^{-1},N_A = 6.02*10^23,\text{mol}^{-1},微观粒子计数,P0
+phy_0514,物理,物质的量定义,n=\dfrac{m}{M},n = m / M,\text{mol},M摩尔质量,P0
+phy_0515,物理,分子总个数,N=nN_\text{A},N = n * N_A,无量纲,宏观物体内分子数,P0
+phy_0516,物理,分子质量,m_0=\dfrac{M}{N_\text{A}},m0 = M / N_A,M,单个分子质量,P0
+phy_0517,物理,摩尔体积,V_\text{mol}=\dfrac{M}{\rho},V_mol = M / rho,L^3\text{mol}^{-1},宏观物质密度\rho,P0
+phy_0518,物理,单个分子体积,V_0=\dfrac{V_\text{mol}}{N_\text{A}},V0 = V_mol / N_A,L^3,固体、液体近似适用,P0
+phy_0519,物理,热力学第一定律,\Delta U=Q+W,delta_U = Q + W,ML^2T^{-2},内能变化、吸热、外界做功,P0
+phy_0520,物理,外界对气体做功,W>0,W > 0,ML^2T^{-2},热力学符号规定,P0
+phy_0521,物理,气体对外界做功,W<0,W < 0,ML^2T^{-2},热力学符号规定,P0
+phy_0522,物理,系统吸收热量,Q>0,Q > 0,ML^2T^{-2},热力学符号规定,P0
+phy_0523,物理,系统放出热量,Q<0,Q < 0,ML^2T^{-2},热力学符号规定,P0
+phy_0524,物理,理想气体内能,仅由温度决定 U\propto T,U ∝ T,ML^2T^{-2},理想气体，无分子势能,P0
+phy_0525,物理,气体做功(等压变化),W=-p\Delta V,W = -p * delta_V,ML^2T^{-2},压强p恒定，体积变化\Delta V,P0
+phy_0526,物理,玻意耳定律(等温),p_1V_1=p_2V_2,p1 * V1 = p2 * V2,ML^{-1}T^{-2}\cdot L^3,一定质量理想气体，温度不变,P0
+phy_0527,物理,查理定律(等容),\dfrac{p_1}{T_1}=\dfrac{p_2}{T_2},p1 / T1 = p2 / T2,ML^{-1}T^{-2}\cdot T^{-1},一定质量理想气体，体积不变,P0
+phy_0528,物理,盖-吕萨克定律(等压),\dfrac{V_1}{T_1}=\dfrac{V_2}{T_2},V1 / T1 = V2 / T2,L^3\cdot T^{-1},一定质量理想气体，压强不变,P0
+phy_0529,物理,理想气体状态方程,\dfrac{pV}{T}=C,(p * V) / T = C,—,一定质量理想气体，C为常量,P0
+phy_0530,物理,理想气体状态方程(普适),pV=nRT,p * V = n * R * T,—,R普适气体常量，n物质的量,P0
+phy_0531,物理,气体密度与状态参量,\dfrac{p_1}{\rho_1 T_1}=\dfrac{p_2}{\rho_2 T_2},p1/(rho1*T1) = p2/(rho2*T2),—,一定质量理想气体,P0
+phy_0532,物理,分子平均动能,\overline{E_\text{k}}\propto T,avg_Ek ∝ T,ML^2T^{-2},温度是平均动能标志,P0
+phy_0533,物理,麦克斯韦速率分布,分子速率呈中间多、两头少分布,—,无量纲,大量气体分子热运动,P0
+phy_0534,物理,热机效率上限(卡诺),\eta_{\text{卡}}=1-\dfrac{T_2}{T_1},eta_carnot = 1 - T2/T1,无量纲,卡诺热机，T_1高温、T_2低温,P0
+phy_0535,物理,绝对零度,0\ \text{K}=-273.15^\circ\text{C},0 K = -273.15 °C,T、\Theta,理论最低温度，无法达到,P0
+phy_0536,物理,扩散现象规律,温度越高，扩散越快,—,—,分子无规则运动,P0
+phy_0537,物理,布朗运动,温度越高、颗粒越小，运动越剧烈,—,—,悬浮颗粒无规则运动,P0
+phy_0538,物理,分子引力与斥力,r=r_0时 F_\text{引}=F_\text{斥},F_att = F_rep,MLT^{-2},分子平衡距离r_0,P0
+phy_0539,物理,r<r_0分子力表现,斥力大于引力，合力为斥力,—,MLT^{-2},分子间距小于平衡距离,P0
+phy_0540,物理,r>r_0分子力表现,引力大于斥力，合力为引力,—,MLT^{-2},分子间距大于平衡距离,P0
+phy_0541,物理,r\gg r_0分子力,分子力趋近于0,F → 0,MLT^{-2},分子间距极大,P0
+phy_0542,物理,内能改变方式,做功、热传递,—,—,改变物体内能两种途径,P0
+phy_0543,物理,混合物质吸热总热量,Q_{\text{总}}=Q_1+Q_2,Q_total = Q1 + Q2,ML^2T^{-2},多组分物体同时吸热,P0
+phy_0544,物理,热平衡方程(无热损失),Q_{\text{吸}}=Q_{\text{放}},Q_abs = Q_release,ML^2T^{-2},系统绝热，达到共同温度,P0
+phy_0545,物理,单位质量内能变化,\Delta u=\dfrac{\Delta U}{m},delta_u = delta_U / m,L^2T^{-2},比内能,P0
+phy_0546,物理,等温变化内能变化,\Delta U=0,delta_U = 0,ML^2T^{-2},理想气体等温过程,P0
+phy_0547,物理,绝热过程特点,"Q=0,\ \Delta U=W",Q = 0; delta_U = W,ML^2T^{-2},系统与外界无热交换,P0
+phy_0548,物理,等容气体做功,W=0,W = 0,ML^2T^{-2},气体体积不变，不做功,P0
+phy_0549,物理,湿度相关：绝对湿度,空气中水汽实际压强,p_\text{汽},ML^{-1}T^{-2},湿空气参量,P0
+phy_0550,物理,相对湿度,\varphi=\dfrac{p_\text{汽}}{p_\text{饱}}\times100\%,phi = (p_vap / p_sat) * 100,无量纲,p_\text{饱}同温饱和汽压,P0
+phy_0551,物理,元电荷,e=1.60\times10^{-19}\ \text{C},e = 1.60*10^-19,\text{Q},最小天然电荷量,P0
+phy_0552,物理,库仑定律,\displaystyle F=k\frac{q_1 q_2}{r^2},F = k * q1 * q2 / r**2,MLT^{-2},真空中点电荷,P0
+phy_0553,物理,电场强度定义,\displaystyle E=\frac{F}{q},E = F / q,MLT^{-2}\text{Q}^{-1},检验电荷q，q足够小,P0
+phy_0554,物理,点电荷场强公式,\displaystyle E=k\frac{Q}{r^2},E = k * Q / r**2,MLT^{-2}\text{Q}^{-1},真空中孤立点电荷,P0
+phy_0555,物理,场强叠加原理,\vec{E}=\vec{E}_1+\vec{E}_2,E_vec = E1_vec + E2_vec,MLT^{-2}\text{Q}^{-1},多个场源电荷,P0
+phy_0556,物理,匀强电场场强与电势差,\displaystyle E=\frac{U}{d},E = U / d,MLT^{-2}\text{Q}^{-1},匀强电场，d沿电场方向距离,P0
+phy_0557,物理,电场力,F=qE,F = q * E,MLT^{-2},电荷在电场中,P0
+phy_0558,物理,电势定义,\displaystyle \varphi=\frac{E_\text{p}}{q},phi = Ep / q,ML^2T^{-2}\text{Q}^{-1},选定零电势点,P0
+phy_0559,物理,电势差,U_{AB}=\varphi_A-\varphi_B,U_AB = phi_A - phi_B,ML^2T^{-2}\text{Q}^{-1},A、B两点电势差值,P0
+phy_0560,物理,电场力做功,W_{AB}=qU_{AB},W_AB = q * U_AB,ML^2T^{-2},任意电场中移动电荷,P0
+phy_0561,物理,电势能变化与电场力做功,\Delta E_\text{p}=-W_{AB},delta_Ep = -W_AB,ML^2T^{-2},电场力做功等于电势能减少量,P0
+phy_0562,物理,电容定义式,\displaystyle C=\frac{Q}{U},C = Q / U,\text{Q}^2T^2M^{-1}L^{-2},电容器带电量Q、电压U,P0
+phy_0563,物理,平行板电容器电容,\displaystyle C=\frac{\varepsilon_\text{r}S}{4\pi kd},C = eps_r * S / (4*pi*k*d),\text{Q}^2T^2M^{-1}L^{-2},真空/介质平行板,P0
+phy_0564,物理,电容器电荷量变化,\Delta Q=C\Delta U,delta_Q = C * delta_U,\text{Q},电容不变时,P0
+phy_0565,物理,电流定义,\displaystyle I=\frac{q}{t},I = q / t,\text{Q}T^{-1},单位时间通过横截面电荷量,P0
+phy_0566,物理,电流微观表达式,I=nqSv,I = n * q * S * v,\text{Q}T^{-1},导体中自由电荷定向移动,P0
+phy_0567,物理,电阻定义式,\displaystyle R=\frac{U}{I},R = U / I,ML^2T^{-2}\text{Q}^{-2}T,纯电阻元件,P0
+phy_0568,物理,电阻定律,\displaystyle R=\rho\frac{L}{S},R = rho * L / S,ML^2T^{-2}\text{Q}^{-2}T,常温下均匀导体,P0
+phy_0569,物理,欧姆定律,I=\dfrac{U}{R},I = U / R,\text{Q}T^{-1},金属、电解液等纯电阻,P0
+phy_0570,物理,串联电路总电阻,R_{\text{总}}=R_1+R_2+\dots+R_n,R_total = R1 + R2 + ... + Rn,ML^2T^{-2}\text{Q}^{-2}T,电阻串联,P0
+phy_0571,物理,并联电路总电阻,\displaystyle \frac{1}{R_{\text{总}}}=\frac{1}{R_1}+\frac{1}{R_2}+\dots+\frac{1}{R_n},1/R_total = 1/R1 + 1/R2 + ... + 1/Rn,M^{-1}L^{-2}\text{Q}^2T^{-1},电阻并联,P0
+phy_0572,物理,两电阻并联简化,\displaystyle R_{\text{总}}=\frac{R_1 R_2}{R_1+R_2},R_total = (R1*R2)/(R1+R2),ML^2T^{-2}\text{Q}^{-2}T,仅两个电阻并联,P0
+phy_0573,物理,串联电路电流特点,I=I_1=I_2=\dots=I_n,I = I1 = I2 = ... = In,\text{Q}T^{-1},串联支路电流相等,P0
+phy_0574,物理,串联电路电压特点,U=U_1+U_2+\dots+U_n,U = U1 + U2 + ... + Un,ML^2T^{-2}\text{Q}^{-1},总电压等于分压之和,P0
+phy_0575,物理,并联电路电压特点,U=U_1=U_2=\dots=U_n,U = U1 = U2 = ... = Un,ML^2T^{-2}\text{Q}^{-1},并联支路电压相等,P0
+phy_0576,物理,并联电路电流特点,I=I_1+I_2+\dots+I_n,I = I1 + I2 + ... + In,\text{Q}T^{-1},总电流等于分流之和,P0
+phy_0577,物理,串联分压公式,\displaystyle U_1=\frac{R_1}{R_1+R_2}U,U1 = (R1/(R1+R2)) * U,ML^2T^{-2}\text{Q}^{-1},两电阻串联,P0
+phy_0578,物理,并联分流公式,\displaystyle I_1=\frac{R_2}{R_1+R_2}I,I1 = (R2/(R1+R2)) * I,\text{Q}T^{-1},两电阻并联,P0
+phy_0579,物理,电功定义,W=UIt,W = U * I * t,ML^2T^{-2},电路中电流做功,P0
+phy_0580,物理,纯电阻电功推导式,W=I^2Rt=\dfrac{U^2}{R}t,W = I**2*R*t = (U**2/R)*t,ML^2T^{-2},电能全部转化为内能,P0
+phy_0581,物理,电功率定义,\displaystyle P=\frac{W}{t}=UI,P = W / t = U * I,ML^2T^{-3},电路总功率,P0
+phy_0582,物理,纯电阻电功率推导,\displaystyle P=I^2R=\frac{U^2}{R},P = I**2 * R = U**2 / R,ML^2T^{-3},纯电阻电路,P0
+phy_0583,物理,焦耳定律,Q_{\text{热}}=I^2Rt,Q_heat = I**2 * R * t,ML^2T^{-2},电流产生的热量,P0
+phy_0584,物理,电源电动势,E=U_{\text{外}}+U_{\text{内}},E = U_out + U_in,ML^2T^{-2}\text{Q}^{-1},闭合电路,P0
+phy_0585,物理,闭合电路欧姆定律,\displaystyle I=\frac{E}{R_{\text{外}}+r},I = E / (R_out + r),\text{Q}T^{-1},电源内阻r,P0
+phy_0586,物理,路端电压,U=E-Ir,U = E - I * r,ML^2T^{-2}\text{Q}^{-1},闭合电路,P0
+phy_0587,物理,电源总功率,P_{\text{总}}=EI,P_total = E * I,ML^2T^{-3},电源释放总功率,P0
+phy_0588,物理,电源输出功率,P_{\text{出}}=UI,P_out = U * I,ML^2T^{-3},外电路功率,P0
+phy_0589,物理,电源内阻热功率,P_{\text{内}}=I^2r,P_in = I**2 * r,ML^2T^{-3},内阻发热功率,P0
+phy_0590,物理,电源效率,\displaystyle \eta=\frac{UI}{EI}\times100\%=\frac{U}{E}\times100\%,eta = (U/E) * 100,无量纲,电源输出效率,P0
+phy_0591,物理,磁感应强度定义,\displaystyle B=\frac{F}{IL},B = F / (I * L),MT^{-1}\text{Q}^{-1},电流垂直于匀强磁场,P0
+phy_0592,物理,安培力,F=BIL\sin\theta,F = B * I * L * sin(theta),MLT^{-2},电流与磁场夹角\theta,P0
+phy_0593,物理,电流垂直磁场安培力,F=BIL,F = B * I * L,MLT^{-2},\theta=90^\circ,P0
+phy_0594,物理,磁通量,\Phi=BS\cos\theta,Phi = B * S * cos(theta),ML^2T^{-1}\text{Q}^{-1},面积与磁场夹角\theta,P0
+phy_0595,物理,洛伦兹力,f=qvB\sin\theta,f = q * v * B * sin(theta),MLT^{-2},电荷速度与磁场夹角\theta,P0
+phy_0596,物理,电荷垂直磁场洛伦兹力,f=qvB,f = q * v * B,MLT^{-2},\theta=90^\circ,P0
+phy_0597,物理,带电粒子圆周运动半径,\displaystyle r=\frac{mv}{qB},r = (m * v) / (q * B),L,匀强磁场，仅受洛伦兹力,P0
+phy_0598,物理,带电粒子圆周运动周期,\displaystyle T=\frac{2\pi m}{qB},T = 2*pi*m / (q*B),T,周期与速度无关,P0
+phy_0599,物理,法拉第电磁感应定律,\displaystyle E=n\frac{\Delta\Phi}{\Delta t},E = n * delta_Phi / delta_t,ML^2T^{-2}\text{Q}^{-1},n匝线圈，感应电动势,P0
+phy_0600,物理,单匝线圈感应电动势,\displaystyle E=\frac{\Delta\Phi}{\Delta t},E = delta_Phi / delta_t,ML^2T^{-2}\text{Q}^{-1},n=1,P0
+phy_0601,物理,导体棒切割磁感线电动势,E=BLv\sin\theta,E = B * L * v * sin(theta),ML^2T^{-2}\text{Q}^{-1},速度与磁场夹角\theta,P0
+phy_0602,物理,垂直切割感应电动势,E=BLv,E = B * L * v,ML^2T^{-2}\text{Q}^{-1},v\perp B,P0
+phy_0603,物理,转动切割电动势,\displaystyle E=\frac{1}{2}B\omega L^2,E = 0.5 * B * omega * L**2,ML^2T^{-2}\text{Q}^{-1},导体棒绕一端匀速转动,P0
+phy_0604,物理,楞次定律,感应磁场阻碍原磁通量变化,—,—,判断感应电流方向,P0
+phy_0605,物理,自感电动势,\displaystyle E=L\frac{\Delta I}{\Delta t},E = L * delta_I / delta_t,ML^2T^{-2}\text{Q}^{-1},自感系数L,P0
+phy_0606,物理,交变电流瞬时值(正弦),e=E_\text{m}\sin\omega t,e = Em * sin(omega*t),ML^2T^{-2}\text{Q}^{-1},从中性面开始计时,P0
+phy_0607,物理,交变电流电动势最大值,E_\text{m}=NBS\omega,Em = N * B * S * omega,ML^2T^{-2}\text{Q}^{-1},N匝线圈在磁场中转动,P0
+phy_0608,物理,正弦交流电有效值,\displaystyle E=\frac{E_\text{m}}{\sqrt{2}},E = Em / sqrt(2),ML^2T^{-2}\text{Q}^{-1},正弦式交变电流,P0
+phy_0609,物理,电流有效值,\displaystyle I=\frac{I_\text{m}}{\sqrt{2}},I = Im / sqrt(2),\text{Q}T^{-1},正弦式交变电流,P0
+phy_0610,物理,电压有效值,\displaystyle U=\frac{U_\text{m}}{\sqrt{2}},U = Um / sqrt(2),ML^2T^{-2}\text{Q}^{-1},正弦式交变电流,P0
+phy_0611,物理,周期与角速度,\displaystyle \omega=\frac{2\pi}{T},omega = 2*pi / T,T^{-1},交变电流、圆周运动通用,P0
+phy_0612,物理,频率与周期,\displaystyle f=\frac{1}{T},f = 1 / T,T^{-1},交变电流频率,P0
+phy_0613,物理,角速度与频率,\omega=2\pi f,omega = 2*pi*f,T^{-1},交变电流,P0
+phy_0614,物理,理想变压器电压比,\displaystyle \frac{U_1}{U_2}=\frac{n_1}{n_2},U1/U2 = n1/n2,无量纲,理想变压器，匝数n_1、n_2,P0
+phy_0615,物理,理想变压器电流比,\displaystyle \frac{I_1}{I_2}=\frac{n_2}{n_1},I1/I2 = n2/n1,无量纲,单组副线圈,P0
+phy_0616,物理,理想变压器功率关系,P_1=P_2,P1 = P2,ML^2T^{-3},输入功率等于输出功率,P0
+phy_0617,物理,远距离输电功率损失,\Delta P=I^2R_{\text{线}},delta_P = I**2 * R_line,ML^2T^{-3},输电线电阻R_{\text{线}},P0
+phy_0618,物理,输电线上电压损失,\Delta U=IR_{\text{线}},delta_U = I * R_line,ML^2T^{-2}\text{Q}^{-1},输电线分压,P0
+phy_0619,物理,电磁振荡周期(LC回路),\displaystyle T=2\pi\sqrt{LC},T = 2*pi*sqrt(L*C),T,LC振荡电路,P0
+phy_0620,物理,电磁振荡频率,\displaystyle f=\frac{1}{2\pi\sqrt{LC}},f = 1 / (2*pi*sqrt(L*C)),T^{-1},LC振荡电路,P0
+phy_0621,物理,电磁波波速、波长、频率,c=\lambda f,c = lambda * f,LT^{-1},电磁波、机械波通用,P0
+phy_0622,物理,真空中光速,c=3\times10^8\ \text{m/s},c = 3*10^8,LT^{-1},电磁波在真空传播速度,P0
+phy_0623,物理,点电荷电势叠加,\varphi=\varphi_1+\varphi_2,phi = phi1 + phi2,ML^2T^{-2}\text{Q}^{-1},标量叠加,P0
+phy_0624,物理,匀强电场电势差与距离,U=Ed,U = E * d,ML^2T^{-2}\text{Q}^{-1},沿电场方向距离d,P0
+phy_0625,物理,电容器串联,\displaystyle \frac{1}{C_{\text{总}}}=\frac{1}{C_1}+\frac{1}{C_2},1/C_total = 1/C1 + 1/C2,M^{-1}L^{-2}\text{Q}^2T^2,两电容串联,P0
+phy_0626,物理,电容器并联,C_{\text{总}}=C_1+C_2,C_total = C1 + C2,\text{Q}^2T^2M^{-1}L^{-2},电容并联,P0
+phy_0627,物理,动生电动势一般形式,\displaystyle E=\int ({\vec v}\times{\vec B})\cdot d\vec L,积分表达式,ML^2T^{-2}\text{Q}^{-1},任意运动导体,P0
+phy_0628,物理,互感电动势,\displaystyle E_2=M\frac{\Delta I_1}{\Delta t},E2 = M * delta_I1 / delta_t,ML^2T^{-2}\text{Q}^{-1},互感系数M,P0
+phy_0629,物理,三相变压器电压关系,线电压、相电压按匝数比变换,—,无量纲,三相交流电路,P0
+phy_0630,物理,容抗公式,\displaystyle X_C=\frac{1}{2\pi f C},X_C = 1 / (2*pi*f*C),ML^2T^{-2}\text{Q}^{-2}T,交变电路中电容阻碍作用,P0
+phy_0631,物理,光的直线传播速度,c=\lambda f,c = lambda * f,LT^{-1},电磁波、可见光通用,P0
+phy_0632,物理,光在介质中传播速度,\displaystyle v=\frac{c}{n},v = c / n,LT^{-1},n为介质折射率,P0
+phy_0633,物理,折射率定义,\displaystyle n=\frac{\sin\theta_1}{\sin\theta_2},n = sin(theta1) / sin(theta2),无量纲,光从真空射入介质，\theta_1入射角,P0
+phy_0634,物理,折射率与光速关系,\displaystyle n=\frac{c}{v},n = c / v,无量纲,真空光速c，介质中光速v,P0
+phy_0635,物理,折射定律（斯涅尔定律）,n_1\sin\theta_1=n_2\sin\theta_2,n1*sin(theta1) = n2*sin(theta2),无量纲,两种均匀透明介质,P0
+phy_0636,物理,全反射临界角,\displaystyle \sin C=\frac{1}{n},sin(C) = 1 / n,无量纲,光从介质射向真空/空气,P0
+phy_0637,物理,光程计算,L_{\text{光}}=nl,L_opt = n * l,L,介质厚度l，折射率n,P0
+phy_0638,物理,光程差,\Delta L = n_2l_2-n_1l_1,delta_L = n2*l2 - n1*l1,L,两束光光程差值,P0
+phy_0639,物理,干涉加强条件,"\Delta L = k\lambda\quad(k=0,\pm1,\pm2\cdots)",delta_L = k * lambda,L,光干涉亮纹,P0
+phy_0640,物理,干涉减弱条件,\displaystyle \Delta L = \left(k+\frac{1}{2}\right)\lambda,delta_L = (k+0.5)*lambda,L,光干涉暗纹,P0
+phy_0641,物理,双缝干涉条纹间距,\displaystyle \Delta x=\frac{L}{d}\lambda,delta_x = (L / d) * lambda,L,双缝间距d，屏缝距L,P0
+phy_0642,物理,薄膜干涉光程差,\Delta L=2nd,delta_L = 2*n*d,L,薄膜厚度d，垂直入射,P0
+phy_0643,物理,单缝衍射暗纹条件,a\sin\theta=k\lambda,a*sin(theta) = k*lambda,L,缝宽a，衍射角\theta,P0
+phy_0644,物理,平面镜成像物像距离,d_{\text{像}}=d_{\text{物}},d_img = d_obj,L,理想平面镜,P0
+phy_0645,物理,球面镜焦距与曲率半径,\displaystyle f=\frac{R}{2},f = R / 2,L,球面镜曲率半径R,P0
+phy_0646,物理,透镜成像公式,\displaystyle \frac{1}{f}=\frac{1}{u}+\frac{1}{v},1/f = 1/u + 1/v,L^{-1},薄透镜，近轴光线,P0
+phy_0647,物理,放大率定义,\displaystyle m=\frac{,v,}{u}=\frac{h_{\text{像}}}{h_{\text{物}}},m = abs(v)/u = h_img/h_obj,无量纲
+phy_0648,物理,光的频率、波长、波速,v=\lambda f,v = lambda * f,LT^{-1},介质中传播的光波,P0
+phy_0649,物理,光子能量,E=h\nu,E = h * nu,ML^2T^{-2},h普朗克常量，\nu光频率,P0
+phy_0650,物理,光子能量（波长形式）,\displaystyle E=\frac{hc}{\lambda},E = h*c / lambda,ML^2T^{-2},由\nu=c/\lambda推导,P0
+phy_0651,物理,普朗克常量,h\approx6.63\times10^{-34}\ \text{J·s},h = 6.63*10^-34,ML^2T^{-1},量子力学基本常量,P0
+phy_0652,物理,光电效应方程,E_{\text{km}}=h\nu-W_0,E_km = h*nu - W0,ML^2T^{-2},光电子最大初动能,P0
+phy_0653,物理,逸出功,W_0=h\nu_0,W0 = h * nu0,ML^2T^{-2},\nu_0极限频率,P0
+phy_0654,物理,极限频率,\displaystyle \nu_0=\frac{W_0}{h},nu0 = W0 / h,T^{-1},产生光电效应最低频率,P0
+phy_0655,物理,遏止电压与最大初动能,E_{\text{km}}=eU_c,E_km = e * Uc,ML^2T^{-2},U_c遏止电压,P0
+phy_0656,物理,康普顿效应动量关系,\displaystyle p=\frac{h}{\lambda},p = h / lambda,MLT^{-1},光子动量,P0
+phy_0657,物理,德布罗意波长,\displaystyle \lambda=\frac{h}{p}=\frac{h}{mv},lambda = h / (m*v),L,实物粒子物质波,P0
+phy_0658,物理,能级能量公式（氢原子）,\displaystyle E_n=\frac{E_1}{n^2},En = E1 / n**2,ML^2T^{-2},"量子数n=1,2,3\cdots",P0
+phy_0659,物理,氢原子基态能量,E_1\approx-13.6\ \text{eV},E1 = -13.6,ML^2T^{-2},n=1基态,P0
+phy_0660,物理,能级跃迁能量差,\Delta E=E_m-E_n,delta_E = Em - En,ML^2T^{-2},高能级m向低能级n跃迁,P0
+phy_0661,物理,跃迁辐射光子频率,h\nu=E_m-E_n,h*nu = Em - En,ML^2T^{-2},原子辐射光子,P0
+phy_0662,物理,氢原子轨道半径,r_n=n^2 r_1,rn = n**2 * r1,L,第n条轨道半径,P0
+phy_0663,物理,基态轨道半径,r_1\approx0.53\times10^{-10}\ \text{m},r1 = 0.53*10^-10,L,氢原子玻尔半径,P0
+phy_0664,物理,一群氢原子跃迁谱线数,\displaystyle N=\mathrm{C}_n^2=\frac{n(n-1)}{2},N = n*(n-1)/2,无量纲,处于n能级的氢原子,P0
+phy_0665,物理,原子核电荷数、质量数,A=Z+N,A = Z + N,无量纲,A质量数，Z质子数，N中子数,P0
+phy_0666,物理,\alpha衰变核反应通式,\displaystyle \ce{_Z^A X -> _{Z-2}^{A-4} Y + _2^4 He},核反应方程,—,释放氦核,P0
+phy_0667,物理,\beta^-衰变核反应通式,\displaystyle \ce{_Z^A X -> _{Z+1}^{A} Y + _{-1}^0 e},核反应方程,—,释放电子,P0
+phy_0668,物理,\gamma衰变特点,能级跃迁，电荷数、质量数均不变,—,—,释放\gamma光子,P0
+phy_0669,物理,半衰期公式,\displaystyle m=m_0\left(\frac{1}{2}\right)^{\frac{t}{T}},m = m0 * (1/2)^(t/T),M,T半衰期，剩余质量m,P0
+phy_0670,物理,剩余原子核个数,\displaystyle N=N_0\left(\frac{1}{2}\right)^{\frac{t}{T}},N = N0 * (1/2)^(t/T),无量纲,初始核数N_0,P0
+phy_0671,物理,质量亏损,\Delta m=m_{\text{前}}-m_{\text{后}},delta_m = m_before - m_after,M,核反应前后质量差,P0
+phy_0672,物理,质能方程,E=mc^2,E = m * c**2,ML^2T^{-2},质量与能量对应关系,P0
+phy_0673,物理,核反应释放核能,\Delta E=\Delta m c^2,delta_E = delta_m * c**2,ML^2T^{-2},由质量亏损计算核能,P0
+phy_0674,物理,比结合能,\displaystyle \bar{E}=\frac{E_{\text{结合}}}{A},E_avg = E_bind / A,ML^2T^{-2},原子核平均结合能,P0
+phy_0675,物理,聚变反应（氘氚）,\displaystyle \ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n},核反应方程,—,轻核聚变,P0
+phy_0676,物理,裂变反应（铀核）,铀核分裂为多个中等质量原子核,—,—,重核裂变,P0
+phy_0677,物理,折射率与频率关系,频率越高，介质折射率越大,—,无量纲,正常色散介质,P0
+phy_0678,物理,双折射现象,一束光分为o光、e光，折射率不同,—,无量纲,各向异性晶体,P0
+phy_0679,物理,偏振光规律,光的横波特性，偏振片起偏/检偏,—,—,光波偏振现象,P0
+phy_0680,物理,不确定性关系,\Delta x\cdot\Delta p\ge \dfrac{h}{4\pi},delta_x * delta_p >= h/(4*pi),L\cdot MLT^{-1},微观粒子位置与动量,P0
+che_0681,化学,物质的量基本公式,\boldsymbol{n=\dfrac{N}{N_\text{A}}},,,n：物质的量(mol)；N：粒子数；N_\text{A}\approx6.02\times10^{23}\ \mathrm{mol^{-1}} 阿伏伽德罗常数,P0
+che_0682,化学,物质的量与质量,\boldsymbol{n=\dfrac{m}{M}},,,m：质量(g)；M：摩尔质量(g/mol)，数值等于相对分子/原子质量,P0
+che_0683,化学,摩尔质量变式,\boldsymbol{M=\dfrac{m}{n}},,,由物质的量、总质量求摩尔质量,P0
+che_0684,化学,气体摩尔体积定义,\boldsymbol{V_m=\dfrac{V}{n}},,,V：气体体积(L)；V_m：气体摩尔体积(L/mol),P0
+che_0685,化学,标况下气体摩尔体积,V_m\approx22.4\ \mathrm{L/mol},,,标准状况(0^\circ\text{C}、101\ \mathrm{kPa})，仅适用于气体,P0
+che_0686,化学,标况气体物质的量,\boldsymbol{n=\dfrac{V}{22.4}},,,标准状况下纯气体、混合气体通用,P0
+che_0687,化学,物质的量浓度定义,\boldsymbol{c=\dfrac{n}{V_\text{液}}},,,c：物质的量浓度(mol/L)；V_\text{液}：溶液体积(L),P0
+che_0688,化学,溶质物质的量,\boldsymbol{n=c\cdot V_\text{液}},,,已知浓度、溶液体积求溶质物质的量,P0
+che_0689,化学,溶液稀释定律（溶质不变）,\boldsymbol{c_1V_1=c_2V_2},,,稀释前后溶质物质的量相等，适用于稀溶液,P0
+che_0690,化学,质量分数定义,\boldsymbol{w=\dfrac{m(\text{溶质})}{m(\text{溶液})}\times100\%},,,w：溶质质量分数，无量纲,P0
+che_0691,化学,溶液总质量,m(\text{溶液})=m(\text{溶质})+m(\text{溶剂}),,,单一溶质水溶液通用,P0
+che_0692,化学,浓度与质量分数换算,\boldsymbol{c=\dfrac{1000\rho w}{M}},,,\rho：溶液密度(g/mL)；1000 单位换算系数,P0
+che_0693,化学,同温同压气体密度比,\boldsymbol{\dfrac{\rho_1}{\rho_2}=\dfrac{M_1}{M_2}},,,阿伏伽德罗推论，气体密度之比 = 摩尔质量之比,P0
+che_0694,化学,同温同压气体体积比,\boldsymbol{\dfrac{V_1}{V_2}=\dfrac{n_1}{n_2}},,,同温同压，气体体积之比 = 物质的量之比,P0
+che_0695,化学,同温同体积气体压强比,\boldsymbol{\dfrac{p_1}{p_2}=\dfrac{n_1}{n_2}},,,同温同体积，气体压强之比 = 物质的量之比,P0
+che_0696,化学,平均摩尔质量（混合气体）,\boldsymbol{\overline{M}=\dfrac{m_\text{总}}{n_\text{总}}},,,混合体系总质量 ÷ 总物质的量,P0
+che_0697,化学,平均摩尔质量（体积分数）,\boldsymbol{\overline{M}=M_1\varphi_1+M_2\varphi_2},,,\varphi：气体体积分数，二元混合气体,P0
+che_0698,化学,溶解度定义（饱和溶液）,\boldsymbol{S=\dfrac{m(\text{溶质})}{m(\text{溶剂})}\times100\ \mathrm{g}},,,S：溶解度(g)，一定温度下饱和溶液,P0
+che_0699,化学,饱和溶液质量分数与溶解度,\boldsymbol{w=\dfrac{S}{100+S}\times100\%},,,一定温度下饱和溶液专用换算,P0
+che_0700,化学,电离方程式通式（强电解质）,\ce{AB = A+ + B-},,,强酸、强碱、绝大多数盐，完全电离,P0
+che_0701,化学,电离方程式通式（弱电解质）,\ce{AB <=> A+ + B-},,,弱酸、弱碱、水，部分电离，可逆符号,P0
+che_0702,化学,水的电离平衡,\ce{H2O <=> H+ + OH-},,,纯水、稀水溶液均存在,P0
+che_0703,化学,水的离子积常数,\boldsymbol{K_\text{w}=c(\ce{H+})\cdot c(\ce{OH-})},,,常温(25^\circ\text{C})：K_\text{w}=1\times10^{-14},P0
+che_0704,化学,\boldsymbol{pH} 定义式,\boldsymbol{pH=-\lg c(\ce{H+})},,,适用于稀水溶液，c(\ce{H+})：氢离子浓度(mol/L),P0
+che_0705,化学,\boldsymbol{pOH} 定义式,\boldsymbol{pOH=-\lg c(\ce{OH-})},,,氢氧根离子负对数,P0
+che_0706,化学,常温pH与pOH关系,\boldsymbol{pH + pOH = 14},,,25^\circ\text{C} 稀水溶液,P0
+che_0707,化学,弱酸电离平衡常数,\boldsymbol{K_\text{a}=\dfrac{c(\ce{H+})\cdot c(\ce{A-})}{c(\ce{HA})}},,,一元弱酸 \ce{HA <=> H+ + A-}，温度不变K_\text{a}不变,P1
+che_0708,化学,弱碱电离平衡常数,\boldsymbol{K_\text{b}=\dfrac{c(\ce{OH-})\cdot c(\ce{M+})}{c(\ce{MOH})}},,,一元弱碱 \ce{MOH <=> M+ + OH-},P1
+che_0709,化学,盐类水解通式（弱酸强碱盐）,\ce{A- + H2O <=> HA + OH-},,,阴离子水解，溶液显碱性,P1
+che_0710,化学,盐类水解通式（强酸弱碱盐）,\ce{M+ + H2O <=> MOH + H+},,,阳离子水解，溶液显酸性,P1
+che_0711,化学,水解平衡常数,\boldsymbol{K_\text{h}=\dfrac{K_\text{w}}{K_\text{a}(K_\text{b})}},,,水解常数、水的离子积、电离常数换算,P1
+che_0712,化学,化学反应速率定义,\boldsymbol{v=\dfrac{\Delta c}{\Delta t}},,,v：反应速率(mol/(L·s))；\Delta c：浓度变化量,P0
+che_0713,化学,同一反应速率比例关系,v(\text{甲}):v(\text{乙})= 化学计量数之比,,,同一反应，不同物质速率之比 = 系数比,P0
+che_0714,化学,化学平衡常数（通用）,\boldsymbol{K=\dfrac{\prod c(\text{生成物})^\text{系数}}{\prod c(\text{反应物})^\text{系数}}},,,温度决定K，纯固体、纯液体浓度视为1,P0
+che_0715,化学,浓度商 Q_c,表达式同K，用**瞬时浓度**计算,,,Q_c<K正向进行；Q_c>K逆向进行,P1
+che_0716,化学,燃烧热定义,1 mol 纯物质完全燃烧生成稳定氧化物放热,,,稳定氧化物：\ce{C\rightarrow CO2}、\ce{H\rightarrow H2O(l)},P0
+che_0717,化学,中和热定义,强酸强碱稀溶液生成1 mol \ce{H2O(l)}放热,,,常温常压，\Delta H\approx-57.3\ \mathrm{kJ/mol},P0
+che_0718,化学,盖斯定律,总焓变与路径无关，只与始态、终态有关,,,多步反应焓变叠加计算,P0
+che_0719,化学,焓变与键能关系,\boldsymbol{\Delta H=}反应物总键能 - 生成物总键能,,,断裂键吸热，形成键放热,P1
+che_0720,化学,电子转移计算,n(\text{e}^-)= 变价原子物质的量 \times 化合价变化值,,,氧化还原反应电子守恒计算,P0
+che_0721,化学,\ce{4Na + O2 = 2Na2O},,,,钠常温下缓慢氧化,P0
+che_0722,化学,\ce{2Na + O2\xlongequal{\Delta} Na2O2},,,,钠在空气/氧气中点燃,P0
+che_0723,化学,\ce{2Na + 2H2O = 2NaOH + H2↑},,,,钠与水反应,P0
+che_0724,化学,\ce{Na2O + H2O = 2NaOH},,,,氧化钠与水,P0
+che_0725,化学,\ce{2Na2O2 + 2H2O = 4NaOH + O2↑},,,,过氧化钠与水,P0
+che_0726,化学,\ce{2Na2O2 + 2CO2 = 2Na2CO3 + O2},,,,过氧化钠与二氧化碳（供氧）,P0
+che_0727,化学,\ce{Na2CO3 + 2HCl = 2NaCl + CO2↑ + H2O},,,,碳酸钠与足量强酸,P0
+che_0728,化学,\ce{NaHCO3 + HCl = NaCl + CO2↑ + H2O},,,,碳酸氢钠与酸,P0
+che_0729,化学,\ce{NaHCO3 + NaOH = Na2CO3 + H2O},,,,碳酸氢钠与强碱,P0
+che_0730,化学,\ce{2NaHCO3\xlongequal{\Delta} Na2CO3 + CO2↑ + H2O},,,,碳酸氢钠受热分解,P0
+che_0731,化学,\ce{Al + 3HCl = AlCl3 + \dfrac{3}{2}H2↑},,,,铝与非氧化性酸,P0
+che_0732,化学,\ce{2Al + 2NaOH + 2H2O = 2NaAlO2 + 3H2↑},,,,铝与强碱溶液（两性）,P0
+che_0733,化学,\ce{Al2O3 + 6HCl = 2AlCl3 + 3H2O},,,,氧化铝与酸（两性氧化物）,P0
+che_0734,化学,\ce{Al2O3 + 2NaOH = 2NaAlO2 + H2O},,,,氧化铝与强碱,P0
+che_0735,化学,\ce{Al(OH)3 + 3HCl = AlCl3 + 3H2O},,,,氢氧化铝与酸（两性氢氧化物）,P0
+che_0736,化学,\ce{Al(OH)3 + NaOH = NaAlO2 + 2H2O},,,,氢氧化铝与强碱,P0
+che_0737,化学,\ce{Al^3+ + 3NH3·H2O = Al(OH)3↓ + 3NH4+},,,,铝盐制氢氧化铝（不溶于弱碱）,P0
+che_0738,化学,\ce{3Fe + 2O2\xlongequal{\text{点燃}} Fe3O4},,,,铁在氧气中燃烧,P0
+che_0739,化学,\ce{Fe + 2HCl = FeCl2 + H2↑},,,,铁与稀盐酸、稀硫酸,P0
+che_0740,化学,\ce{Fe + CuSO4 = FeSO4 + Cu},,,,铁置换铜，湿法炼铜,P0
+che_0741,化学,\ce{2FeCl3 + Fe = 3FeCl2},,,,三价铁被铁还原,P0
+che_0742,化学,\ce{2FeCl2 + Cl2 = 2FeCl3},,,,二价铁被氯气氧化,P0
+che_0743,化学,\ce{Cu + 2AgNO3 = Cu(NO3)2 + 2Ag},,,,铜置换银,P0
+che_0744,化学,\ce{CuO + H2\xlongequal{\Delta} Cu + H2O},,,,氢气还原氧化铜,P0
+che_0745,化学,\ce{Cu(OH)2\xlongequal{\Delta} CuO + H2O},,,,氢氧化铜受热分解,P0
+che_0746,化学,\ce{H2 + Cl2\xlongequal{\text{点燃/光照}} 2HCl},,,,氢气与氯气反应,P0
+che_0747,化学,\ce{Cl2 + H2O <=> HCl + HClO},,,,氯气溶于水，可逆反应,P0
+che_0748,化学,\ce{Cl2 + 2NaOH = NaCl + NaClO + H2O},,,,氯气与冷烧碱（制84消毒液）,P0
+che_0749,化学,\ce{2Cl2 + 2Ca(OH)2 = CaCl2 + Ca(ClO)2 + 2H2O},,,,制漂白粉,P0
+che_0750,化学,\ce{HClO\xlongequal{\text{光照}} HCl + \dfrac{1}{2}O2↑},,,,次氯酸见光分解,P0
+che_0751,化学,\ce{S + O2\xlongequal{\text{点燃}} SO2},,,,硫在氧气中燃烧,P0
+che_0752,化学,\ce{SO2 + H2O <=> H2SO3},,,,二氧化硫溶于水生成亚硫酸,P0
+che_0753,化学,\ce{2SO2 + O2 <=>[催化剂][\Delta] 2SO3},,,,二氧化硫催化氧化（可逆）,P0
+che_0754,化学,\ce{SO3 + H2O = H2SO4},,,,三氧化硫与水制硫酸,P0
+che_0755,化学,\ce{Cu + 2H2SO4(\text{浓})\xlongequal{\Delta} CuSO4 + SO2↑ + 2H2O},,,,铜与浓硫酸加热,P0
+che_0756,化学,\ce{C + 2H2SO4(\text{浓})\xlongequal{\Delta} CO2↑ + 2SO2↑ + 2H2O},,,,碳与浓硫酸,P0
+che_0757,化学,\ce{N2 + O2\xlongequal{\text{放电}} 2NO},,,,氮气与氧气放电反应,P0
+che_0758,化学,\ce{2NO + O2 = 2NO2},,,,一氧化氮遇空气变红棕,P0
+che_0759,化学,\ce{3NO2 + H2O = 2HNO3 + NO},,,,二氧化氮溶于水,P0
+che_0760,化学,\ce{N2 + 3H2 <=>[高温高压][催化剂] 2NH3},,,,工业合成氨（可逆）,P0
+che_0761,化学,\ce{NH3 + H2O <=> NH3·H2O <=> NH4+ + OH-},,,,氨气溶于水，弱碱电离,P0
+che_0762,化学,\ce{NH3 + HCl = NH4Cl},,,,氨气与氯化氢白烟反应,P0
+che_0763,化学,\ce{NH4Cl\xlongequal{\Delta} NH3↑ + HCl↑},,,,铵盐受热分解,P0
+che_0764,化学,\ce{NH4+ + OH-\xlongequal{\Delta} NH3↑ + H2O},,,,铵盐与强碱共热（检验\ce{NH4+}）,P0
+che_0765,化学,\ce{C + O2(\text{足量})\xlongequal{\text{点燃}} CO2},,,,碳完全燃烧,P0
+che_0766,化学,\ce{2C + O2(\text{不足})\xlongequal{\text{点燃}} 2CO},,,,碳不完全燃烧,P0
+che_0767,化学,\ce{CO2 + C\xlongequal{\text{高温}} 2CO},,,,二氧化碳与碳高温反应,P0
+che_0768,化学,\ce{CO2 + 2NaOH = Na2CO3 + H2O},,,,二氧化碳与足量烧碱,P0
+che_0769,化学,\ce{CO2 + NaOH = NaHCO3},,,,二氧化碳过量与烧碱,P0
+che_0770,化学,\ce{CO2 + Ca(OH)2 = CaCO3↓ + H2O},,,,二氧化碳通入澄清石灰水（检验\ce{CO2}）,P0
+che_0771,化学,\ce{CaCO3 + CO2 + H2O = Ca(HCO3)2},,,,碳酸钙继续溶入过量\ce{CO2},P0
+che_0772,化学,\ce{SiO2 + 2NaOH = Na2SiO3 + H2O},,,,二氧化硅与强碱（玻璃腐蚀）,P0
+che_0773,化学,\ce{SiO2 + CaO\xlongequal{\text{高温}} CaSiO3},,,,二氧化硅与碱性氧化物,P0
+che_0774,化学,\ce{Si + 2NaOH + H2O = Na2SiO3 + 2H2↑},,,,硅与强碱溶液,P1
+che_0775,化学,\ce{H2 + O2\xlongequal{\text{点燃}} H2O},,,,氢气燃烧,P0
+che_0776,化学,\ce{H+ + OH- = H2O},,,,强酸强碱中和（无沉淀）,P0
+che_0777,化学,\ce{CO3^2- + 2H+ = CO2↑ + H2O},,,,碳酸盐与足量强酸,P0
+che_0778,化学,\ce{HCO3- + H+ = CO2↑ + H2O},,,,碳酸氢根与酸,P0
+che_0779,化学,\ce{Ag+ + Cl- = AgCl↓},,,,氯离子检验，白色沉淀不溶于硝酸,P0
+che_0780,化学,\ce{Ba^2+ + SO4^2- = BaSO4↓},,,,硫酸根检验，白色沉淀不溶于硝酸,P0
+che_0781,化学,\ce{Fe^3+ + 3OH- = Fe(OH)3↓},,,,三价铁与碱生成红褐色沉淀,P0
+che_0782,化学,\ce{Cu^2+ + 2OH- = Cu(OH)2↓},,,,铜离子与碱生成蓝色沉淀,P0
+che_0783,化学,\ce{Mg + 2HCl = MgCl2 + H2↑},,,,镁与酸剧烈反应,P0
+che_0784,化学,\ce{4HNO3(\text{浓}) + Cu = Cu(NO3)2 + 2NO2↑ + 2H2O},,,,铜与浓硝酸,P0
+che_0785,化学,\ce{8HNO3(\text{稀}) + 3Cu = 3Cu(NO3)2 + 2NO↑ + 4H2O},,,,铜与稀硝酸,P0
+che_0786,化学,\ce{2H2O2\xlongequal{MnO2} 2H2O + O2↑},,,,过氧化氢分解（制氧气）,P0
+che_0787,化学,\ce{2KMnO4\xlongequal{\Delta} K2MnO4 + MnO2 + O2↑},,,,高锰酸钾加热制氧气,P0
+che_0788,化学,\ce{2KClO3\xlongequal[\Delta]{MnO2} 2KCl + 3O2↑},,,,氯酸钾制氧气,P0
+che_0789,化学,\ce{CaCO3\xlongequal{\text{高温}} CaO + CO2↑},,,,碳酸钙高温分解（煅烧石灰石）,P0
+che_0790,化学,\ce{CaO + H2O = Ca(OH)2},,,,生石灰制熟石灰，放热,P0
+che_0791,化学,\ce{Ca(OH)2 + Na2CO3 = CaCO3↓ + 2NaOH},,,,工业制烧碱,P0
+che_0792,化学,\ce{SO2 + Cl2 + 2H2O = H2SO4 + 2HCl},,,,二氧化硫与氯气水溶液漂白失效,P1
+che_0793,化学,\ce{Br2 + 2I- = 2Br- + I2},,,,溴置换碘，氧化性：\ce{Br2 > I2},P1
+che_0794,化学,\ce{Cl2 + 2Br- = 2Cl- + Br2},,,,氯置换溴，氧化性：\ce{Cl2 > Br2},P1
+che_0795,化学,\ce{Fe^3+ + 3SCN- <=> [Fe(SCN)]^2+},,,,三价铁离子检验，溶液变红,P0
+che_0796,化学,\ce{Al^3+ + 3H2O <=> Al(OH)3(\text{胶体}) + 3H+},,,,明矾净水，铝离子水解,P1
+che_0797,化学,\ce{NH4+ + H2O <=> NH3·H2O + H+},,,,铵根离子水解，溶液显酸性,P1
+che_0798,化学,\ce{CH3COO- + H2O <=> CH3COOH + OH-},,,,醋酸根水解，溶液显碱性,P1
+che_0799,化学,\ce{2Al + Fe2O3\xlongequal{\text{高温}} Al2O3 + 2Fe},,,,铝热反应,P1
+che_0800,化学,\ce{C + H2O(g)\xlongequal{\text{高温}} CO + H2},,,,水煤气制备,P1
+che_0801,化学,\ce{CH4 + 2O2\xlongequal{\text{点燃}} CO2 + 2H2O},,,,甲烷完全燃烧,P0
+che_0802,化学,\ce{CH4 + Cl2\xlongequal{\text{光照}} CH3Cl + HCl},,,,甲烷一氯取代（连锁取代）,P0
+che_0803,化学,\ce{CH2=CH2 + Br2 -> CH2BrCH2Br},,,,乙烯加成溴水，溴水褪色,P0
+che_0804,化学,\ce{CH2=CH2 + H2\xlongequal[\Delta]{催化剂} CH3CH3},,,,乙烯加成氢气（催化加氢）,P0
+che_0805,化学,\ce{CH2=CH2 + H2O\xlongequal[\Delta]{催化剂} CH3CH2OH},,,,乙烯水化制乙醇,P0
+che_0806,化学,\ce{nCH2=CH2\xrightarrow{\text{催化剂}} \left[-CH2-CH2-\right]_n},,,,乙烯加聚，制聚乙烯,P0
+che_0807,化学,\ce{CH≡CH + 2Br2 -> CHBr2CHBr2},,,,乙炔完全加成溴,P1
+che_0808,化学,\ce{C6H6 + Br2\xlongequal{FeBr3} C6H5Br + HBr},,,,苯的溴代（取代）,P0
+che_0809,化学,\ce{C6H6 + HNO3\xlongequal[\Delta]{浓H2SO4} C6H5NO2 + H2O},,,,苯的硝化反应,P0
+che_0810,化学,\ce{C6H6 + 3H2\xlongequal[\Delta]{催化剂} C6H12},,,,苯催化加氢（加成）,P0
+che_0811,化学,\ce{2CH3CH2OH + 2Na -> 2CH3CH2ONa + H2↑},,,,乙醇与钠反应,P0
+che_0812,化学,\ce{CH3CH2OH + 3O2\xlongequal{\text{点燃}} 2CO2 + 3H2O},,,,乙醇燃烧,P0
+che_0813,化学,\ce{2CH3CH2OH + O2\xlongequal[\Delta]{Cu/Ag} 2CH3CHO + 2H2O},,,,乙醇催化氧化为乙醛,P0
+che_0814,化学,\ce{CH3CH2OH\xlongequal[170^\circ\text{C}]{浓H2SO4} CH2=CH2↑ + H2O},,,,乙醇消去制乙烯,P0
+che_0815,化学,\ce{2CH3CH2OH\xlongequal[140^\circ\text{C}]{浓H2SO4} CH3CH2OCH2CH3 + H2O},,,,乙醇分子间脱水（取代）,P1
+che_0816,化学,\ce{CH3COOH + CH3CH2OH <=>[浓H2SO4][\Delta] CH3COOCH2CH3 + H2O},,,,乙酸乙酯制备（酯化/可逆）,P0
+che_0817,化学,\ce{CH3COOH + NaOH = CH3COONa + H2O},,,,乙酸中和强碱,P0
+che_0818,化学,\ce{CH3COOH + Na2CO3 -> CH3COONa + CO2↑ + H2O},,,,乙酸酸性强于碳酸,P0
+che_0819,化学,\ce{CH3COOCH2CH3 + H2O <=>[H+][\Delta] CH3COOH + CH3CH2OH},,,,酯酸性水解（可逆）,P0
+che_0820,化学,\ce{CH3COOCH2CH3 + NaOH\xlongequal{\Delta} CH3COONa + CH3CH2OH},,,,酯碱性水解（完全）,P0
+che_0821,化学,\ce{C6H5OH + NaOH -> C6H5ONa + H2O},,,,苯酚与强碱,P0
+che_0822,化学,\ce{C6H5ONa + CO2 + H2O -> C6H5OH + NaHCO3},,,,苯酚钠通\ce{CO2}，酸性：碳酸>苯酚,P0
+che_0823,化学,苯酚与浓溴水：生成白色三溴苯酚沉淀,,,,苯酚特征取代反应,P0
+che_0824,化学,苯酚遇\ce{FeCl3}溶液显紫色,,,,苯酚显色反应（检验）,P0
+che_0825,化学,\ce{CH3CHO + H2\xlongequal[\Delta]{催化剂} CH3CH2OH},,,,乙醛催化加氢（还原）,P1
+che_0826,化学,\ce{2CH3CHO + O2\xlongequal{\text{催化剂}} 2CH3COOH},,,,乙醛催化氧化,P1
+che_0827,化学,\ce{CH3CHO + 2Ag(NH3)2OH\xlongequal{\Delta} CH3COONH4 + 2Ag↓ + 3NH3 + H2O},,,,银镜反应（醛基检验）,P0
+che_0828,化学,\ce{CH3CHO + 2Cu(OH)2 + NaOH\xlongequal{\Delta} CH3COONa + Cu2O↓ + 3H2O},,,,新制氢氧化铜（砖红沉淀）,P0
+che_0829,化学,葡萄糖在体内缓慢氧化：\ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O},,,,呼吸作用,P0
+che_0830,化学,\ce{C6H12O6\xrightarrow{\text{酒化酶}} 2C2H5OH + 2CO2↑},,,,葡萄糖发酵制乙醇,P0
+che_0831,化学,淀粉水解：\ce{(C6H10O5)}_n + n\ce{H2O}\xrightarrow{\text{酸/酶}} n\ce{C6H12O6},,,,多糖水解为葡萄糖,P0
+che_0832,化学,纤维素水解：同淀粉，条件更苛刻,,,,纤维素水解,P1
+che_0833,化学,油脂酸性水解：生成高级脂肪酸 + 甘油,,,,可逆反应,P1
+che_0834,化学,油脂皂化反应（碱性水解）：高级脂肪酸盐 + 甘油,,,,制肥皂，完全反应,P0
+che_0835,化学,氨基酸两性：\ce{H2N-CH2-COOH + HCl -> ClH3N-CH2-COOH},,,,氨基显碱性,P1
+che_0836,化学,氨基酸两性：\ce{H2N-CH2-COOH + NaOH -> H2N-CH2-COONa + H2O},,,,羧基显酸性,P1
+che_0837,化学,氨基酸脱水缩合（二肽）：形成肽键,,,,多肽、蛋白质基础反应,P1
+che_0838,化学,蛋白质盐析：可逆，物理变化,,,,轻金属盐降低溶解度,P1
+che_0839,化学,蛋白质变性：不可逆，化学变化,,,,加热、重金属、强酸强碱,P1
+che_0840,化学,蛋白质灼烧：产生烧焦羽毛气味,,,,蛋白质特征检验,P0
+che_0841,化学,难溶电解质溶度积,\boldsymbol{K_{sp}=c(\text{阳离子})^m\cdot c(\text{阴离子})^n},,,难溶物\ce{A_{m}B_{n}(s) <=> mA^{n+} + nB^{m-}}，温度恒定K_{sp}不变,P0
+che_0842,化学,溶度积与溶解度换算(AB型),\boldsymbol{S=\sqrt{K_{sp}}},,,AB型难溶盐，单位：mol/L，稀溶液近似,P1
+che_0843,化学,离子积判据,Q_c > K_{sp} 析出沉淀；Q_c = K_{sp} 饱和；Q_c < K_{sp} 溶解,,,沉淀生成与溶解判断依据,P0
+che_0844,化学,沉淀转化规律,溶解度大 → 溶解度更小的难溶物,,,同类型难溶电解质，K_{sp}差距越大越易转化,P1
+che_0845,化学,一元弱酸c(\boldsymbol{H^+})近似式,\boldsymbol{c(\ce{H+})\approx\sqrt{K_a\cdot c_\text{酸}}},,,弱酸电离度很小，c_\text{酸}为弱酸初始浓度,P1
+che_0846,化学,一元弱碱c(\boldsymbol{OH^-})近似式,\boldsymbol{c(\ce{OH-})\approx\sqrt{K_b\cdot c_\text{碱}}},,,弱碱电离度很小，近似计算氢氧根浓度,P1
+che_0847,化学,缓冲溶液pH（弱酸+共轭碱）,\boldsymbol{pH=pK_a+\lg\dfrac{c(\text{共轭碱})}{c(\text{弱酸})}},,,弱酸及其盐组成缓冲体系,P1
+che_0848,化学,电离度定义,\boldsymbol{\alpha=\dfrac{\text{已电离弱电解质浓度}}{\text{弱电解质初始浓度}}\times100\%},,,表征弱电解质电离程度,P0
+che_0849,化学,电离度与电离常数关系,\boldsymbol{K_a\approx c\cdot\alpha^2},,,一元弱酸，\alpha\ll1，近似公式,P1
+che_0850,化学,多元弱酸分步电离,\ce{H2A <=> H+ + HA-}、\ce{HA- <=> H+ + A^2-},,,分步电离，一级电离远大于二级,P0
+che_0851,化学,多元弱碱分步电离,\ce{M(OH)n <=> M(OH)_{n-1}^+ + OH-},,,中学阶段常一步书写,P0
+che_0852,化学,盐溶液质子守恒（通用）,水电离\ce{H+}总浓度 = 水电离\ce{OH-}总浓度,,,三大守恒：电荷、物料、质子,P0
+che_0853,化学,盐溶液电荷守恒,阳离子总正电荷 = 阴离子总负电荷,,,任意电解质水溶液恒成立,P0
+che_0854,化学,盐溶液物料守恒,元素原子/离子总数比例不变,,,水解、电离不改变元素总量,P0
+che_0855,化学,反应速率之比 = 计量数之比,\dfrac{v_1}{a_1}=\dfrac{v_2}{a_2}=\dfrac{v_3}{a_3},,,反应\ce{a1A + a2B = a3C}，速率与系数成正比,P0
+che_0856,化学,温度对速率影响（范特霍夫）,温度每升高10^\circ\text{C}，速率变为原来2~4倍,,,经验规律，适用于多数反应,P1
+che_0857,化学,可逆反应转化率,\boldsymbol{\alpha=\dfrac{\text{反应物转化浓度}}{\text{反应物起始浓度}}\times100\%},,,平衡转化率计算,P0
+che_0858,化学,压强平衡常数K_p,\boldsymbol{K_p=\prod p(\text{生成物})^\text{系数}/\prod p(\text{反应物})^\text{系数}},,,气相反应，用分压计算平衡常数,P1
+che_0859,化学,分压与总压关系,\boldsymbol{p_i = p_\text{总}\cdot \varphi_i},,,\varphi_i为气体物质的量分数/体积分数,P1
+che_0860,化学,焓变、熵变、吉布斯自由能,\boldsymbol{\Delta G=\Delta H-T\Delta S},,,判断反应自发方向，T为热力学温度,P0
+che_0861,化学,反应自发判据,\Delta G<0 正向自发；\Delta G=0 平衡；\Delta G>0 逆向自发,,,恒温恒压条件,P0
+che_0862,化学,标准摩尔生成焓求反应焓变,\boldsymbol{\Delta H=\sum\Delta H_f(\text{生成物})-\sum\Delta H_f(\text{反应物})},,,利用标准生成焓计算总焓变,P1
+che_0863,化学,反应热与中和热区分,中和热特指生成\boldsymbol{1\ mol\ H_2O(l)}放热,,,稀强酸强碱：\Delta H=-57.3\ \mathrm{kJ/mol},P0
+che_0864,化学,燃烧热计算,Q=n\cdot,,,\Delta H_\text{燃烧},
+che_0865,化学,电化学：原电池总反应,负极氧化、正极还原，电子负极→正极,,,自发氧化还原反应,P0
+che_0866,化学,电化学：电解池总反应,阳极氧化、阴极还原，外接电源驱动,,,非自发氧化还原反应,P0
+che_0867,化学,法拉第电解定律,\boldsymbol{n(\ce{e-})=\dfrac{It}{F}},,,F\approx96500\ \mathrm{C/mol}法拉第常数,P1
+che_0868,化学,金属吸氧腐蚀（中性/弱酸性）,正极：\ce{O2 + 2H2O + 4e- = 4OH-},,,钢铁主要腐蚀形式,P0
+che_0869,化学,金属析氢腐蚀（强酸性）,正极：\ce{2H+ + 2e- = H2↑},,,酸性环境下钢铁腐蚀,P0
+che_0870,化学,化学平衡移动（勒夏特列）,减弱改变，不能抵消改变,,,浓度、温度、压强影响平衡,P0
+che_0871,化学,催化剂作用,同等改变正、逆反应速率，**不影响平衡**,,,只缩短达平衡时间,P0
+che_0872,化学,混合溶液pH计算（强酸混合）,c(\ce{H+})_\text{总}=\dfrac{c_1V_1+c_2V_2}{V_1+V_2},,,两种稀强酸等体积/不等体积混合,P1
+che_0873,化学,混合溶液pH计算（强碱混合）,c(\ce{OH-})_\text{总}=\dfrac{c_1V_1+c_2V_2}{V_1+V_2},,,两种稀强碱混合，先算\ce{OH-}再求pH,P1
+che_0874,化学,强酸强碱恰好中和,n(\ce{H+})=n(\ce{OH-})，常温\boldsymbol{pH=7},,,一元强酸与一元强碱,P0
+che_0875,化学,滴定计算（酸碱中和滴定）,\boldsymbol{c_\text{待}=\dfrac{c_\text{标}\cdot V_\text{标}}{V_\text{待}}},,,滴定实验核心计算公式,P0
+che_0876,化学,滴定误差分析依据,待测浓度与标准液体积成正比,,,V_\text{标}偏大，结果偏高,P0
+che_0877,化学,配合物解离平衡,\ce{[Cu(NH3)4]^2+ <=> Cu^2+ + 4NH3},,,络离子分步解离，存在解离常数,P1
+che_0878,化学,配位平衡稳定常数,\boldsymbol{K_\text{稳}=\dfrac{c(\text{络离子})}{c(\text{中心离子})\cdot c(\text{配体})^n}},,,K_\text{稳}越大，络离子越稳定,P1
+che_0879,化学,气体平均相对分子质量,\boldsymbol{\overline{M}=\rho\cdot V_m},,,由密度、气体摩尔体积计算,P1
+che_0880,化学,气体分压定律（道尔顿）,\boldsymbol{p_\text{总}=p_1+p_2+p_3+\dots},,,混合气体总压 = 各组分分压之和,P1
+che_0881,化学,\ce{Cl2 + SO2 + 2H2O = H2SO4 + 2HCl},,,,氯水+二氧化硫，氧化还原反应,P1
+che_0882,化学,\ce{NaCl + H2SO4(\text{浓})\xlongequal{\Delta} NaHSO4 + HCl↑},,,,难挥发性酸制易挥发性酸（制HCl）,P0
+che_0883,化学,\ce{NaBr + H2SO4(\text{浓}) -> Br2 + SO2↑ + Na2SO4 + H2O},,,,浓硫酸氧化溴离子,P1
+che_0884,化学,\ce{2F2 + 2H2O = 4HF + O2},,,,氟气与水剧烈反应，氧化性极强,P1
+che_0885,化学,\ce{HF + SiO2 = SiF4↑ + 2H2O},,,,氢氟酸腐蚀玻璃，唯一与\ce{SiO2}反应的酸,P0
+che_0886,化学,\ce{SO2 + 2H2S = 3S↓ + 2H2O},,,,二氧化硫与硫化氢归中反应,P0
+che_0887,化学,\ce{H2S + Cl2 = 2HCl + S↓},,,,氯气氧化硫化氢,P1
+che_0888,化学,\ce{Na2S2O3 + H2SO4 = Na2SO4 + S↓ + SO2↑ + H2O},,,,硫代硫酸根歧化反应,P0
+che_0889,化学,\ce{4P + 5O2\xlongequal{\text{点燃}} 2P2O5},,,,磷在氧气中燃烧,P0
+che_0890,化学,\ce{P2O5 + 3H2O(\text{热}) = 2H3PO4},,,,五氧化二磷与热水生成磷酸,P1
+che_0891,化学,\ce{4NH3 + 5O2\xlongequal[\Delta]{催化剂} 4NO + 6H2O},,,,氨的催化氧化（工业制硝酸第一步）,P0
+che_0892,化学,\ce{NH3 + HNO3 = NH4NO3},,,,氨气与硝酸化合,P0
+che_0893,化学,\ce{NO + NO2 + 2NaOH = 2NaNO2 + H2O},,,,氮氧化物尾气吸收,P1
+che_0894,化学,\ce{4NO2 + O2 + 2H2O = 4HNO3},,,,二氧化氮、氧气混合溶于水,P0
+che_0895,化学,\ce{4NO + 3O2 + 2H2O = 4HNO3},,,,一氧化氮、氧气混合溶于水,P0
+che_0896,化学,\ce{H2SiO3\xlongequal{\Delta} SiO2 + H2O},,,,硅酸受热分解,P0
+che_0897,化学,\ce{Na2SiO3 + 2HCl = H2SiO3↓ + 2NaCl},,,,强酸制弱酸，制硅酸沉淀,P0
+che_0898,化学,\ce{Na2CO3 + SiO2\xlongequal{\text{高温}} Na2SiO3 + CO2↑},,,,制玻璃主反应（高温特例）,P0
+che_0899,化学,\ce{CaCO3 + SiO2\xlongequal{\text{高温}} CaSiO3 + CO2↑},,,,制玻璃、陶瓷反应,P0
+che_0900,化学,\ce{Si + 4HF = SiF4↑ + 2H2↑},,,,硅与氢氟酸反应,P1
+che_0921,化学,\ce{2MnO4- + 16H+ + 10Cl- = 2Mn^2+ + 5Cl2↑ + 8H2O},,,,酸性高锰酸钾氧化氯离子,P1
+che_0922,化学,\ce{MnO4- + 5Fe^2+ + 8H+ = Mn^2+ + 5Fe^3+ + 4H2O},,,,酸性高锰酸钾滴定亚铁离子,P0
+che_0923,化学,\ce{Cr2O7^2- + 6Fe^2+ + 14H+ = 2Cr^3+ + 6Fe^3+ + 7H2O},,,,重铬酸钾氧化亚铁离子,P1
+che_0924,化学,\ce{S2O3^2- + 4Cl2 + 5H2O = 2SO4^2- + 8Cl- + 10H+},,,,氯气氧化硫代硫酸根,P1
+che_0925,化学,\ce{2I- + H2O2 + 2H+ = I2 + 2H2O},,,,酸性条件过氧化氢氧化碘离子,P1
+che_0926,化学,\ce{2Fe^3+ + H2S = 2Fe^2+ + S↓ + 2H+},,,,三价铁氧化硫化氢,P1
+che_0927,化学,\ce{Cl2 + H2SO3 + H2O = SO4^2- + 2Cl- + 4H+},,,,亚硫酸被氯水氧化,P1
+che_0928,化学,\ce{HCO3- + H+ = CO2↑ + H2O},,,,碳酸氢根与强酸,P0
+che_0929,化学,\ce{HCO3- + OH- = CO3^2- + H2O},,,,碳酸氢根与强碱,P0
+che_0930,化学,\ce{Al^3+ + 3AlO2- + 6H2O = 4Al(OH)3↓},,,,铝离子与偏铝酸根双水解,P0
+che_0931,化学,\ce{NH4+ + AlO2- + H2O = Al(OH)3↓ + NH3↑},,,,铵根与偏铝酸根双水解,P1
+che_0932,化学,\ce{Fe^3+ + 3HCO3- = Fe(OH)3↓ + 3CO2↑},,,,铁离子与碳酸氢根双水解,P0
+che_0933,化学,\ce{Al^3+ + 3HS- + 3H2O = Al(OH)3↓ + 3H2S↑},,,,双水解反应,P1
+che_0934,化学,\ce{AgCl + I- = AgI + Cl-},,,,沉淀转化：氯化银→碘化银,P0
+che_0935,化学,\ce{AgI + S^2- = Ag2S↓ + 2I-},,,,碘化银转化为硫化银（更难溶）,P1
+che_0936,化学,\ce{Ca(HCO3)2 + Ca(OH)2 = 2CaCO3↓ + 2H2O},,,,碳酸氢钙与氢氧化钙,P0
+che_0937,化学,\ce{Ca(HCO3)2 + 2NaOH(\text{过量}) = CaCO3↓ + Na2CO3 + 2H2O},,,,量不同产物不同,P1
+che_0938,化学,\ce{Mg(HCO3)2 + 2Ca(OH)2 = 2CaCO3↓ + Mg(OH)2↓ + 2H2O},,,,碳酸氢镁与石灰水,P1
+che_0939,化学,\ce{SO2 + 2HCO3- = SO3^2- + 2CO2 + H2O},,,,二氧化硫与碳酸氢盐,P1
+che_0940,化学,\ce{CO2 + AlO2- + 2H2O = Al(OH)3↓ + HCO3-},,,,过量二氧化碳通入偏铝酸盐,P0
+che_0941,化学,"\ce{CH3CH2Br + NaOH\xlongequal{H2O,\Delta} CH3CH2OH + NaBr}",,,,卤代烃碱性水解（取代）,P0
+che_0942,化学,\ce{CH3CH2Br + NaOH\xlongequal[\Delta]{醇} CH2=CH2↑ + NaBr + H2O},,,,卤代烃醇溶液消去反应,P0
+che_0943,化学,\ce{HOCH2CH2OH + 2CH3COOH <=> 二乙酸乙二酯 + 2H2O},,,,二元醇酯化反应,P1
+che_0944,化学,\ce{HOOC-COOH + 2C2H5OH <=> 乙二酸二乙酯 + 2H2O},,,,二元羧酸酯化,P1
+che_0945,化学,乙二酸自身脱水：\ce{HOOC-COOH\xlongequal{\Delta} HCOOH + CO2↑},,,,草酸受热分解,P1
+che_0946,化学,\ce{HCHO + 4Ag(NH3)2OH\xlongequal{\Delta} (NH4)2CO3 + 4Ag↓ + 6NH3 + 2H2O},,,,甲醛银镜反应（二元醛特性）,P1
+che_0947,化学,\ce{nHOOC-COOH + nHOCH2CH2OH \xrightarrow{\text{催化剂}} 聚酯 + nH2O},,,,缩聚反应（聚乙二酸乙二酯）,P0
+che_0948,化学,\ce{nC6H5OH + nHCHO \xrightarrow{\text{浓HCl}} 酚醛树脂 + nH2O},,,,苯酚与甲醛缩聚（酚醛树脂）,P0
+che_0949,化学,\ce{CH2=C(CH3)COOCH3 \xrightarrow{\text{催化剂}} 有机玻璃},,,,甲基丙烯酸甲酯加聚,P1
+che_0950,化学,"\ce{CH2=CH-CH=CH2 + Br2 -> 1,2-加成产物}",,,,"二烯烃1,2-加成",P1
+che_0951,化学,"\ce{CH2=CH-CH=CH2 + Br2 \xrightarrow{\text{低温}} 1,4-加成产物}",,,,"二烯烃1,4-加成",P1
+che_0952,化学,\ce{C6H5-CH3 + 3HNO3\xlongequal[\Delta]{浓H2SO4} 三硝基甲苯 + 3H2O},,,,甲苯硝化（TNT炸药）,P0
+che_0953,化学,\ce{C6H5-CH3 + KMnO4(H+) -> C6H5-COOH},,,,酸性高锰酸钾氧化苯的同系物,P0
+che_0954,化学,有机物燃烧通式(烃)：\boldsymbol{\ce{C_{x}H_{y} + \left(x+\dfrac{y}{4}\right)O2 -> xCO2 + \dfrac{y}{2}H2O}},,,,烃类完全燃烧通用公式,P0
+che_0955,化学,烃的含氧衍生物燃烧通式：\boldsymbol{\ce{C_{x}H_{y}O_{z} + \left(x+\dfrac{y}{4}-\dfrac{z}{2}\right)O2 -> xCO2 + \dfrac{y}{2}H2O}},,,,含氧有机物燃烧计算,P0
+che_0956,化学,不饱和度公式：\boldsymbol{\Omega=\dfrac{2x+2-y}{2}},,,,烃\ce{C_{x}H_{y}}不饱和度，判断双键、环,P0
+che_0957,化学,含卤素不饱和度：\boldsymbol{\Omega=\dfrac{2x+2-y-n}{2}},,,,\ce{C_{x}H_{y}X_{n}}，卤原子等效氢,P1
+che_0958,化学,含氧有机物不饱和度：氧原子不影响\Omega,,,,\ce{C_{x}H_{y}O_{z}}直接用烃公式,P1
+che_0959,化学,同系物定义：结构相似，分子差若干\boldsymbol{\ce{CH2}}原子团,,,,同系物熔沸点随碳数递增升高,P0
+che_0960,化学,同分异构体：分子式相同，结构不同,,,,类别异构、碳链异构、位置异构,P0
+che_0961,化学,\ce{HOCH2-CHO + 2[Ag(NH3)2]OH\xlongequal{\Delta} 二元酸铵 + 2Ag↓},,,,羟基醛银镜反应,P1
+che_0962,化学,乙二醇分子内脱水：生成环氧乙烷,,,,二元醇特殊消去,P1
+che_0963,化学,油脂氢化（硬化）：液态油\ce{+H2 ->}固态脂肪,,,,加成反应，制人造脂肪,P0
+che_0964,化学,\ce{(C6H10O5)_n(\text{纤维素}) + nH2O \xrightarrow{\text{浓酸/酶}} nC6H12O6},,,,纤维素水解,P1
+che_0965,化学,麦芽糖水解：\ce{C12H22O11 + H2O -> 2C6H12O6},,,,二糖水解生成两分子葡萄糖,P0
+che_0966,化学,蔗糖水解：\ce{C12H22O11 + H2O -> C6H12O6(葡) + C6H12O6(果)},,,,蔗糖无醛基，水解产物有还原性,P0
+che_0967,化学,氨基酸成环肽：两分子氨基酸脱水生成环肽,,,,环状多肽，脱去2分子水,P1
+che_0968,化学,多肽水解：肽键断裂，生成氨基酸,,,,酸性、碱性、酶催化均可水解,P0
+che_0969,化学,\ce{CH2=CHCl \xrightarrow{\text{催化剂}} 聚氯乙烯(PVC)},,,,氯乙烯加聚,P0
+che_0970,化学,\ce{nCH2=CCl2 -> }聚偏二氯乙烯,,,,高分子合成,P1
+che_0971,化学,有机物密度规律：卤代烃、硝基苯 > 水；烃、酯 < 水,,,,分层现象判断依据,P0
+che_0972,化学,有机物溶解性：低级醇/醛/羧酸易溶于水,,,,碳链越长，水溶性越差,P0
+che_0973,化学,\ce{HCOOH + 2Ag(NH3)2OH\xlongequal{\Delta} (NH4)2CO3 + 2Ag↓ + 2NH3 + H2O},,,,甲酸银镜反应（含醛基结构）,P0
+che_0974,化学,\ce{HCOOH + CH3OH <=>[浓H2SO4][\Delta] HCOOCH3 + H2O},,,,甲酸与甲醇酯化（甲酸甲酯）,P0
+che_0975,化学,甲酸甲酯水解：\ce{HCOOCH3 + H2O <=> HCOOH + CH3OH},,,,酯类水解,P0
+che_0976,化学,\ce{CH3COCH3 + H2\xlongequal{\text{催化剂}} (CH3)2CHOH},,,,丙酮催化加氢还原,P1
+che_0977,化学,醚键水解：一般条件稳定，强酸加热可断裂,,,,醚化学性质稳定,P1
+che_0978,化学,\ce{C6H5-CH=CH2 + Br2 -> }加成产物,,,,苯乙烯双键加成,P0
+che_0979,化学,高分子单体判断：加聚物单键变双键，缩聚物补小分子,,,,有机推断常用方法,P1
+che_0980,化学,有机反应量比：1 mol 碳碳双键 ~ 1 mol \ce{Br2/H2},,,,官能团定量计算,P0
+che_0981,化学,元素质量分数,\boldsymbol{w(\text{元素})=\dfrac{\text{相对原子质量}\times\text{原子个数}}{\text{相对分子质量}}\times100\%},,,化学式元素含量计算,P0
+che_0982,化学,混合物中元素质量,m(\text{元素})=m(\text{混合物})\times w(\text{元素}),,,多组分混合体系,P0
+che_0983,化学,产率计算公式,\boldsymbol{\text{产率}=\dfrac{\text{实际产量}}{\text{理论产量}}\times100\%},,,化工、有机合成计算,P0
+che_0984,化学,原料利用率,\boldsymbol{\text{利用率}=\dfrac{\text{参与反应原料质量}}{\text{投入原料总质量}}\times100\%},,,工业流程计算,P1
+che_0985,化学,气体平均分子式,由\overline{M}结合最简式推导,,,混合气体成分判断,P1
+che_0986,化学,十字交叉法（二元混合）,两组分比值 = 差值反比,,,平均摩尔质量、浓度、密度计算,P0
+che_0987,化学,结晶水合物失水计算,m(\text{无水盐}):m(\text{结晶水})= 质量比例,,,晶体风化、加热脱水,P1
+che_0988,化学,溶液浓缩公式,c_1V_1=c_2V_2（浓缩前后溶质不变）,,,蒸发溶剂浓缩溶液,P0
+che_0989,化学,电解产物定量计算,串联电路：各电极转移电子物质的量相等,,,多池串联电解计算,P1
+che_0990,化学,热化学方程式叠加,焓变随方程式同步加减、倍数缩放,,,盖斯定律综合计算,P0
+che_0991,化学,气体体积差量法,\dfrac{\Delta V}{V_\text{始}}=\dfrac{\Delta n}{n_\text{始}},,,反应前后气体体积变化计算,P0
+che_0992,化学,固体质量差量法,\Delta m = 反应前后固体质量差值,,,固体参与的反应计算,P0
+che_0993,化学,浓度差量计算,\Delta c 与物质计量数成正比,,,溶液中可逆反应计算,P1
+che_0994,化学,离子浓度大小比较（单一盐）,结合电离、水解强弱排序,,,溶液粒子浓度排序,P0
+che_0995,化学,混合溶液粒子浓度,先反应，再判断电离/水解主次,,,酸碱、盐混合体系,P0
+che_0996,化学,萃取分配定律,溶质在两溶剂中浓度比为定值,,,萃取实验定量计算,P1
+che_0997,化学,过滤、洗涤沉淀计算,洗涤液检验离子判断是否洗净,,,定量实验误差控制,P0
+che_0998,化学,气体收集体积换算,标况体积 ↔ 物质的量 n=V/22.4,,,气体制备实验,P0
+che_0999,化学,指示剂变色范围,pH区间对应酸式色、碱式色,,,酸碱滴定指示剂选择,P0
+che_1000,化学,实验误差相对偏差,\boldsymbol{\text{相对偏差}=\dfrac{,,,\text{测定值}-\text{真实值},}{\text{真实值}}\times100\%}

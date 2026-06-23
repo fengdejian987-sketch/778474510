@@ -1,0 +1,2646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person:person xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review">
+    <person:name visibility="public" path="0009-0000-5793-9666">
+        <common:created-date>2026-03-22T19:08:00.210Z</common:created-date>
+        <common:last-modified-date>2026-03-26T03:03:58.263Z</common:last-modified-date>
+        <personal-details:given-names>dejian</personal-details:given-names>
+        <personal-details:family-name>feng</personal-details:family-name>
+        <personal-details:credit-name>Dejian Feng</personal-details:credit-name>
+    </person:name>
+    <other-name:other-names>
+        <other-name:other-name put-code="2199390" visibility="public" display-index="3">
+            <common:created-date>2026-03-27T21:43:18.624Z</common:created-date>
+            <common:last-modified-date>2026-03-28T01:24:10.637Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <other-name:content>冯煜文</other-name:content>
+        </other-name:other-name>
+        <other-name:other-name put-code="2198482" visibility="public" display-index="2">
+            <common:created-date>2026-03-26T03:02:02.269Z</common:created-date>
+            <common:last-modified-date>2026-03-28T01:24:10.637Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <other-name:content>冯德建</other-name:content>
+        </other-name:other-name>
+        <other-name:other-name put-code="2198483" visibility="public" display-index="1">
+            <common:created-date>2026-03-26T03:04:40.310Z</common:created-date>
+            <common:last-modified-date>2026-03-28T01:24:10.637Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <other-name:content>Fengyvwen</other-name:content>
+        </other-name:other-name>
+    </other-name:other-names>
+    <person:biography visibility="public">
+        <common:created-date>2026-04-02T08:54:51.334Z</common:created-date>
+        <common:last-modified-date>2026-05-23T00:06:33.206Z</common:last-modified-date>
+        <personal-details:content>Independent researcher, focusing on the unified theory of the universe of matter, basic physics, universal physical formulas and interdisciplinary innovation. Research areas include black hole interpretation, quantum entanglement mechanism, basic quantum energy, geo-moon homogeneous, sun and moon coherence, seismic prediction, photon and electronic nature, electron-targeted lithography, intelligent medical care , the origin of life (the first chicken or the egg paradox), the generator manufacturing technology, the silver-energy-food currency system, and the unified science education system (three steps and nine stages) and the language integration teaching system. 80+ unified theoretical papers have been published on the Zenodo platform, and have been included in the open data platform. Now I have completed the second edition of the industrial-grade industrial-grade, intelligent computing power AI, and software package packaging in the GitHub personal open warehouse. It has been officially completed, the basic framework of global scientific computing power!</personal-details:content>
+    </person:biography>
+    <researcher-url:researcher-urls>
+        <researcher-url:researcher-url put-code="6162527" visibility="public" display-index="7">
+            <common:created-date>2026-04-02T09:14:19.494Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.090Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>zenodo</researcher-url:url-name>
+            <researcher-url:url>https://zenodo.org/me/uploads?q=&amp;f=shared_with_me%3Afalse&amp;l=list&amp;p=1&amp;s=10&amp;sort=newest</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6162538" visibility="public" display-index="6">
+            <common:created-date>2026-04-02T09:24:37.704Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.090Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>figshare</researcher-url:url-name>
+            <researcher-url:url>https://figshare.com/account/mycontent/items</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6162548" visibility="public" display-index="5">
+            <common:created-date>2026-04-02T09:27:57.564Z</common:created-date>
+            <common:last-modified-date>2026-05-15T03:27:55.704Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>openaire</researcher-url:url-name>
+            <researcher-url:url>https://explore.openaire.eu/my-orcid-links</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6166955" visibility="public" display-index="4">
+            <common:created-date>2026-04-04T10:18:56.351Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.090Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>Web of Science</researcher-url:url-name>
+            <researcher-url:url>https://www.webofscience.com/wos/op/cv-export</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6187555" visibility="public" display-index="3">
+            <common:created-date>2026-04-12T12:14:20.558Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.090Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>commons.datacite</researcher-url:url-name>
+            <researcher-url:url>https://commons.datacite.org/orcid.org/0009-0000-5793-9666</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6240928" visibility="public" display-index="2">
+            <common:created-date>2026-05-03T18:39:05.395Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.090Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>GitHub</researcher-url:url-name>
+            <researcher-url:url>https://github.com/fengdejian987-sketch/778474510</researcher-url:url>
+        </researcher-url:researcher-url>
+        <researcher-url:researcher-url put-code="6241799" visibility="public" display-index="1">
+            <common:created-date>2026-05-04T09:14:51.067Z</common:created-date>
+            <common:last-modified-date>2026-05-04T09:14:51.067Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <researcher-url:url-name>DataCite</researcher-url:url-name>
+            <researcher-url:url>https://commons.datacite.org/orcid.org/0009-0000-5793-9666?cursor=3</researcher-url:url>
+        </researcher-url:researcher-url>
+    </researcher-url:researcher-urls>
+    <email:emails>
+        <email:email visibility="public" verified="true" primary="true">
+            <common:created-date>2026-03-22T19:08:00.205Z</common:created-date>
+            <common:last-modified-date>2026-04-16T21:32:18.486Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <email:email>fengdejian987@gmail.com</email:email>
+        </email:email>
+        <email:email visibility="public" verified="true" primary="false">
+            <common:created-date>2026-03-26T02:36:09.021Z</common:created-date>
+            <common:last-modified-date>2026-05-11T19:07:49.013Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <email:email>778474510@qq.com</email:email>
+        </email:email>
+        <email:email visibility="private" verified="true" primary="false">
+            <common:created-date>2026-04-16T21:31:24.200Z</common:created-date>
+            <common:last-modified-date>2026-05-12T10:18:58.493Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <email:email>yuelzs_0727@qq.com</email:email>
+        </email:email>
+    </email:emails>
+    <address:addresses>
+        <address:address put-code="4129661" visibility="public" display-index="1">
+            <common:created-date>2026-03-26T03:06:05.133Z</common:created-date>
+            <common:last-modified-date>2026-03-26T03:06:05.133Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <address:country>CN</address:country>
+        </address:address>
+    </address:addresses>
+    <keyword:keywords>
+        <keyword:keyword put-code="5292266" visibility="public" display-index="187">
+            <common:created-date>2026-03-26T03:07:12.494Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>宇宙统一理论公式</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292282" visibility="public" display-index="186">
+            <common:created-date>2026-03-26T03:08:44.421Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>地月同源</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292265" visibility="public" display-index="185">
+            <common:created-date>2026-03-26T03:06:55.813Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>宇宙物质最小单元</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292288" visibility="public" display-index="184">
+            <common:created-date>2026-03-26T03:09:49.731Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>理科三阶九步教学体系</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292299" visibility="public" display-index="183">
+            <common:created-date>2026-03-26T03:11:35.027Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>白银+能源+粮食货币体系</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292304" visibility="public" display-index="182">
+            <common:created-date>2026-03-26T03:12:22.571Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>智能医疗体系</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292318" visibility="public" display-index="181">
+            <common:created-date>2026-03-26T03:18:41.133Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>多电子束汇聚靶向光刻机理论</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292319" visibility="public" display-index="180">
+            <common:created-date>2026-03-26T03:19:26.089Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>现代医学智能化理论</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292320" visibility="public" display-index="179">
+            <common:created-date>2026-03-26T03:19:56.001Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>地震</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292315" visibility="public" display-index="178">
+            <common:created-date>2026-03-26T03:17:39.960Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>光子与电子本质</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292321" visibility="public" display-index="177">
+            <common:created-date>2026-03-26T03:20:45.291Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>语言融合式能力教育</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292323" visibility="public" display-index="176">
+            <common:created-date>2026-03-26T03:21:58.767Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>白银加能源加粮食</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5292333" visibility="public" display-index="175">
+            <common:created-date>2026-03-26T03:28:48.998Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Φ = (εₓ · v² · t · T) / ε</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305606" visibility="public" display-index="174">
+            <common:created-date>2026-03-31T02:06:53.237Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>宇宙统一公式</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305607" visibility="public" display-index="173">
+            <common:created-date>2026-03-31T02:06:53.239Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>基础物理</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305605" visibility="public" display-index="172">
+            <common:created-date>2026-03-31T02:06:53.236Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>空间压缩</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305582" visibility="public" display-index="171">
+            <common:created-date>2026-03-31T01:58:13.952Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>统一场轮</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305604" visibility="public" display-index="170">
+            <common:created-date>2026-03-31T02:06:53.234Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>量子纠缠解释</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312192" visibility="public" display-index="169">
+            <common:created-date>2026-04-02T05:46:33.395Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>先有鸡还是先有蛋</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5305603" visibility="public" display-index="168">
+            <common:created-date>2026-03-31T02:06:53.232Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>生命起源</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312200" visibility="public" display-index="167">
+            <common:created-date>2026-04-02T05:51:37.986Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>基本粒子质量起源问题</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312211" visibility="public" display-index="166">
+            <common:created-date>2026-04-02T05:55:27.056Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>黑洞解释</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312215" visibility="public" display-index="165">
+            <common:created-date>2026-04-02T05:58:23.259Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>冯德建表征量统一公式</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312589" visibility="public" display-index="164">
+            <common:created-date>2026-04-02T08:38:08.292Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>发电机制作工艺</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312588" visibility="public" display-index="163">
+            <common:created-date>2026-04-02T08:38:08.290Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>新货币体系</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312587" visibility="public" display-index="162">
+            <common:created-date>2026-04-02T08:38:08.282Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>独立研究</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312608" visibility="public" display-index="161">
+            <common:created-date>2026-04-02T08:40:34.826Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>基础粒子能量解释</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312663" visibility="public" display-index="160">
+            <common:created-date>2026-04-02T08:52:35.403Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Field Theory</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312607" visibility="public" display-index="159">
+            <common:created-date>2026-04-02T08:40:34.823Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>电子靶向光刻理论</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312662" visibility="public" display-index="158">
+            <common:created-date>2026-04-02T08:52:35.399Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Theory of Cosmic Matter</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312661" visibility="public" display-index="157">
+            <common:created-date>2026-04-02T08:52:35.398Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Fundamental Physics</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312660" visibility="public" display-index="156">
+            <common:created-date>2026-04-02T08:52:35.396Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Black Hole Interpretation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312659" visibility="public" display-index="155">
+            <common:created-date>2026-04-02T08:52:35.394Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Physical Cosmology</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312658" visibility="public" display-index="154">
+            <common:created-date>2026-04-02T08:52:35.393Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Independent ResearchNew Monetary System</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312657" visibility="public" display-index="153">
+            <common:created-date>2026-04-02T08:52:35.391Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Universal Cosmic Formula</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312656" visibility="public" display-index="152">
+            <common:created-date>2026-04-02T08:52:35.389Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Independent Research</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312655" visibility="public" display-index="151">
+            <common:created-date>2026-04-02T08:52:35.388Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>New Monetary System</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312654" visibility="public" display-index="150">
+            <common:created-date>2026-04-02T08:52:35.386Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Silver-Energy-Food Monetary System</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312653" visibility="public" display-index="149">
+            <common:created-date>2026-04-02T08:52:35.385Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Language Integrated Teaching</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312652" visibility="public" display-index="148">
+            <common:created-date>2026-04-02T08:52:35.383Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Science Education (Three-Step Nine-Stage)</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312651" visibility="public" display-index="147">
+            <common:created-date>2026-04-02T08:52:35.381Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Generator Manufacturing Technology</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312650" visibility="public" display-index="146">
+            <common:created-date>2026-04-02T08:52:35.379Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Chicken or Egg Paradox</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312649" visibility="public" display-index="145">
+            <common:created-date>2026-04-02T08:52:35.377Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Origin of Life</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312648" visibility="public" display-index="144">
+            <common:created-date>2026-04-02T08:52:35.376Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Intelligent Medica</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312647" visibility="public" display-index="143">
+            <common:created-date>2026-04-02T08:52:35.374Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Electron Targeted Lithography Theory</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312646" visibility="public" display-index="142">
+            <common:created-date>2026-04-02T08:52:35.373Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Photon and Electron Essence</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312645" visibility="public" display-index="141">
+            <common:created-date>2026-04-02T08:52:35.371Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Earthquake Prediction</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312644" visibility="public" display-index="140">
+            <common:created-date>2026-04-02T08:52:35.369Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Sun-Moon Homology</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312643" visibility="public" display-index="139">
+            <common:created-date>2026-04-02T08:52:35.367Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Earth-Moon Homology</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312642" visibility="public" display-index="138">
+            <common:created-date>2026-04-02T08:52:35.366Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Fundamental Quantum Energy</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312641" visibility="public" display-index="137">
+            <common:created-date>2026-04-02T08:52:35.364Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Quantum Entanglement Interpretation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5312875" visibility="public" display-index="136">
+            <common:created-date>2026-04-02T10:40:56.943Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Collected Papers / Research Works of Dejian Feng</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314798" visibility="public" display-index="135">
+            <common:created-date>2026-04-03T01:22:11.371Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Intergenerational Superposition</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314797" visibility="public" display-index="134">
+            <common:created-date>2026-04-03T01:22:11.369Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Biological Intelligence Evolution;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314796" visibility="public" display-index="133">
+            <common:created-date>2026-04-03T01:22:11.367Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Absorption and Dissipation Rate;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314795" visibility="public" display-index="132">
+            <common:created-date>2026-04-03T01:22:11.366Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Real-time Dynamic Transformation;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314794" visibility="public" display-index="131">
+            <common:created-date>2026-04-03T01:22:11.364Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Aggregation and Dispersion;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314793" visibility="public" display-index="130">
+            <common:created-date>2026-04-03T01:22:11.362Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>er Units; Consciousness Units;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314792" visibility="public" display-index="129">
+            <common:created-date>2026-04-03T01:22:11.360Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Minimal Cosmic Matter Units;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5314791" visibility="public" display-index="128">
+            <common:created-date>2026-04-03T01:22:11.357Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Consciousness Origin;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316203" visibility="public" display-index="127">
+            <common:created-date>2026-04-03T14:51:14.376Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Dispersion and Aggregation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316202" visibility="public" display-index="126">
+            <common:created-date>2026-04-03T14:51:14.373Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Spatial Compression</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316201" visibility="public" display-index="125">
+            <common:created-date>2026-04-03T14:51:14.369Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>High-Temperature Superconductivity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316200" visibility="public" display-index="124">
+            <common:created-date>2026-04-03T14:51:14.366Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Hole Information Paradox</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316199" visibility="public" display-index="123">
+            <common:created-date>2026-04-03T14:51:14.364Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Dark Energy Black</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316198" visibility="public" display-index="122">
+            <common:created-date>2026-04-03T14:51:14.361Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Quantum Gravity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5317268" visibility="public" display-index="121">
+            <common:created-date>2026-04-04T01:47:14.053Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Multi-physics modeling</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316197" visibility="public" display-index="120">
+            <common:created-date>2026-04-03T14:51:14.358Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Feng Dejian Unified Energy Field Formula</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316195" visibility="public" display-index="119">
+            <common:created-date>2026-04-03T14:51:14.352Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified TheorySeven Ultimate Puzzles in Physics</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5316196" visibility="public" display-index="118">
+            <common:created-date>2026-04-03T14:51:14.355Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Minimal Material Unit</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5317808" visibility="public" display-index="117">
+            <common:created-date>2026-04-04T09:53:26.175Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>解释物理七大未解难题</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5317267" visibility="public" display-index="116">
+            <common:created-date>2026-04-04T01:47:14.042Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Aerospace plane</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5317266" visibility="public" display-index="115">
+            <common:created-date>2026-04-04T01:47:14.040Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Magnetic vortex propulsion</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5317807" visibility="public" display-index="114">
+            <common:created-date>2026-04-04T09:53:26.168Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>航天飞机磁涡旋推进系统</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5319163" visibility="public" display-index="113">
+            <common:created-date>2026-04-05T02:24:07.676Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Magnetism</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5319162" visibility="public" display-index="112">
+            <common:created-date>2026-04-05T02:24:07.673Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Field Theory</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5319161" visibility="public" display-index="111">
+            <common:created-date>2026-04-05T02:24:07.670Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Gravitation;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5320483" visibility="public" display-index="110">
+            <common:created-date>2026-04-05T18:02:50.103Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Physical Theory of Life</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5320482" visibility="public" display-index="109">
+            <common:created-date>2026-04-05T18:02:50.101Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Intelligent Medical System</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5320826" visibility="public" display-index="108">
+            <common:created-date>2026-04-05T21:52:07.772Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Collected Papers / Research Works of Dejian Feng</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335911" visibility="public" display-index="107">
+            <common:created-date>2026-04-10T15:57:46.705Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>permanent magnt</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335910" visibility="public" display-index="106">
+            <common:created-date>2026-04-10T15:57:46.703Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>engineering feasibility</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335909" visibility="public" display-index="105">
+            <common:created-date>2026-04-10T15:57:46.701Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>self-power generation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335908" visibility="public" display-index="104">
+            <common:created-date>2026-04-10T15:57:46.700Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>passive power device</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335907" visibility="public" display-index="103">
+            <common:created-date>2026-04-10T15:57:46.697Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>inert gas sealing</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335906" visibility="public" display-index="102">
+            <common:created-date>2026-04-10T15:57:46.695Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>centrifugal speed regulation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5335905" visibility="public" display-index="101">
+            <common:created-date>2026-04-10T15:57:46.693Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>constant speed</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337511" visibility="public" display-index="100">
+            <common:created-date>2026-04-11T10:28:56.090Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>轴向力</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337520" visibility="public" display-index="99">
+            <common:created-date>2026-04-11T10:34:19.021Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>地月系统</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337510" visibility="public" display-index="98">
+            <common:created-date>2026-04-11T10:28:56.088Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>智能健康</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337876" visibility="public" display-index="97">
+            <common:created-date>2026-04-11T14:31:16.026Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Macroscopic Kinetic Energy</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337875" visibility="public" display-index="96">
+            <common:created-date>2026-04-11T14:31:16.024Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Material Internal Pressure</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337874" visibility="public" display-index="95">
+            <common:created-date>2026-04-11T14:31:16.022Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Feng Dejian Formula</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337873" visibility="public" display-index="94">
+            <common:created-date>2026-04-11T14:31:16.020Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Inversion Method</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337872" visibility="public" display-index="93">
+            <common:created-date>2026-04-11T14:31:16.019Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Spatial Compression</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337871" visibility="public" display-index="92">
+            <common:created-date>2026-04-11T14:31:16.016Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Field Theory</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5337975" visibility="public" display-index="91">
+            <common:created-date>2026-04-11T15:04:50.597Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>kg·m⁴·K/s³</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5338780" visibility="public" display-index="90">
+            <common:created-date>2026-04-11T23:56:53.323Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified National Market; systemic regulation;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5345830" visibility="public" display-index="89">
+            <common:created-date>2026-04-14T14:36:30.799Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>spiral linear magnetic thrust</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5338779" visibility="public" display-index="88">
+            <common:created-date>2026-04-11T23:56:53.320Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>logistics optimization; digital trade; antitrust; domestic and foreign trade integration</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5345829" visibility="public" display-index="87">
+            <common:created-date>2026-04-14T14:36:30.792Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>reaction engine</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5350370" visibility="public" display-index="86">
+            <common:created-date>2026-04-16T00:25:05.622Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>2. Photon-like radiation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5345828" visibility="public" display-index="85">
+            <common:created-date>2026-04-14T14:36:30.790Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>vacuum power</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5345827" visibility="public" display-index="84">
+            <common:created-date>2026-04-14T14:36:30.787Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>angular asymmetry</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5345826" visibility="public" display-index="83">
+            <common:created-date>2026-04-14T14:36:30.783Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Permanent magnet propulsion; helical magnetic field</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5350369" visibility="public" display-index="82">
+            <common:created-date>2026-04-16T00:25:05.613Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>1. Neutrino</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5350368" visibility="public" display-index="81">
+            <common:created-date>2026-04-16T00:25:05.609Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>3. Heavy nucleus energy deposition</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5350750" visibility="public" display-index="80">
+            <common:created-date>2026-04-16T02:42:19.799Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>cosmic laws; closed cycle; universal unity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5359490" visibility="public" display-index="79">
+            <common:created-date>2026-04-19T13:14:08.795Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>1. Life Conduction System 2. Conduction Block 3. Cancer Pathogenesis</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5373848" visibility="public" display-index="78">
+            <common:created-date>2026-04-24T05:10:54.485Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Anonymous Digital Identity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5373847" visibility="public" display-index="77">
+            <common:created-date>2026-04-24T05:10:54.483Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Digital Transparency;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5373846" visibility="public" display-index="76">
+            <common:created-date>2026-04-24T05:10:54.480Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Strong AI</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5380125" visibility="public" display-index="75">
+            <common:created-date>2026-04-26T22:20:05.045Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>spatial compression ratio</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5380124" visibility="public" display-index="74">
+            <common:created-date>2026-04-26T22:20:05.043Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>ocean current dynamics</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399516" visibility="public" display-index="73">
+            <common:created-date>2026-05-03T16:24:35.336Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Disease Essence</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399515" visibility="public" display-index="72">
+            <common:created-date>2026-05-03T16:24:35.335Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Integrative Medicine</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399514" visibility="public" display-index="71">
+            <common:created-date>2026-05-03T16:24:35.333Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Precision Medicine</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399513" visibility="public" display-index="70">
+            <common:created-date>2026-05-03T16:24:35.331Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Theory of Cosmic Mi</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399512" visibility="public" display-index="69">
+            <common:created-date>2026-05-03T16:24:35.330Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Holistic Regulation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399511" visibility="public" display-index="68">
+            <common:created-date>2026-05-03T16:24:35.327Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Life Conduction System; Energy Homeostasis</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399570" visibility="public" display-index="67">
+            <common:created-date>2026-05-03T16:56:38.698Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Cosmic Minimum Matter Unit; Life Energy Metabolism; Energy Homeostasis; Systems Medicine</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5399569" visibility="public" display-index="66">
+            <common:created-date>2026-05-03T16:56:38.694Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Energy Conversion Effect; ECE</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401244" visibility="public" display-index="65">
+            <common:created-date>2026-05-04T10:41:07.083Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Systems Medicine</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401243" visibility="public" display-index="64">
+            <common:created-date>2026-05-04T10:41:07.081Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Planar Medical Framework</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401242" visibility="public" display-index="63">
+            <common:created-date>2026-05-04T10:41:07.079Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Neuro-Circulatory Hub;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401241" visibility="public" display-index="62">
+            <common:created-date>2026-05-04T10:41:07.077Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Material and Energy Network;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401240" visibility="public" display-index="61">
+            <common:created-date>2026-05-04T10:41:07.075Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Energy Conversion Effect</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5401239" visibility="public" display-index="60">
+            <common:created-date>2026-05-04T10:41:07.074Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Formula of Cosmic Matter and Energy;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408509" visibility="public" display-index="59">
+            <common:created-date>2026-05-06T15:45:06.370Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Digital Copyright Protectio</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408508" visibility="public" display-index="58">
+            <common:created-date>2026-05-06T15:45:06.367Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Creator's Rights and Interests</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408514" visibility="public" display-index="57">
+            <common:created-date>2026-05-06T15:46:55.012Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Intellectual Property Law</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408513" visibility="public" display-index="56">
+            <common:created-date>2026-05-06T15:46:55.010Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Rights Protection</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408512" visibility="public" display-index="55">
+            <common:created-date>2026-05-06T15:46:55.007Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Copyright Ownership</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408511" visibility="public" display-index="54">
+            <common:created-date>2026-05-06T15:46:55.005Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Publishing House</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408594" visibility="public" display-index="53">
+            <common:created-date>2026-05-06T16:19:08.013Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Academic communication; Intellectual property; Open science</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5408593" visibility="public" display-index="52">
+            <common:created-date>2026-05-06T16:19:08.010Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Preprint; Zenodo platform</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5409682" visibility="public" display-index="51">
+            <common:created-date>2026-05-07T00:27:47.219Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Mass-Energy Equation Completion; Extreme Space Compression Ratio; Universal Physical Formula</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5411388" visibility="public" display-index="50">
+            <common:created-date>2026-05-07T13:33:41.020Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Spatial Density; Axial Force; The Smallest Material Units of the Universe;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5411387" visibility="public" display-index="49">
+            <common:created-date>2026-05-07T13:33:41.018Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Cosmic Medium; Cosmic Current;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5411386" visibility="public" display-index="48">
+            <common:created-date>2026-05-07T13:33:41.016Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified Field Theory; Cosmic Motion Mechanism</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5414021" visibility="public" display-index="47">
+            <common:created-date>2026-05-08T10:38:14.170Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Celestial rotation law; Initial angular momentum of celestial bodies</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5414020" visibility="public" display-index="46">
+            <common:created-date>2026-05-08T10:38:14.167Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Unified physical field quantity; Feng Dejians formula;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5414019" visibility="public" display-index="45">
+            <common:created-date>2026-05-08T10:38:14.164Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Superluminal driving effect; Mass-speed proportionality; Ultimate spatial compression ratio;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5414018" visibility="public" display-index="44">
+            <common:created-date>2026-05-08T10:38:14.161Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Stellar nucleus power source; Elementary matter unit;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5417808" visibility="public" display-index="43">
+            <common:created-date>2026-05-09T19:05:04.664Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>international monetary system reform; tripartite anchoring; energy–food–silver;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5417807" visibility="public" display-index="42">
+            <common:created-date>2026-05-09T19:05:04.661Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>global governance; Silver–Energy–Food Monetary System; decentralized settlement</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5417806" visibility="public" display-index="41">
+            <common:created-date>2026-05-09T19:05:04.659Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>fixed-ratio issuance</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5417805" visibility="public" display-index="40">
+            <common:created-date>2026-05-09T19:05:04.656Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Supranational currency</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5421786" visibility="public" display-index="39">
+            <common:created-date>2026-05-11T13:19:14.269Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Cross-Scale Quantitative Calculation; Galactic Force Coupling</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5421785" visibility="public" display-index="38">
+            <common:created-date>2026-05-11T13:19:14.266Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Relative Physical Quantity; Limit Space Compression Ratio</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5423255" visibility="public" display-index="37">
+            <common:created-date>2026-05-11T22:17:54.155Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Intrinsic material energy; Space compression coefficient; F</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5423254" visibility="public" display-index="36">
+            <common:created-date>2026-05-11T22:17:54.152Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>microscopic-macroscopic unification</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5423253" visibility="public" display-index="35">
+            <common:created-date>2026-05-11T22:17:54.148Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>multi-benchmark verification; observable universe; dimensional self-consistency</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5427002" visibility="public" display-index="34">
+            <common:created-date>2026-05-13T00:52:43.413Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Microbial Niche; War and Plague Correlation; Anthropocentrism;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5427001" visibility="public" display-index="33">
+            <common:created-date>2026-05-13T00:52:43.411Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Essence of Pathogens; Energy Conversion Effect (ECE); Natural Dynamic Balance;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5427000" visibility="public" display-index="32">
+            <common:created-date>2026-05-13T00:52:43.408Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Conservation of Cosmic Matter and Energy; Biological Life Circulation; Abnormal Death</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432894" visibility="public" display-index="31">
+            <common:created-date>2026-05-14T17:08:39.591Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Withholding System Vulnerabilities</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432893" visibility="public" display-index="30">
+            <common:created-date>2026-05-14T17:08:39.589Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Transaction Confirmation Mechanism;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432892" visibility="public" display-index="29">
+            <common:created-date>2026-05-14T17:08:39.586Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Fund Security</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432891" visibility="public" display-index="28">
+            <common:created-date>2026-05-14T17:08:39.584Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Depositors' Rights and Interests</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432890" visibility="public" display-index="27">
+            <common:created-date>2026-05-14T17:08:39.582Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Bank Risk Control</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432889" visibility="public" display-index="26">
+            <common:created-date>2026-05-14T17:08:39.580Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Technical Upgrading</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5432888" visibility="public" display-index="25">
+            <common:created-date>2026-05-14T17:08:39.577Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Telecom Fraud</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5437980" visibility="public" display-index="24">
+            <common:created-date>2026-05-16T09:51:48.929Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>International Internet Security Operation; Digital Identity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5437979" visibility="public" display-index="23">
+            <common:created-date>2026-05-16T09:51:48.927Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Communication and Public Affairs; Non-APP Trend; I</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5437978" visibility="public" display-index="22">
+            <common:created-date>2026-05-16T09:51:48.924Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Global Telecom Operators; Mobile Number Software-Oriented Transformation;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5440205" visibility="public" display-index="21">
+            <common:created-date>2026-05-17T08:45:34.321Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Talent Development; Personalized Education; Education Reform</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5440204" visibility="public" display-index="20">
+            <common:created-date>2026-05-17T08:45:34.318Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Traditional Education; Self-Cognition; Growth Driving Force</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5443776" visibility="public" display-index="19">
+            <common:created-date>2026-05-18T15:01:34.991Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Market Self-Purification; Global Economic Governance; Value Creation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5443775" visibility="public" display-index="18">
+            <common:created-date>2026-05-18T15:01:34.988Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Stock Market Anchored to Real Economic Growth; Real-World R&amp;D</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5443774" visibility="public" display-index="17">
+            <common:created-date>2026-05-18T15:01:34.984Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>De-financialization; Real Economy; Digital Bubble</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5444794" visibility="public" display-index="16">
+            <common:created-date>2026-05-18T21:22:38.645Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>magma layer origin; astrophysical system reconstruction</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5444793" visibility="public" display-index="15">
+            <common:created-date>2026-05-18T21:22:38.643Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>internal-external light dual-drive; celestial rotation law; internal driving force attenuation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5444792" visibility="public" display-index="14">
+            <common:created-date>2026-05-18T21:22:38.641Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Feng Dejian Formula; cosmic matter-energy unification;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5447488" visibility="public" display-index="13">
+            <common:created-date>2026-05-19T16:26:45.083Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>dimensional self-consistency; closed dimensional system; scale invariance</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5447487" visibility="public" display-index="12">
+            <common:created-date>2026-05-19T16:26:45.080Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>hydrogen atom benchmark; physical quantity back-calculation</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5447486" visibility="public" display-index="11">
+            <common:created-date>2026-05-19T16:26:45.078Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Feng Dejian Formula; unified physical field quantity;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5451026" visibility="public" display-index="10">
+            <common:created-date>2026-05-20T17:18:42.676Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>AI training for fundamental science; cosmic matter-energy unification</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5451025" visibility="public" display-index="9">
+            <common:created-date>2026-05-20T17:18:42.674Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>physics and chemistry unification; hydrogen atom benchmark; universal physical formula</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5451024" visibility="public" display-index="8">
+            <common:created-date>2026-05-20T17:18:42.672Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Feng Dejian Formula; unified field theory; dimensional closure; cross-scale invariance;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5457151" visibility="public" display-index="7">
+            <common:created-date>2026-05-22T16:19:13.855Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Logic Integration; Autonomous Upgrade; Rule-Driven; Full-Link Closed Loop; Legal Data Acquisition</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5457150" visibility="public" display-index="6">
+            <common:created-date>2026-05-22T16:19:13.851Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Autonomous Intelligent AI; Autonomous Crawling; Data Optimization</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5457998" visibility="public" display-index="5">
+            <common:created-date>2026-05-22T22:14:54.770Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Technological Innovation; Digital Equity; Cybersecurity</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5457997" visibility="public" display-index="4">
+            <common:created-date>2026-05-22T22:14:54.767Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.597Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Internet Barriers; Global Cyberspace Governance; Digital Economy</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5459460" visibility="public" display-index="3">
+            <common:created-date>2026-05-23T14:51:06.130Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.130Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Nature of Parabola; Dimensional Self-consistency; Global Unified Quantification</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5459459" visibility="public" display-index="2">
+            <common:created-date>2026-05-23T14:51:06.128Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.128Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>nified Physical Field Quantity; Cosmic Real Straight Line; Light Spiral Straight Line;</keyword:content>
+        </keyword:keyword>
+        <keyword:keyword put-code="5459458" visibility="public" display-index="1">
+            <common:created-date>2026-05-23T14:51:06.126Z</common:created-date>
+            <common:last-modified-date>2026-05-23T14:51:06.126Z</common:last-modified-date>
+            <common:source>
+                <common:source-orcid>
+                    <common:uri>https://orcid.org/0009-0000-5793-9666</common:uri>
+                    <common:path>0009-0000-5793-9666</common:path>
+                    <common:host>orcid.org</common:host>
+                </common:source-orcid>
+                <common:source-name>Dejian Feng</common:source-name>
+            </common:source>
+            <keyword:content>Axial Force; Optical Drive Power Source; Fitting Principle; Feng Dejian Formula;</keyword:content>
+        </keyword:keyword>
+    </keyword:keywords>
+    <external-identifier:external-identifiers/>
+</person:person>
