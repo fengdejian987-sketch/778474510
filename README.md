@@ -1,3 +1,4 @@
+[单核心公式+多模块架构「全自动(2).pdf](https://github.com/user-attachments/files/29302441/%2B.2.pdf)
 [Financial Alien.docx](https://github.com/user-attachments/files/29300502/Financial.Alien.docx)
 [金融异化、债务泡沫与经济评价体.docx](https://github.com/user-attachments/files/29300491/default.docx)[金融异化、债务泡沫与经济评价体.docx](https://github.com/user-attachments/files/29300491/default.docx)
 [Title, Abstract(7).docx](https://github.com/user-attachments/files/29300488/Title.Abstract.7.docx)[标题、摘要(7).docx](https://github.com/user-attachments/files/29300488/Title.Abstract.7.docx)
