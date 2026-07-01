@@ -1,410 +1,376 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-公式业务逻辑层 - 处理复杂的业务逻辑和数据处理
-提供高级API接口，隐藏数据库细节
+冯德建公式系统 - 公式服务
+核心业务逻辑实现
+
+Author: Service Layer v3.0
 """
 
-from typing import Dict, List, Optional, Any, Tuple
-from datetime import datetime, timedelta
-import hashlib
-import json
-from sqlalchemy.orm import Session
-from sqlalchemy import func
+import logging
+from typing import List, Dict, Optional, Any
+from datetime import datetime
+from dataclasses import dataclass
 
-from src.core.unified_library import (
+from src.core.unified_formula_library import (
     UnifiedFormulaLibrary,
     PhysicalFormula,
     PhysicalQuantity,
-    DimensionAnalyzer,
-    DimensionType
+    DimensionType,
+    FormulaDerivation,
+    DefaultFormulaSet,
 )
-from src.database.models import (
-    FormulaDB, QuantityDB, DerivationDB, DimensionCheckDB, DatabaseQueryHelper
-)
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+
+@dataclass
+class FormulaSearchResult:
+    """公式搜索结果"""
+    formula_id: str
+    name_zh: str
+    name_en: str
+    formula_str: str
+    latex_str: str
+    category: str
+    match_score: float = 1.0
+
+
+@dataclass
+class CalculationResult:
+    """计算结果"""
+    success: bool
+    result: Any
+    formula_id: Optional[str] = None
+    description: str = ""
+    timestamp: str = ""
+    error: Optional[str] = None
 
 
 class FormulaService:
-    """公式服务 - 处理公式的创建、查询、修改、删除等操作"""
+    """公式服务层 - 核心业务逻辑"""
     
-    def __init__(self, session: Session):
-        self.session = session
-        self.lib = UnifiedFormulaLibrary()
-        self.query_helper = DatabaseQueryHelper(session)
-        self._cache = {}  # 简单的内存缓存
+    def __init__(self, library: Optional[UnifiedFormulaLibrary] = None):
+        """初始化服务"""
+        self.library = library or DefaultFormulaSet.build_library()
+        self._cache = {}
+        logger.info("✓ 公式服务已初始化")
     
-    def create_formula(
-        self,
-        name_zh: str,
-        name_en: str,
-        formula_str: str,
-        category: str,
-        description_zh: str = "",
-        description_en: str = "",
-        latex_str: str = "",
-        applications: List[str] = None,
-        notes: str = ""
-    ) -> Dict[str, Any]:
-        """创建新公式
-        
-        Args:
-            name_zh: 中文名称
-            name_en: 英文名称
-            formula_str: 公式字符串 (e.g., "E = m*c**2")
-            category: 分类 (e.g., "相对论")
-            description_zh: 中文描述
-            description_en: 英文描述
-            latex_str: LaTeX 格式
-            applications: 应用领域
-            notes: 备注
-        
-        Returns:
-            创建的公式信息字典
-        """
+    def add_formula(self, name_zh: str, name_en: str, formula_str: str,
+                   description_zh: str = "", description_en: str = "",
+                   category: str = "通用", **kwargs) -> PhysicalFormula:
+        """添加新公式"""
         try:
-            # 1. 生成哈希值（用于去重）
-            formula_hash = self._generate_formula_hash(name_zh, formula_str)
-            
-            # 2. 检查是否已存在
-            existing = self.session.query(FormulaDB).filter(
-                FormulaDB.formula_hash == formula_hash
-            ).first()
-            
-            if existing:
-                return {
-                    'success': False,
-                    'error': f'该公式已存在: {existing.id}',
-                    'existing_id': existing.id
-                }
-            
-            # 3. 验证公式格式
-            validation = self._validate_formula_format(formula_str)
-            if not validation['valid']:
-                return {
-                    'success': False,
-                    'error': f'公式格式错误: {validation["error"]}'
-                }
-            
-            # 4. 生成 LaTeX
-            if not latex_str:
-                latex_str = self.lib.parse_to_latex(formula_str)
-            
-            # 5. 创建数据库记录
-            formula_db = FormulaDB(
+            formula = self.library.create_formula(
                 name_zh=name_zh,
                 name_en=name_en,
                 formula_str=formula_str,
-                formula_hash=formula_hash,
-                latex_str=latex_str,
                 description_zh=description_zh,
                 description_en=description_en,
                 category=category,
-                applications=applications or [],
-                notes=notes,
-                is_validated=False
+                **kwargs
+            )
+            self._invalidate_cache()
+            logger.info(f"✓ 公式已添加: {formula.id} - {name_zh}")
+            return formula
+        except Exception as e:
+            logger.error(f"✗ 添加公式失败: {e}")
+            raise
+    
+    def get_formula(self, formula_id: str) -> Optional[PhysicalFormula]:
+        """获取公式"""
+        return self.library.formulas.get(formula_id)
+    
+    def list_formulas(self, category: Optional[str] = None) -> List[PhysicalFormula]:
+        """列出公式"""
+        formulas = list(self.library.formulas.values())
+        if category:
+            formulas = [f for f in formulas if f.category == category]
+        return formulas
+    
+    def get_categories(self) -> List[str]:
+        """获取所有分类"""
+        categories = set()
+        for formula in self.library.formulas.values():
+            if formula.category:
+                categories.add(formula.category)
+        return sorted(list(categories))
+    
+    def search_formulas(self, keyword: str, search_type: str = 'all',
+                       category: Optional[str] = None) -> List[FormulaSearchResult]:
+        """搜索公式"""
+        results = []
+        formulas = self.library.search(keyword, search_in=search_type)
+        
+        if category:
+            formulas = [f for f in formulas if f.category == category]
+        
+        for formula in formulas:
+            result = FormulaSearchResult(
+                formula_id=formula.id,
+                name_zh=formula.name_zh,
+                name_en=formula.name_en,
+                formula_str=formula.formula_str,
+                latex_str=formula.latex_str,
+                category=formula.category,
+                match_score=1.0
+            )
+            results.append(result)
+        
+        return results
+    
+    def find_formulas_by_symbol(self, symbol: str) -> List[PhysicalFormula]:
+        """根据符号查找公式"""
+        matching_formulas = []
+        for formula in self.library.formulas.values():
+            for qty in formula.quantities:
+                if qty.symbol == symbol:
+                    matching_formulas.append(formula)
+                    break
+        return matching_formulas
+    
+    def calculate_derivative(self, formula_id: str, variable: str,
+                            order: int = 1) -> CalculationResult:
+        """计算求导"""
+        try:
+            formula = self.get_formula(formula_id)
+            if not formula:
+                return CalculationResult(
+                    success=False,
+                    result=None,
+                    error=f"公式不存在: {formula_id}"
+                )
+            
+            result = self.library.derive_formula(
+                formula.formula_str, variable, order=order
             )
             
-            # 6. 添加物理量关系
-            quantities = self._extract_quantities(formula_str)
-            for qty_symbol in quantities:
-                qty = self.session.query(QuantityDB).filter(
-                    QuantityDB.symbol == qty_symbol
-                ).first()
-                if qty:
-                    formula_db.quantities.append(qty)
-            
-            # 7. 保存到数据库
-            self.session.add(formula_db)
-            self.session.commit()
-            
-            # 8. 清除缓存
-            self._clear_cache()
-            
-            return {
-                'success': True,
-                'id': formula_db.id,
-                'message': f'公式 {name_zh} 创建成功',
-                'formula': formula_db.to_dict()
-            }
-        
+            return CalculationResult(
+                success=True,
+                result=result,
+                formula_id=formula_id,
+                description=f"对 {variable} 的{order}阶导数",
+                timestamp=datetime.now().isoformat()
+            )
         except Exception as e:
-            self.session.rollback()
-            return {
-                'success': False,
-                'error': str(e)
-            }
+            logger.error(f"求导失败: {e}")
+            return CalculationResult(
+                success=False,
+                result=None,
+                error=str(e)
+            )
     
-    def get_formula(self, formula_id: str) -> Optional[Dict[str, Any]]:
-        """获取公式详情"""
-        # 检查缓存
-        if formula_id in self._cache:
-            return self._cache[formula_id]
-        
-        formula = self.query_helper.get_formula_by_id(formula_id)
-        
-        if not formula:
+    def calculate_integral(self, formula_id: str, variable: str) -> CalculationResult:
+        """计算积分"""
+        try:
+            formula = self.get_formula(formula_id)
+            if not formula:
+                return CalculationResult(
+                    success=False,
+                    result=None,
+                    error=f"公式不存在: {formula_id}"
+                )
+            
+            result = self.library.integrate_formula(
+                formula.formula_str, variable
+            )
+            
+            return CalculationResult(
+                success=True,
+                result=result,
+                formula_id=formula_id,
+                description=f"对 {variable} 的积分",
+                timestamp=datetime.now().isoformat()
+            )
+        except Exception as e:
+            logger.error(f"积分失败: {e}")
+            return CalculationResult(
+                success=False,
+                result=None,
+                error=str(e)
+            )
+    
+    def solve_for_variable(self, formula_id: str, target_var: str) -> CalculationResult:
+        """求解变量"""
+        try:
+            formula = self.get_formula(formula_id)
+            if not formula:
+                return CalculationResult(
+                    success=False,
+                    result=None,
+                    error=f"公式不存在: {formula_id}"
+                )
+            
+            solutions = self.library.solve_for_variable(
+                formula.formula_str, target_var
+            )
+            
+            return CalculationResult(
+                success=True,
+                result=solutions,
+                formula_id=formula_id,
+                description=f"求解变量: {target_var}",
+                timestamp=datetime.now().isoformat()
+            )
+        except Exception as e:
+            logger.error(f"求解失败: {e}")
+            return CalculationResult(
+                success=False,
+                result=None,
+                error=str(e)
+            )
+    
+    def substitute_values(self, formula_id: str,
+                         values: Dict[str, float]) -> CalculationResult:
+        """代入数值"""
+        try:
+            formula = self.get_formula(formula_id)
+            if not formula:
+                return CalculationResult(
+                    success=False,
+                    result=None,
+                    error=f"公式不存在: {formula_id}"
+                )
+            
+            result = self.library.substitute_values(
+                formula.formula_str, values
+            )
+            
+            return CalculationResult(
+                success=True,
+                result=result,
+                formula_id=formula_id,
+                description=f"代入数值计算",
+                timestamp=datetime.now().isoformat()
+            )
+        except Exception as e:
+            logger.error(f"代入失败: {e}")
+            return CalculationResult(
+                success=False,
+                result=None,
+                error=str(e)
+            )
+    
+    def validate_formula_dimensions(self, formula_id: str) -> Dict[str, Any]:
+        """验证量纲"""
+        try:
+            result = self.library.check_dimension(formula_id)
+            logger.info(f"✓ 量纲检查完成")
+            return result
+        except Exception as e:
+            logger.error(f"量纲检查失败: {e}")
+            return {'status': 'error', 'error': str(e)}
+    
+    def get_library_statistics(self) -> Dict[str, Any]:
+        """获取统计"""
+        stats = self.library.get_statistics()
+        stats['formulas_by_category'] = {
+            category: len(self.list_formulas(category))
+            for category in self.get_categories()
+        }
+        stats['total_categories'] = len(self.get_categories())
+        return stats
+    
+    def _invalidate_cache(self):
+        """清空缓存"""
+        self._cache.clear()
+    
+    def export_formulas(self, filename: str, format: str = 'json') -> bool:
+        """导出公式"""
+        try:
+            if format == 'json':
+                self.library.export_to_json(filename)
+            else:
+                logger.warning(f"不支持的格式: {format}")
+                return False
+            logger.info(f"✓ 已导出到 {filename}")
+            return True
+        except Exception as e:
+            logger.error(f"导出失败: {e}")
+            return False
+
+
+class DimensionValidatorService:
+    """量纲验证服务"""
+    
+    def __init__(self, library: UnifiedFormulaLibrary):
+        """初始化"""
+        self.library = library
+        self.analyzer = library.dimension_analyzer
+    
+    def validate_formula(self, formula_str: str,
+                        quantities: Optional[List[PhysicalQuantity]] = None) -> Dict[str, Any]:
+        """验证公式"""
+        formula = PhysicalFormula(
+            id="temp",
+            name_zh="临时公式",
+            name_en="temporary formula",
+            formula_str=formula_str,
+            quantities=quantities or []
+        )
+        return self.analyzer.check_consistency(formula)
+    
+    def get_quantity_dimension(self, symbol: str) -> Optional[DimensionType]:
+        """获取量纲"""
+        qty = self.library.quantities.get(symbol)
+        if qty:
+            return qty.dimension
+        return self.analyzer.get_dimension(symbol)
+
+
+class FormulaDerivationService:
+    """推导服务"""
+    
+    def __init__(self, library: UnifiedFormulaLibrary):
+        """初始化"""
+        self.library = library
+    
+    def record_derivation(self, source_formula_id: str, operation: str,
+                         variable: str, result_formula: str,
+                         steps: Optional[List[str]] = None) -> FormulaDerivation:
+        """记录推导"""
+        derivation = FormulaDerivation(
+            source_formula_id=source_formula_id,
+            operation=operation,
+            variable=variable,
+            result_formula=result_formula,
+            steps=steps or []
+        )
+        self.library.derivations.append(derivation)
+        return derivation
+
+
+class CacheService:
+    """缓存服务"""
+    
+    def __init__(self, ttl_seconds: int = 3600):
+        """初始化"""
+        self._cache = {}
+        self._timestamps = {}
+        self.ttl = ttl_seconds
+    
+    def get(self, key: str) -> Optional[Any]:
+        """获取"""
+        if key not in self._cache:
             return None
-        
-        result = formula.to_dict()
-        
-        # 添加推导信息
-        derivations = self.session.query(DerivationDB).filter(
-            DerivationDB.formula_id == formula_id
-        ).all()
-        result['derivations'] = [d.to_dict() for d in derivations]
-        
-        # 添加量纲检查信息
-        dim_check = self.session.query(DimensionCheckDB).filter(
-            DimensionCheckDB.formula_id == formula_id
-        ).order_by(DimensionCheckDB.checked_at.desc()).first()
-        
-        if dim_check:
-            result['dimension_check'] = dim_check.to_dict()
-        
-        # 缓存结果
-        self._cache[formula_id] = result
-        
-        return result
+        timestamp = self._timestamps.get(key)
+        if timestamp and (datetime.now().timestamp() - timestamp) > self.ttl:
+            del self._cache[key]
+            del self._timestamps[key]
+            return None
+        return self._cache[key]
     
-    def search_formulas(
-        self,
-        keyword: str,
-        search_type: str = 'all',
-        category: str = None,
-        limit: int = 50
-    ) -> Dict[str, Any]:
-        """搜索公式
-        
-        Args:
-            keyword: 搜索关键字
-            search_type: 搜索类型 (all, name, description, category)
-            category: 可选的分类过滤
-            limit: 结果数量限制
-        
-        Returns:
-            搜索结果
-        """
-        try:
-            # 使用查询助手进行搜索
-            results = self.query_helper.search_formulas(
-                keyword=keyword,
-                search_type=search_type,
-                limit=limit
-            )
-            
-            # 过滤分类（如果指定）
-            if category:
-                results = [f for f in results if f.category == category]
-            
-            return {
-                'success': True,
-                'count': len(results),
-                'keyword': keyword,
-                'results': [f.to_dict() for f in results]
-            }
-        
-        except Exception as e:
-            return {
-                'success': False,
-                'error': str(e)
-            }
+    def set(self, key: str, value: Any):
+        """设置"""
+        self._cache[key] = value
+        self._timestamps[key] = datetime.now().timestamp()
     
-    def validate_formula_dimension(self, formula_id: str) -> Dict[str, Any]:
-        """验证公式的量纲一致性
-        
-        Args:
-            formula_id: 公式ID
-        
-        Returns:
-            验证结果
-        """
-        try:
-            formula = self.query_helper.get_formula_by_id(formula_id)
-            
-            if not formula:
-                return {'success': False, 'error': '公式不存在'}
-            
-            # 使用库的验证方法
-            validation = DimensionAnalyzer.check_consistency(
-                PhysicalFormula(
-                    id=formula.id,
-                    name_zh=formula.name_zh,
-                    name_en=formula.name_en,
-                    formula_str=formula.formula_str,
-                    latex_str=formula.latex_str
-                )
-            )
-            
-            # 保存验证结果到数据库
-            dim_check = DimensionCheckDB(
-                formula_id=formula_id,
-                left_side_expr=formula.formula_str.split('=')[0].strip() if '=' in formula.formula_str else '',
-                right_side_expr=formula.formula_str.split('=')[1].strip() if '=' in formula.formula_str else '',
-                is_consistent=validation.get('is_consistent', False),
-                all_symbols=list(validation.get('left_symbols', []) | validation.get('right_symbols', [])),
-                undefined_symbols=validation.get('undefined_symbols', [])
-            )
-            
-            self.session.add(dim_check)
-            
-            # 更新公式的验证状态
-            formula.is_validated = True
-            formula.validation_status = 'PASS' if validation.get('is_consistent') else 'FAIL'
-            
-            self.session.commit()
-            
-            return {
-                'success': True,
-                'formula_id': formula_id,
-                'is_consistent': validation.get('is_consistent'),
-                'details': validation
-            }
-        
-        except Exception as e:
-            self.session.rollback()
-            return {
-                'success': False,
-                'error': str(e)
-            }
-    
-    def derive_formula(
-        self,
-        formula_id: str,
-        operation: str,
-        **kwargs
-    ) -> Dict[str, Any]:
-        """推导公式
-        
-        Args:
-            formula_id: 公式ID
-            operation: 操作类型 (derivative, integrate, transform)
-            **kwargs: 操作参数
-                - variable: 求导/积分的变量
-                - order: 求导阶数
-        
-        Returns:
-            推导结果
-        """
-        try:
-            formula = self.query_helper.get_formula_by_id(formula_id)
-            
-            if not formula:
-                return {'success': False, 'error': '公式不存在'}
-            
-            result_formula_str = None
-            steps = []
-            
-            # 执行操作
-            if operation == 'derivative':
-                variable = kwargs.get('variable')
-                order = kwargs.get('order', 1)
-                
-                result_formula_str = self.lib.derive_formula(
-                    formula.formula_str,
-                    variable,
-                    order
-                )
-                steps.append(f"对 {variable} 求 {order} 阶导数")
-            
-            elif operation == 'integrate':
-                variable = kwargs.get('variable')
-                result_formula_str = self.lib.integrate_formula(
-                    formula.formula_str,
-                    variable
-                )
-                steps.append(f"对 {variable} 积分")
-            
-            elif operation == 'solve':
-                variable = kwargs.get('variable')
-                solutions = self.lib.solve_for_variable(
-                    formula.formula_str,
-                    variable
-                )
-                result_formula_str = f"[{', '.join(solutions)}]"
-                steps.append(f"解出 {variable}")
-            
-            # 保存推导记录
-            derivation = DerivationDB(
-                formula_id=formula_id,
-                source_formula_str=formula.formula_str,
-                operation=operation,
-                operation_details=kwargs,
-                result_formula_str=result_formula_str,
-                result_latex=self.lib.parse_to_latex(result_formula_str) if result_formula_str else '',
-                steps=steps
-            )
-            
-            self.session.add(derivation)
-            self.session.commit()
-            
-            # 清除缓存
-            self._clear_cache(formula_id)
-            
-            return {
-                'success': True,
-                'derivation_id': derivation.id,
-                'operation': operation,
-                'source': formula.formula_str,
-                'result': result_formula_str,
-                'steps': steps
-            }
-        
-        except Exception as e:
-            self.session.rollback()
-            return {
-                'success': False,
-                'error': str(e)
-            }
-    
-    def get_statistics(self) -> Dict[str, Any]:
-        """获取统计信息"""
-        return self.query_helper.get_statistics()
-    
-    def get_formulas_by_category(self, category: str) -> List[Dict[str, Any]]:
-        """按分类获取公式"""
-        formulas = self.query_helper.get_formulas_by_category(category)
-        return [f.to_dict() for f in formulas]
-    
-    def get_recent_formulas(self, days: int = 7) -> List[Dict[str, Any]]:
-        """获取最近添加的公式"""
-        formulas = self.query_helper.get_recent_formulas(days)
-        return [f.to_dict() for f in formulas]
-    
-    # 私有方法
-    
-    def _generate_formula_hash(self, name_zh: str, formula_str: str) -> str:
-        """生成公式哈希值用于去重"""
-        content = f"{name_zh}_{formula_str}"
-        return hashlib.md5(content.encode()).hexdigest()
-    
-    def _validate_formula_format(self, formula_str: str) -> Dict[str, Any]:
-        """验证公式格式"""
-        if not formula_str:
-            return {'valid': False, 'error': '公式不能为空'}
-        
-        if '=' not in formula_str:
-            return {'valid': False, 'error': '公式必须包含等号'}
-        
-        try:
-            self.lib.parse_formula_string(formula_str)
-            return {'valid': True}
-        except Exception as e:
-            return {'valid': False, 'error': str(e)}
-    
-    def _extract_quantities(self, formula_str: str) -> List[str]:
-        """从公式字符串中提取物理量符号"""
-        import re
-        # 匹配所有单个字母或希腊字母
-        symbols = set()
-        for match in re.finditer(r'[a-zA-Z_]\w*', formula_str):
-            symbol = match.group()
-            # 排除数字和常见函数名
-            if symbol not in ['sin', 'cos', 'tan', 'sqrt', 'exp', 'log', 'e', 'pi']:
-                symbols.add(symbol[0])  # 取第一个字符作为符号
-        
-        return list(symbols)
-    
-    def _clear_cache(self, formula_id: str = None):
-        """清除缓存"""
-        if formula_id:
-            self._cache.pop(formula_id, None)
+    def invalidate(self, key: Optional[str] = None):
+        """清除"""
+        if key:
+            self._cache.pop(key, None)
+            self._timestamps.pop(key, None)
         else:
             self._cache.clear()
+            self._timestamps.clear()
