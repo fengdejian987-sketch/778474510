@@ -12,14 +12,21 @@ class DatabaseSettings(BaseSettings):
     """数据库配置"""
     driver: str = "postgresql"
     user: str = os.getenv("DB_USER", "postgres")
-    password: str = os.getenv("DB_PASSWORD", "password")
+    # 不再使用弱默认密码。生产环境应通过环境变量或密钥管理注入密码。
+    password: Optional[str] = os.getenv("DB_PASSWORD")
     host: str = os.getenv("DB_HOST", "localhost")
     port: int = int(os.getenv("DB_PORT", "5432"))
     database: str = os.getenv("DB_NAME", "formula_db")
     
     @property
     def url(self) -> str:
-        return f"{self.driver}://{self.user}:{self.password}@{self.host}:{self.port}/{self.database}"
+        """构造数据库连接 URL。
+        如果未提供密码则不在 URL 中包含密码段，以避免将敏感信息写入日志或错误中。
+        """
+        user = self.user or ""
+        pwd = f":{self.password}" if self.password else ""
+        host = self.host or "localhost"
+        return f"{self.driver}://{user}{pwd}@{host}:{self.port}/{self.database}"
     
     class Config:
         env_prefix = "DATABASE_"
@@ -68,9 +75,10 @@ class APISettings(BaseSettings):
 
 class Settings(BaseSettings):
     """全局应用配置"""
-    # 环境
-    environment: str = os.getenv("ENVIRONMENT", "development")
-    debug: bool = environment == "development"
+    # 环境：默认 production，开发时请在 .env 或 CI 中设置 ENVIRONMENT=development
+    environment: str = os.getenv("ENVIRONMENT", "production")
+    # 明确使用 DEBUG 环境变量作为主开关（避免依赖隐式环境名判断）
+    debug: bool = os.getenv("DEBUG", "False").lower() == "true"
     
     # 子配置
     database: DatabaseSettings = DatabaseSettings()
@@ -83,7 +91,7 @@ class Settings(BaseSettings):
     
     # 缓存配置
     cache_ttl_seconds: int = int(os.getenv("CACHE_TTL", "3600"))
-    
+
     class Config:
         env_file = ".env"
         case_sensitive = False
@@ -91,3 +99,5 @@ class Settings(BaseSettings):
 
 # 全局配置实例
 settings = Settings()
+# 仅在应用入口处调用 settings.validate_production_settings() 来触发生产级校验，
+# 避免在导入模块时抛出异常（依赖注入/测试时更灵活）。
