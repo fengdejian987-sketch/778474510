@@ -1,2 +1,13 @@
 version: "1.0"
 settings: {}
+
+# Default application configuration — added by Copilot
+debug: false
+logging:
+  level: INFO
+database:
+  host: localhost
+  port: 5432
+  name: app_db
+features:
+  enable_feature_x: false
