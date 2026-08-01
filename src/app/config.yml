@@ -1,2 +1,18 @@
 version: "1.0"
 settings: {}
+
+# Default application configuration — use environment variables or secret manager for sensitive values
+# Do NOT commit production credentials into the repository.
+# For local development, copy .env.example -> .env and fill values as needed.
+
+debug: ${APP_DEBUG:-false}
+logging:
+  level: ${LOG_LEVEL:-INFO}
+database:
+  host: ${DB_HOST:-localhost}
+  port: ${DB_PORT:-5432}
+  name: ${DB_NAME:-app_db}
+  user: ${DB_USER:-postgres}
+  password: ${DB_PASSWORD:-}
+features:
+  enable_feature_x: ${FEATURE_X_ENABLED:-false}

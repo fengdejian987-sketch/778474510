@@ -1,0 +1,11 @@
+transformers
+datasets
+evaluate
+sacrebleu
+torch
+accelerate
+sentencepiece
+tokenizers
+sympy
+huggingface_hub
+python-dotenv
