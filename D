@@ -1,0 +1,272 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Usage: ./create_and_commit_run.sh [branch] [run-note]# 用法：./create_and_commit_run.sh [分支] [运行备注]
+# Example: ./create_and_commit_run.sh feature/security/config-secrets-fix "add run package and missing files"# 示例：./create_and_commit_run.sh feature/security/config-secrets-fix "添加运行包及缺失文件"
+BRANCH=${1:-feature/security/config-secrets-fix}
+RUN_NOTE=${2:-"auto-run"}
+
+TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
+RUN_DIR="runs/run-${TIMESTAMP}"
+mkdir -p "${RUN_DIR}/optional"
+mkdir -p training
+mkdir -p inference
+mkdir -p .github/workflows
+mkdir -p docs
+
+echo "Switching to branch: ${BRANCH}"
+git fetch origin
+if git show-ref --verify --quiet "refs/heads/${BRANCH}"; then
+  git checkout "${BRANCH}"
+else
+  # try to create from origin branch if exists
+  if git ls-remote --exit-code --heads origin "${BRANCH}" >/dev/null 2>&1; then
+    git checkout -b "${BRANCH}" "origin/${BRANCH}"
+  else
+    git checkout -b "${BRANCH}"
+  fi
+fi
+
+# write training/callbacks.py
+cat > training/callbacks.py <<'PY'
+from transformers import TrainerCallback
+
+class CompositeMetricCallback(TrainerCallback):
+    """Trainer callback to synthesize a composite metric from available eval metrics.
+    Composite metric example:
+      composite = 0.4 * bleu + 0.3 * (parse_rate * 100) + 0.3 * (dim_rate * 100)
+    """
+    def on_evaluate(self, args, state, control, metrics=None, **kwargs):
+        if metrics is None:
+            return
+        bleu = metrics.get('bleu', 0.0)
+        parse_rate = metrics.get('parse_rate')
+        dim_rate = metrics.get('dim_rate')
+        def norm(x):
+            if x is None:
+                return 0.0
+            try:
+                xv = float(x)
+                if xv > 1.5:
+                    return xv / 100.0
+                return xv
+            except Exception:
+                return 0.0
+        parse_rate = norm(parse_rate)
+        dim_rate = norm(dim_rate)
+        composite = 0.4 * bleu + 0.3 * (parse_rate * 100.0) + 0.3 * (dim_rate * 100.0)
+        metrics['composite_metric'] = composite
+PY
+
+# write inference/reranker_prod.py
+cat > inference/reranker_prod.py <<'PY'
+from typing import List, Dict, Tuple
+import sympy as sp
+from src.services.dimension_validator import DimensionValidator
+
+dv = DimensionValidator()
+
+def try_parse(expr_str: str) -> Tuple[bool, str]:
+    try:
+        expr = sp.sympify(expr_str)
+        return True, str(expr)
+    except Exception as e:
+        return False, str(e)
+
+def score_candidate(pred_text: str, model_logprob: float = None) -> Tuple[float, Dict]:
+    parse_ok, parse_info = try_parse(pred_text)
+    parse_score = 1.0 if parse_ok else 0.0
+    dim_res = dv.validate_formula(pred_text) if parse_ok else {'is_valid': False}
+    dim_ok = 1.0 if dim_res.get('is_valid') else 0.0
+    lm_score = 0.0
+    if model_logprob is not None:
+        try:
+            lm_score = -float(model_logprob)
+        except Exception:
+            lm_score = 0.0
+    score = (5.0 * parse_score) + (3.0 * dim_ok) + (0.1 * lm_score)
+    meta = {'parse_ok': bool(parse_ok), 'parse_info': parse_info, 'dim_ok': bool(dim_res.get('is_valid')), 'dim_details': dim_res}
+    return score, meta
+
+def rerank(candidates: List[Dict]) -> Tuple[Dict, List[Tuple[float, str, Dict]]]:
+    scored = []
+    for c in candidates:
+        text = c.get('text') or c.get('pred') or ''
+        lp = c.get('logprob')
+        s, meta = score_candidate(text, lp)
+        scored.append((s, text, meta))
+    scored.sort(reverse=True, key=lambda x: x[0])
+    best = {'text': scored[0][1], 'score': scored[0][0], 'meta': scored[0][2]} if scored else None
+    return best, scored
+
+if __name__ == '__main__':
+    cands = [
+        {'text': 'E = 1/2 * m * v ** 2', 'logprob': -10},
+        {'text': 'E = m * c ** 2', 'logprob': -12},
+        {'text': 'E = m + c', 'logprob': -5},
+    ]
+    best, scored = rerank(cands)
+    print('Best:', best)
+    print('All:', scored)
+PY
+
+# write .github/workflows/train-smoke.yml
+cat > .github/workflows/train-smoke.yml <<'YML'
+name: Train smoke (small)
+
+on:
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  smoke-train:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-training.txt || true
+
+      - name: Run smoke training script
+        run: |
+          bash scripts/run_smoke_train.sh
+
+      - name: Upload eval results
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-eval-results
+          path: outputs/mt5-smoke/eval_results.jsonl
+YML
+
+# write docs/MODEL_CARD.md
+cat > docs/MODEL_CARD.md <<'MD'
+# Model card (template)
+
+Model Details
+-------------
+- Model name: mt5-small / fine-tuned
+- License: specify license
+- Model type: sequence-to-sequence (T5 family)
+- Task: NL -> symbolic formula generation (physics/mathematics)
+
+Intended Use
+-------------
+- Assistive generation of symbolic formulas from short natural language descriptions.
+- NOT intended for making critical engineering/clinical/financial decisions without human review.
+
+Data
+----
+- Training data: mix of synthetic templates and curated labeled pairs (description -> canonical_formula).
+- Data sources and provenance must be recorded in the dataset manifest.
+
+Evaluation
+----------
+- Metrics used: parse success rate (sympy), dimensional-validity rate (domain validator), BLEU, composite metric.
+
+Safety & Limitations
+--------------------
+- Model can hallucinate physically incorrect formulas even when fluent; always validate with domain rules (sympy + dimension checks).
+- Not all mathematical notations are supported; canonicalization is required.
+MD
+
+# create run package placeholders
+cat > "${RUN_DIR}/run_manifest.json" <<JSON
+{
+  "run_id": "run-${TIMESTAMP}",
+  "run_note": "${RUN_NOTE}",
+  "branch": "${BRANCH}",
+  "commit": "$(git rev-parse --short HEAD)",
+  "author": "$(git config user.name) <$(git config user.email)>",
+  "timestamp_utc": "${TIMESTAMP}",
+  "entrypoint": "training/train_accelerate.py or scripts/run_smoke_train.sh",
+  "cmd_example": "bash scripts/run_smoke_train.sh",
+  "notes": "This package contains training/eval metadata and security scan placeholders. Replace placeholders with real outputs after running."
+}
+JSON
+
+cat > "${RUN_DIR}/training_args.json" <<JSON
+{
+  "model_name_or_path": "google/mt5-small",
+  "per_device_train_batch_size": 4,
+  "per_device_eval_batch_size": 4,
+  "num_train_epochs": 3,
+  "learning_rate": 5e-5,
+  "fp16": true,
+  "deepspeed_config": "configs/deepspeed_config.json (if used)"
+}
+JSON
+
+cat > "${RUN_DIR}/eval_results.jsonl" <<JSONL
+{"input":"动能公式，质量 m，速度 v","target":"E = 1/2 * m * v ** 2","pred":"E = 1/2 * m * v ** 2","parse_ok":true,"dim_ok":true,"notes":""}
+JSONL
+
+cat > "${RUN_DIR}/detect-secrets.output" <<TXT
+# detect-secrets scan placeholder
+# If you have actual .secrets.output from detect-secrets, overwrite this file with it.
+TXT
+
+cat > "${RUN_DIR}/trufflehog-report.json" <<JSON
+{
+  "note":"trufflehog JSON placeholder - replace with actual trufflehog-report.json from run","note":"trufflehog JSON 占位符 - 请用运行时生成的 trufflehog-report.json 替换",
+  "findings": []“发现”：[]
+}
+JSON
+
+cat > "${RUN_DIR}/artifacts_list.txt" <<TXT
+# If model checkpoints or large artifacts are stored externally, list them here.# 如果模型检查点或大型工件存储在外部，请在此处列出。# 如果模型检查点或大型工件存储在外部，请在此处列出。
+# Example:# 示例：# 示例：
+# s3://my-bucket/models/run-${TIMESTAMP}/pytorch_model.bin
+# gs://my-bucket/models/run-${TIMESTAMP}/pytorch_model.bin
+#
+# If storing in repo (not recommended for large files), place under ${RUN_DIR}/optional/# 如果存储在代码仓库中（不建议用于大文件），请放置于 ${RUN_DIR}/optional/ 目录下# 如果存储在代码仓库中（不建议用于大文件），请放置于 ${RUN_DIR}/optional/ 目录下# 如果存储在代码仓库中（不建议用于大文件），请放置于 ${RUN_DIR}/optional/ 目录下# 如果存储在代码仓库中（不建议用于大文件），请放置于 ${RUN_DIR}/optional/ 目录下
+TXT
+
+cat > "${RUN_DIR}/model_card.md" <<MD
+# Model card for run-${TIMESTAMP}# 用于 run-${TIMESTAMP} 的模型卡片
+
+- run_id: run-${TIMESTAMP}- 运行ID：run-${TIMESTAMP}
+- model: google/mt5-small (fine-tuned)- 模型：google/mt5-small（微调版）
+- training_args_file: training_args.json- 训练参数文件：training_args.json
+- eval_results_summary: eval_results.jsonl- 评估结果汇总：eval_results.jsonl
+- safety: Always validate predictions via sympy parse + dimension validator. Do not use in production without review.- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。- 安全性：始终通过 sympy 解析与量纲验证器对预测结果进行校验。未经审核，请勿在生产环境中使用。
+
+MD
+
+cat > "${RUN_DIR}/README_RUN.md" <<MD
+Run package generated at ${TIMESTAMP}在 ${TIMESTAMP} 生成的运行包
+
+How to reproduce (example):如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：如何复现（示例）：
+1. Prepare environment:1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：1. 准备环境：
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements-training.txt
+   pip install -r requirements-training-extra.txt  # if using accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeedpip install -r requirements-training-extra.txt # 如果使用 accelerate/deepspeed
+
+2. Run smoke training:2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：2. 运行冒烟训练：
+   bash scripts/run_smoke_train.sh
+
+3. After run, replace files in ${RUN_DIR} with real outputs:3. 运行结束后，用实际输出替换 ${RUN_DIR} 中的文件：
+   - eval_results.jsonl  (evaluation/evaluate.py output)- eval_results.jsonl (evaluation/evaluate.py 的输出)
+   - detect-secrets.output (artifact from GitHub Action)- detect-secrets.output (GitHub Action 的产物)- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）- detect-secrets.output（GitHub Action 的产物）
+   - trufflehog-report.json
+
+MD
+
+echo "Placeholder files created under ${RUN_DIR}"echo "已在 ${RUN_DIR} 下创建占位文件"
+
+# add & commit# 添加并提交
+git add training/callbacks.py inference/reranker_prod.py .github/workflows/train-smoke.yml docs/MODEL_CARD.md "${RUN_DIR}"
+git commit -m "chore(runs): add run package ${RUN_DIR} and missing training infra files"
+git push origin "${BRANCH}"
+
+echo "Files committed and pushed to ${BRANCH}."echo "文件已提交并推送到 ${BRANCH}。"
+echo "Please create a Pull Request (feature/security/config-secrets-fix -> main) or update existing PR."echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。"echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。"echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。"echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。"echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。"echo "请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。“请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。”echo “请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。”echo “请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。”echo “请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。”请创建一个 Pull Request（feature/security/config-secrets-fix -> main）或更新现有的 PR。”
