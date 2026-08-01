@@ -1,0 +1,3 @@
+# Additional training requirements for accelerate/deepspeed and constrained decoding
+accelerate
+deepspeed
