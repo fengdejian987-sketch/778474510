@@ -1,5 +1,6 @@
 import re
 from typing import Dict
+from functools import lru_cache
 
 class DimensionParser:
     """
@@ -27,30 +28,29 @@ class DimensionParser:
     _symbol_regex = re.compile(r"([A-Za-z_][A-Za-z0-9_]*)\s*(\*\*\s*([-+]?\d+))?")
 
     def parse_dimension(self, expression: str) -> Dict[str, int]:
-        """Parse a simple expression and return combined dimension as a dict.
+        """Wrapper: calls cached internal parser and returns a fresh dict copy."""
+        res = self._parse_dimension_cached(expression)
+        # return a shallow copy to avoid callers mutating cached dicts
+        return dict(res)
 
-        For unsupported symbols, it will skip them but include a note in returned dict
-        by adding a special key `_unknown_symbols` listing them.
-        """
-        expr = expression.replace(' ', '')
-        # split by * or / while keeping powers
+    @staticmethod
+    @lru_cache(maxsize=4096)
+    def _parse_dimension_cached(expression: str) -> Dict[str, int]:
+        expr = (expression or "").replace(' ', '')
         tokens = re.split(r'(?<!\*)[*/]', expr)
         result = {}
         unknown = set()
 
         for token in tokens:
-            # handle parentheses by stripping them for now
             token = token.strip('()')
-            m = self._symbol_regex.match(token)
+            m = DimensionParser._symbol_regex.match(token)
             if not m:
-                # try to extract symbol and power via simple patterns
-                # if fails, mark unknown
                 unknown.add(token)
                 continue
             symbol = m.group(1)
             power = int(m.group(3)) if m.group(3) else 1
 
-            base = self._base_map.get(symbol)
+            base = DimensionParser._base_map.get(symbol)
             if base is None:
                 unknown.add(symbol)
                 continue

@@ -23,9 +23,10 @@ import logging
 import os
 import json
 from pathlib import Path
+import multiprocessing
 
 import evaluate
-from datasets import load_dataset, load_metric
+from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
     AutoConfig,
@@ -56,6 +57,7 @@ def parse_args():
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--max_source_length", type=int, default=128)
     parser.add_argument("--max_target_length", type=int, default=128)
+    parser.add_argument("--num_proc", type=int, default=0, help="num_proc for datasets.map; 0 -> auto")
     return parser.parse_args()
 
 
@@ -80,21 +82,46 @@ def main():
         data_files["validation"] = args.eval_file
     ds = load_dataset("json", data_files=data_files)
 
-    # preprocess
-    def preprocess_sample(ex):
-        # input: description; target: canonical_formula
-        source = ex.get("description") or ex.get("input")
-        target = ex.get("formula") or ex.get("target") or ex.get("canonical_formula")
-        if source is None or target is None:
-            return {"input_ids": [], "labels": []}
-        source = "<FORMULA> " + source.strip() + " </FORMULA>"
-        model_inputs = tokenizer(source, max_length=args.max_source_length, truncation=True)
+    # determine num_proc
+    if args.num_proc and args.num_proc > 0:
+        num_proc = args.num_proc
+    else:
+        try:
+            cpu_count = multiprocessing.cpu_count()
+            num_proc = max(1, min(4, cpu_count - 1))
+        except Exception:
+            num_proc = 1
+
+    # batched preprocessing to speed up tokenization
+    def preprocess_batch(batch):
+        # detect input & target column names
+        if "description" in batch:
+            srcs = batch["description"]
+        elif "input" in batch:
+            srcs = batch["input"]
+        else:
+            # fallback: take first key
+            key = next(iter(batch.keys()))
+            srcs = batch[key]
+
+        tgt_key = None
+        for k in ("formula", "target", "canonical_formula"):
+            if k in batch:
+                tgt_key = k
+                break
+
+        targets = batch[tgt_key] if tgt_key else [""] * len(srcs)
+        sources = [("<FORMULA> " + (s or "").strip() + " </FORMULA>") for s in srcs]
+
+        model_inputs = tokenizer(sources, max_length=args.max_source_length, truncation=True, padding=False)
         with tokenizer.as_target_tokenizer():
-            labels = tokenizer(target, max_length=args.max_target_length, truncation=True)
+            labels = tokenizer(targets, max_length=args.max_target_length, truncation=True, padding=False)
         model_inputs["labels"] = labels["input_ids"]
         return model_inputs
 
-    tokenized = ds.map(lambda ex: preprocess_sample(ex), batched=False)
+    # map with batching & parallelism; remove original columns to keep dataset small
+    remove_cols = ds["train"].column_names if "train" in ds else None
+    tokenized = ds.map(preprocess_batch, batched=True, num_proc=num_proc, remove_columns=remove_cols)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
@@ -105,6 +132,8 @@ def main():
         per_device_train_batch_size=args.per_device_train_batch_size,
         per_device_eval_batch_size=args.per_device_eval_batch_size,
         predict_with_generate=True,
+        generation_max_length=args.max_target_length,
+        generation_num_beams=4,
         fp16=True,
         num_train_epochs=args.num_train_epochs,
         learning_rate=args.learning_rate,
@@ -143,12 +172,16 @@ def main():
     # save tokenizer
     tokenizer.save_pretrained(args.output_dir)
 
-    # run a post-evaluation script if eval dataset exists
+    # run a post-evaluation script if eval dataset exists (call in-process, batched)
     if "validation" in tokenized:
         post_eval_path = Path(args.output_dir) / "post_eval_results.json"
         logger.info("Running post-eval (detailed) -> %s", post_eval_path)
-        # call evaluate script (in same repo)
-        os.system(f"python evaluate/evaluate.py --model_dir {args.output_dir} --eval_file {args.eval_file} --output {post_eval_path}")
+        # call evaluate function inside repo (avoid spawning new process)
+        try:
+            from evaluate.evaluate import evaluate_model
+            evaluate_model(args.output_dir, args.eval_file, str(post_eval_path), max_length=args.max_target_length, batch_size=args.per_device_eval_batch_size)
+        except Exception as e:
+            logger.exception("Post-eval failed: %s", e)
 
 
 if __name__ == '__main__':

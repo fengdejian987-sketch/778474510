@@ -20,6 +20,7 @@ import argparse
 import logging
 import os
 from pathlib import Path
+import multiprocessing
 
 from datasets import load_dataset
 from transformers import (
@@ -51,6 +52,7 @@ def parse_args():
     parser.add_argument("--max_source_length", type=int, default=128)
     parser.add_argument("--max_target_length", type=int, default=128)
     parser.add_argument("--deepspeed_config", type=str, default=None)
+    parser.add_argument("--num_proc", type=int, default=0, help="num_proc for datasets.map; 0 -> auto")
     return parser.parse_args()
 
 
@@ -74,19 +76,42 @@ def main():
         data_files["validation"] = args.eval_file
     ds = load_dataset("json", data_files=data_files)
 
-    def preprocess_sample(ex):
-        source = ex.get("description") or ex.get("input")
-        target = ex.get("formula") or ex.get("target") or ex.get("canonical_formula")
-        if source is None or target is None:
-            return {}
-        source = "<FORMULA> " + source.strip() + " </FORMULA>"
-        model_inputs = tokenizer(source, max_length=args.max_source_length, truncation=True)
+    # determine num_proc
+    if args.num_proc and args.num_proc > 0:
+        num_proc = args.num_proc
+    else:
+        try:
+            cpu_count = multiprocessing.cpu_count()
+            num_proc = max(1, min(4, cpu_count - 1))
+        except Exception:
+            num_proc = 1
+
+    def preprocess_batch(batch):
+        if "description" in batch:
+            srcs = batch["description"]
+        elif "input" in batch:
+            srcs = batch["input"]
+        else:
+            key = next(iter(batch.keys()))
+            srcs = batch[key]
+
+        tgt_key = None
+        for k in ("formula", "target", "canonical_formula"):
+            if k in batch:
+                tgt_key = k
+                break
+
+        targets = batch[tgt_key] if tgt_key else [""] * len(srcs)
+        sources = [("<FORMULA> " + (s or "").strip() + " </FORMULA>") for s in srcs]
+
+        model_inputs = tokenizer(sources, max_length=args.max_source_length, truncation=True, padding=False)
         with tokenizer.as_target_tokenizer():
-            labels = tokenizer(target, max_length=args.max_target_length, truncation=True)
+            labels = tokenizer(targets, max_length=args.max_target_length, truncation=True, padding=False)
         model_inputs["labels"] = labels["input_ids"]
         return model_inputs
 
-    tokenized = ds.map(lambda ex: preprocess_sample(ex), batched=False)
+    remove_cols = ds["train"].column_names if "train" in ds else None
+    tokenized = ds.map(preprocess_batch, batched=True, num_proc=num_proc, remove_columns=remove_cols)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
@@ -97,6 +122,8 @@ def main():
         per_device_train_batch_size=args.per_device_train_batch_size,
         per_device_eval_batch_size=args.per_device_eval_batch_size,
         predict_with_generate=True,
+        generation_max_length=args.max_target_length,
+        generation_num_beams=4,
         fp16=True,
         num_train_epochs=args.num_train_epochs,
         learning_rate=args.learning_rate,
@@ -104,7 +131,6 @@ def main():
         logging_dir=os.path.join(args.output_dir, "logs"),
         load_best_model_at_end=True if "validation" in tokenized else False,
         metric_for_best_model="bleu",
-        # enable deepspeed if provided
         deepspeed=args.deepspeed_config if args.deepspeed_config else None,
     )
 
