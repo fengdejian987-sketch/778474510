@@ -148,8 +148,19 @@ def main():
         if isinstance(preds, tuple):
             preds = preds[0]
         decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
+        # determine pad token id with safe fallback
+        pad_token_id = tokenizer.pad_token_id
+        if pad_token_id is None:
+            pad_token_id = getattr(tokenizer, 'eos_token_id', None) or getattr(tokenizer, 'unk_token_id', None)
+            if pad_token_id is None:
+                # try to derive from token strings
+                try:
+                    pad_token = tokenizer.pad_token or tokenizer.eos_token or tokenizer.unk_token
+                    pad_token_id = tokenizer.convert_tokens_to_ids(pad_token) if pad_token else 0
+                except Exception:
+                    pad_token_id = 0
         # replace -100 in labels as tokenizer.pad_token_id
-        labels = [[(l if l != -100 else tokenizer.pad_token_id) for l in label] for label in labels]
+        labels = [[(l if l != -100 else pad_token_id) for l in label] for label in labels]
         decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
         # sacrebleu expects list of references per prediction
         decoded_labels_refs = [[l] for l in decoded_labels]

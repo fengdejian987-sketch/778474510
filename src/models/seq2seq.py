@@ -57,5 +57,12 @@ class FormulaSeq2SeqModel:
 
     def generate(self, description: str, max_length=128) -> str:
         input_ids = self.tokenizer.encode(description, return_tensors='pt')
+        # ensure input is on the same device as the model
+        try:
+            device = next(self.model.parameters()).device
+            input_ids = input_ids.to(device)
+        except StopIteration:
+            # model has no parameters (edge case), keep cpu
+            pass
         outputs = self.model.generate(input_ids, max_length=max_length, num_beams=4)
         return self.tokenizer.decode(outputs[0], skip_special_tokens=True)
